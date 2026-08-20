@@ -19,34 +19,3 @@ Make sure you have Python installed, then install the required libraries:
 
 ```bash
 pip install pandas matplotlib seaborn streamlit plotly
-
-
-
-
-======================================================================
-        ORIONFLEET LOGISTICS - ADVANCED PROFIT LEAKAGE ANALYSIS
-======================================================================
-
-1. CASH FLOW & PAYMENT LEAKAGE
-   • Total Net Billed:               ₹41,347,142.30
-   • Uncollected Exposure (Leak):    ₹8,841,780.27 (21.38%)
-   • Leakage Breakdown by Status:
-     - Failed    : ₹3,201,291.09
-     - Pending   : ₹4,345,264.73
-     - Refunded  : ₹1,295,224.45
-
-   • Top Regions with Unpaid Exposure:
-     - Ahmedabad : ₹1,317,306.70
-     - Bengaluru : ₹1,314,457.20
-     - Delhi NCR : ₹1,286,621.17
-
-2. DISCOUNTING & MARGIN EROSION LEAKAGE
-   • Total Revenue Lost to Discounts: ₹1,958,612.30
-   • Negative Margin Transactions:     67 sales executed at a direct net loss
-   • Direct Loss from Negative Sales: ₹36,105.26
-   • Cause: 100% of negative margin sales occurred at 15% or 20% discount rates.
-
-3. CUSTOMER CHURN & CONTRACT VALUE LEAKAGE
-   • Lost ARR (Churned Customers):    ₹3,802,000.00
-   • At-Risk ARR (Vulnerable Base):   ₹7,838,855.00
-   • Combined ARR Value Exposure:     ₹11,640,855.00
