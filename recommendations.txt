@@ -1,0 +1,17 @@
+ORIONFLEET LOGISTICS - STRATEGIC RECOMMENDATIONS & ACTION PLAN
+
+1. Cap Sales Discounts at 10% Maximum
+• What the data showed: We found that 67 transactions were executed at a direct financial loss, losing us ₹36,105. Every single one of these negative-margin sales happened when sales reps gave 15% or 20% discounts. Overall, discounts cost the company ₹19.58 Lakhs in margin erosion.
+• Action: Set a strict cap of 10% on discounts across all sales channels. Any discount above 10% should require explicit approval from finance to ensure the transaction remains profitable.
+
+2. Fix Payment Collection Bottlenecks
+• What the data showed: Over 21% of billed revenue (₹88.42 Lakhs) is currently uncollected due to pending payments (₹43.45 L), failed transactions (₹32.01 L), and refunds (₹12.95 L). The top uncollected revenue hotspots are Ahmedabad (₹13.17 L) and Bengaluru (₹13.14 L).
+• Action: Implement automated payment retry systems for credit card and bank failures. Assign dedicated collections follow-up teams specifically to top regional hotspots like Ahmedabad and Bengaluru to recover pending cash flow.
+
+3. Proactive Outreach for At-Risk Customers
+• What the data showed: 128 accounts are currently marked as 'At Risk' and 60 accounts have already 'Churned'. Combined, these vulnerable accounts represent over ₹1.16 Crores in Annual Recurring Revenue (ARR).
+• Action: Mobilize the Customer Success team to directly reach out to all 128 'At Risk' clients 60–90 days prior to contract renewal. Offer technical check-ins or customized onboarding support to prevent them from churning.
+
+4. Streamline High-Priority Support Escalations
+• What the data showed: High and Critical priority support tickets make up over 24% of total ticket volume, with hardware installation and connectivity being the most common issue categories. Slow resolution directly impacts client satisfaction (CSAT) and drives account churn.
+• Action: Establish dedicated escalation queues for High and Critical tickets related to installation and tracking hardware, reducing resolution SLA targets to protect client retention.
