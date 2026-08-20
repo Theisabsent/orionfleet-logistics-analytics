@@ -1,0 +1,651 @@
+activity_id,customer_id,activity_date,campaign,channel,engagement_score,converted
+M80000,C10335,2026-04-25,Retention Outreach,LinkedIn,69.6,1
+M80001,C10115,2026-07-09,Fleet Efficiency Q1,Email,63.6,0
+M80002,C10485,2025-09-12,Retention Outreach,Search,34.8,0
+M80003,C10390,2026-02-04,Analytics Launch,Webinar,67.2,0
+M80004,C10173,2026-04-02,Driver Safety,Email,65.8,0
+M80005,C10964,2026-07-27,Year-End Upgrade,Email,65.9,0
+M80006,C10762,2026-01-13,Retention Outreach,LinkedIn,64.9,0
+M80007,C10545,2025-05-23,Fleet Efficiency Q1,Email,49.0,0
+M80008,C10765,2025-07-18,Analytics Launch,Event,73.8,0
+M80009,C10312,2025-05-02,Driver Safety,Event,48.2,1
+M80010,C10935,2025-04-25,Analytics Launch,Email,40.5,0
+M80011,C10411,2025-06-27,Partner Referral,Search,75.5,0
+M80012,C10386,2025-10-17,Retention Outreach,Search,80.7,0
+M80013,C10568,2026-04-02,Driver Safety,Email,74.1,0
+M80014,C10578,2025-06-18,Analytics Launch,Webinar,57.9,1
+M80015,C10619,2025-04-19,Year-End Upgrade,Event,23.2,0
+M80016,C10832,2025-03-15,Analytics Launch,Webinar,91.6,0
+M80017,C10267,2025-04-24,Fleet Efficiency Q1,Event,22.9,0
+M80018,C10707,2025-09-09,Retention Outreach,Webinar,73.7,0
+M80019,C10197,2025-08-27,Driver Safety,Webinar,100.0,0
+M80020,C10240,2025-08-20,Fleet Efficiency Q1,Event,65.0,0
+M80021,C10495,2025-07-04,Partner Referral,Partner,67.8,0
+M80022,C10524,2025-09-20,Year-End Upgrade,Partner,69.6,0
+M80023,C10644,2026-01-10,Fleet Efficiency Q1,Partner,66.0,0
+M80024,C10139,2025-01-26,Partner Referral,Email,100.0,0
+M80025,C10816,2026-06-01,Driver Safety,Partner,45.1,1
+M80026,C10557,2025-06-27,Retention Outreach,Partner,42.6,0
+M80027,C10592,2025-03-22,Retention Outreach,Search,55.4,0
+M80028,C10747,2025-04-12,Analytics Launch,Webinar,96.8,0
+M80029,C10692,2025-11-14,Year-End Upgrade,Partner,50.5,1
+M80030,C10428,2025-10-30,Year-End Upgrade,Email,70.6,0
+M80031,C10483,2025-02-21,Analytics Launch,Webinar,83.4,0
+M80032,C10232,2025-10-17,Retention Outreach,Partner,77.6,0
+M80033,C10566,2025-05-09,Analytics Launch,LinkedIn,82.4,0
+M80034,C10202,2026-06-13,Fleet Efficiency Q1,LinkedIn,90.4,0
+M80035,C10635,2025-06-29,Driver Safety,Email,68.2,0
+M80036,C10417,2026-08-03,Analytics Launch,LinkedIn,52.9,0
+M80037,C10236,2025-12-02,Year-End Upgrade,Search,64.9,0
+M80038,C10475,2026-07-14,Year-End Upgrade,Event,55.2,0
+M80039,C10934,2025-11-18,Year-End Upgrade,Email,100.0,0
+M80040,C10562,2025-03-15,Analytics Launch,Webinar,51.3,0
+M80041,C10345,2026-01-08,Driver Safety,Email,71.7,0
+M80042,C10450,2025-10-05,Fleet Efficiency Q1,Partner,32.0,1
+M80043,C10604,2026-04-20,Driver Safety,Search,64.7,0
+M80044,C10153,2025-08-16,Partner Referral,Search,56.3,0
+M80045,C10560,2025-04-19,Analytics Launch,Event,75.5,0
+M80046,C10033,2025-03-07,Partner Referral,Partner,76.0,1
+M80047,C10853,2026-03-08,Fleet Efficiency Q1,Email,90.3,0
+M80048,C10609,2025-05-16,Fleet Efficiency Q1,LinkedIn,88.8,0
+M80049,C10113,2026-01-22,Fleet Efficiency Q1,LinkedIn,60.7,0
+M80050,C10465,2025-03-19,Analytics Launch,Webinar,43.1,0
+M80051,C10884,2025-02-16,Analytics Launch,Partner,45.5,0
+M80052,C10964,2026-02-17,Fleet Efficiency Q1,Webinar,68.1,1
+M80053,C10137,2025-07-19,Year-End Upgrade,Search,65.2,1
+M80054,C10270,2025-11-26,Fleet Efficiency Q1,Partner,67.2,0
+M80055,C10144,2025-01-17,Analytics Launch,Partner,51.3,0
+M80056,C10368,2025-04-20,Analytics Launch,Email,90.7,1
+M80057,C10862,2025-02-22,Fleet Efficiency Q1,Webinar,32.5,1
+M80058,C10706,2025-06-12,Fleet Efficiency Q1,Partner,50.2,0
+M80059,C10257,2025-06-14,Partner Referral,Webinar,40.5,0
+M80060,C10325,2025-08-06,Retention Outreach,LinkedIn,57.8,1
+M80061,C10611,2025-05-22,Retention Outreach,Email,86.9,0
+M80062,C10596,2025-09-22,Analytics Launch,LinkedIn,56.2,0
+M80063,C10463,2026-06-07,Analytics Launch,Search,64.0,0
+M80064,C10421,2025-02-19,Partner Referral,Event,75.3,0
+M80065,C10934,2026-06-03,Retention Outreach,Webinar,55.3,0
+M80066,C10503,2025-08-28,Retention Outreach,Event,69.7,0
+M80067,C10782,2025-12-02,Year-End Upgrade,Email,67.0,1
+M80068,C10959,2026-01-25,Year-End Upgrade,Partner,39.4,0
+M80069,C10334,2026-03-03,Fleet Efficiency Q1,LinkedIn,52.7,1
+M80070,C10778,2026-07-02,Driver Safety,Webinar,69.1,1
+M80071,C10813,2026-08-03,Year-End Upgrade,Search,87.6,0
+M80072,C10219,2025-02-27,Partner Referral,Event,87.6,0
+M80073,C10225,2025-08-26,Year-End Upgrade,Partner,100.0,1
+M80074,C10161,2025-11-09,Analytics Launch,Search,71.7,0
+M80075,C10615,2025-10-31,Retention Outreach,Webinar,53.7,0
+M80076,C10761,2026-07-29,Year-End Upgrade,Partner,60.7,1
+M80077,C10751,2026-01-13,Year-End Upgrade,Partner,59.7,0
+M80078,C10387,2025-08-22,Partner Referral,Webinar,53.8,1
+M80079,C10703,2026-06-18,Driver Safety,Partner,69.7,0
+M80080,C10029,2026-02-28,Year-End Upgrade,Partner,70.6,0
+M80081,C10656,2026-04-08,Retention Outreach,Email,38.5,0
+M80082,C10474,2025-12-30,Year-End Upgrade,Search,83.8,0
+M80083,C10829,2025-02-07,Driver Safety,Event,25.3,0
+M80084,C10967,2026-07-17,Retention Outreach,LinkedIn,57.6,1
+M80085,C10556,2026-02-18,Analytics Launch,Partner,85.0,0
+M80086,C10621,2025-03-28,Partner Referral,Webinar,74.1,0
+M80087,C10928,2025-05-27,Driver Safety,LinkedIn,54.9,0
+M80088,C10343,2025-07-17,Partner Referral,Search,100.0,0
+M80089,C10144,2025-05-28,Retention Outreach,Search,53.2,0
+M80090,C10506,2025-12-27,Fleet Efficiency Q1,Email,22.0,0
+M80091,C10355,2025-11-14,Driver Safety,LinkedIn,71.1,0
+M80092,C10634,2025-05-04,Analytics Launch,Partner,26.4,1
+M80093,C10782,2026-02-08,Partner Referral,Event,45.4,0
+M80094,C10504,2025-06-16,Fleet Efficiency Q1,Event,74.5,0
+M80095,C10308,2025-04-03,Analytics Launch,Search,52.8,0
+M80096,C10564,2026-07-09,Fleet Efficiency Q1,Partner,73.6,0
+M80097,C10442,2025-07-02,Retention Outreach,Search,38.8,1
+M80098,C10185,2025-05-15,Partner Referral,Partner,79.2,0
+M80099,C10772,2026-02-20,Retention Outreach,Event,28.2,0
+M80100,C10332,2026-03-19,Driver Safety,Search,88.4,0
+M80101,C10538,2025-03-30,Partner Referral,Webinar,52.5,0
+M80102,C10908,2025-02-02,Year-End Upgrade,Event,92.6,0
+M80103,C10187,2026-05-08,Fleet Efficiency Q1,Email,45.2,1
+M80104,C10427,2025-10-20,Year-End Upgrade,LinkedIn,100.0,1
+M80105,C10174,2025-09-22,Year-End Upgrade,Webinar,42.8,0
+M80106,C10436,2025-09-01,Analytics Launch,LinkedIn,26.1,0
+M80107,C10301,2025-12-06,Retention Outreach,Partner,62.9,0
+M80108,C10915,2026-01-26,Driver Safety,LinkedIn,86.7,0
+M80109,C10303,2025-02-16,Analytics Launch,Search,77.8,0
+M80110,C10614,2025-06-03,Driver Safety,Partner,85.3,0
+M80111,C10136,2026-07-08,Retention Outreach,Webinar,78.2,0
+M80112,C10456,2025-04-07,Year-End Upgrade,Partner,45.6,0
+M80113,C10834,2026-06-11,Partner Referral,Webinar,77.3,0
+M80114,C10672,2025-08-21,Driver Safety,Webinar,63.9,0
+M80115,C10282,2025-04-21,Driver Safety,Webinar,47.8,0
+M80116,C10971,2025-12-11,Retention Outreach,Partner,65.6,0
+M80117,C10802,2026-01-20,Driver Safety,Event,60.9,0
+M80118,C10402,2025-07-22,Analytics Launch,Email,90.3,0
+M80119,C10973,2026-04-06,Driver Safety,Webinar,51.7,0
+M80120,C10187,2025-02-07,Year-End Upgrade,Partner,50.8,0
+M80121,C10331,2025-03-12,Partner Referral,Webinar,48.0,0
+M80122,C10930,2025-12-27,Partner Referral,Search,99.9,0
+M80123,C10970,2025-12-01,Year-End Upgrade,Partner,49.1,0
+M80124,C10823,2026-02-10,Analytics Launch,Search,87.9,0
+M80125,C10191,2026-05-09,Fleet Efficiency Q1,Email,41.4,0
+M80126,C10218,2026-06-24,Driver Safety,LinkedIn,72.1,0
+M80127,C10647,2025-10-21,Partner Referral,Email,67.3,0
+M80128,C10055,2025-10-18,Analytics Launch,Partner,86.7,0
+M80129,C10991,2026-06-20,Fleet Efficiency Q1,Event,83.8,0
+M80130,C10941,2026-07-12,Retention Outreach,Search,63.6,1
+M80131,C10808,2025-01-28,Year-End Upgrade,Partner,51.3,0
+M80132,C10968,2025-10-21,Driver Safety,Event,94.5,0
+M80133,C10229,2026-06-18,Year-End Upgrade,Search,49.3,1
+M80134,C10881,2025-01-30,Year-End Upgrade,Event,16.6,1
+M80135,C10257,2026-07-21,Analytics Launch,Email,24.8,0
+M80136,C10121,2026-03-11,Fleet Efficiency Q1,Partner,29.7,0
+M80137,C10262,2025-04-01,Fleet Efficiency Q1,Email,73.9,0
+M80138,C10774,2026-01-07,Retention Outreach,Partner,100.0,0
+M80139,C10942,2025-09-07,Partner Referral,Email,21.2,0
+M80140,C10611,2025-07-13,Year-End Upgrade,Partner,46.3,0
+M80141,C10245,2025-12-27,Retention Outreach,Search,63.8,0
+M80142,C10600,2026-03-03,Partner Referral,LinkedIn,92.9,0
+M80143,C10509,2026-06-03,Partner Referral,Webinar,46.2,0
+M80144,C10517,2025-08-31,Partner Referral,Event,73.8,0
+M80145,C10349,2025-04-03,Retention Outreach,Email,57.0,0
+M80146,C10138,2026-05-16,Retention Outreach,LinkedIn,100.0,0
+M80147,C10361,2025-07-13,Driver Safety,Webinar,64.9,0
+M80148,C10890,2026-03-17,Partner Referral,Email,69.1,0
+M80149,C10408,2026-04-08,Fleet Efficiency Q1,Event,63.7,1
+M80150,C10020,2025-02-03,Analytics Launch,Webinar,53.7,0
+M80151,C10345,2025-08-26,Fleet Efficiency Q1,Event,81.0,0
+M80152,C10460,2025-02-19,Driver Safety,Search,38.8,0
+M80153,C10599,2025-12-17,Partner Referral,Partner,22.0,0
+M80154,C10641,2026-04-07,Year-End Upgrade,LinkedIn,59.0,0
+M80155,C10425,2025-11-21,Fleet Efficiency Q1,Search,78.3,0
+M80156,C10143,2025-07-07,Retention Outreach,Search,50.4,0
+M80157,C10441,2026-07-19,Retention Outreach,Webinar,65.7,0
+M80158,C10003,2025-02-19,Driver Safety,LinkedIn,37.6,0
+M80159,C10505,2025-03-24,Analytics Launch,Webinar,83.3,0
+M80160,C10445,2025-08-01,Driver Safety,Event,75.0,1
+M80161,C10356,2026-07-05,Partner Referral,Email,62.4,1
+M80162,C10661,2026-06-03,Partner Referral,Partner,65.4,0
+M80163,C10754,2025-11-24,Year-End Upgrade,Event,34.1,0
+M80164,C10263,2026-07-07,Retention Outreach,Email,35.0,0
+M80165,C10503,2026-06-09,Partner Referral,Partner,59.6,1
+M80166,C10509,2025-12-07,Fleet Efficiency Q1,Search,72.3,0
+M80167,C10509,2025-03-10,Year-End Upgrade,Webinar,73.3,0
+M80168,C10403,2026-06-06,Partner Referral,LinkedIn,54.7,0
+M80169,C10209,2026-01-08,Analytics Launch,LinkedIn,76.9,0
+M80170,C10171,2025-03-23,Fleet Efficiency Q1,LinkedIn,90.4,0
+M80171,C10030,2026-05-03,Partner Referral,Email,60.2,0
+M80172,C10052,2025-08-20,Year-End Upgrade,Search,68.2,0
+M80173,C10809,2026-04-02,Driver Safety,Event,57.8,0
+M80174,C10069,2025-06-01,Partner Referral,Partner,59.5,0
+M80175,C10855,2025-01-06,Retention Outreach,LinkedIn,65.4,1
+M80176,C10896,2025-09-21,Analytics Launch,Webinar,96.1,0
+M80177,C10241,2025-09-20,Partner Referral,Email,80.3,0
+M80178,C10442,2026-05-16,Driver Safety,Email,78.5,0
+M80179,C10360,2025-03-08,Partner Referral,Webinar,52.9,0
+M80180,C10393,2026-06-14,Retention Outreach,LinkedIn,44.0,0
+M80181,C10358,2025-03-30,Driver Safety,Partner,69.8,0
+M80182,C10342,2026-06-27,Retention Outreach,Email,86.9,1
+M80183,C10684,2026-02-14,Fleet Efficiency Q1,Email,96.5,1
+M80184,C10412,2025-07-28,Year-End Upgrade,Partner,12.9,0
+M80185,C10187,2026-07-09,Fleet Efficiency Q1,LinkedIn,100.0,0
+M80186,C10378,2025-07-28,Year-End Upgrade,Email,70.3,0
+M80187,C10978,2026-01-03,Analytics Launch,Partner,80.2,1
+M80188,C10987,2025-01-10,Retention Outreach,Partner,27.2,0
+M80189,C10061,2025-03-01,Fleet Efficiency Q1,Event,57.3,0
+M80190,C10575,2025-07-24,Retention Outreach,Webinar,78.5,0
+M80191,C10973,2025-05-22,Retention Outreach,Search,38.5,0
+M80192,C10193,2025-05-12,Fleet Efficiency Q1,Partner,4.2,1
+M80193,C10068,2025-08-08,Retention Outreach,Partner,68.7,0
+M80194,C10211,2025-12-19,Retention Outreach,Webinar,61.0,0
+M80195,C10317,2025-03-14,Fleet Efficiency Q1,LinkedIn,90.8,0
+M80196,C10934,2026-03-13,Fleet Efficiency Q1,Event,58.8,1
+M80197,C10250,2026-05-07,Partner Referral,Partner,60.3,0
+M80198,C10331,2026-04-30,Year-End Upgrade,Event,76.0,0
+M80199,C10259,2025-04-23,Driver Safety,Webinar,82.7,0
+M80200,C10391,2026-05-26,Year-End Upgrade,Search,47.8,0
+M80201,C10994,2025-03-17,Year-End Upgrade,Event,80.9,0
+M80202,C10083,2025-03-04,Retention Outreach,Webinar,51.6,0
+M80203,C10458,2026-02-25,Driver Safety,Partner,62.3,1
+M80204,C10613,2026-03-18,Fleet Efficiency Q1,Event,75.4,0
+M80205,C10119,2025-03-15,Partner Referral,LinkedIn,78.9,0
+M80206,C10044,2025-08-30,Retention Outreach,LinkedIn,68.4,0
+M80207,C10982,2025-08-26,Retention Outreach,Email,40.4,0
+M80208,C10269,2026-02-24,Retention Outreach,Webinar,24.6,0
+M80209,C10242,2025-10-26,Fleet Efficiency Q1,Partner,58.2,0
+M80210,C10348,2025-12-15,Partner Referral,Event,81.4,0
+M80211,C10072,2025-02-16,Driver Safety,Email,71.0,1
+M80212,C10146,2026-07-21,Year-End Upgrade,Email,66.8,0
+M80213,C10024,2025-11-19,Year-End Upgrade,Partner,61.9,1
+M80214,C10534,2026-01-23,Retention Outreach,LinkedIn,68.2,0
+M80215,C10463,2025-10-06,Analytics Launch,Search,42.1,0
+M80216,C10274,2025-05-23,Driver Safety,Email,77.6,0
+M80217,C10918,2026-01-23,Fleet Efficiency Q1,Email,78.9,0
+M80218,C10305,2025-06-17,Analytics Launch,Webinar,54.9,0
+M80219,C10016,2025-05-08,Partner Referral,Partner,70.7,0
+M80220,C10099,2025-11-17,Partner Referral,Event,27.7,0
+M80221,C10725,2025-07-26,Retention Outreach,Search,65.6,0
+M80222,C10533,2026-06-03,Fleet Efficiency Q1,Webinar,59.3,1
+M80223,C10260,2026-01-18,Year-End Upgrade,Event,87.2,0
+M80224,C10247,2025-08-05,Analytics Launch,Search,58.0,0
+M80225,C10219,2025-01-21,Retention Outreach,LinkedIn,79.4,0
+M80226,C10421,2025-07-17,Driver Safety,Partner,54.2,0
+M80227,C10703,2025-03-09,Partner Referral,Email,16.3,0
+M80228,C10638,2025-05-08,Driver Safety,LinkedIn,57.5,0
+M80229,C10747,2025-06-14,Analytics Launch,Email,65.9,0
+M80230,C10041,2026-01-14,Partner Referral,Webinar,65.0,0
+M80231,C10559,2025-03-03,Partner Referral,LinkedIn,65.3,0
+M80232,C10764,2025-04-04,Year-End Upgrade,Search,51.9,0
+M80233,C10202,2025-01-23,Year-End Upgrade,Webinar,55.5,0
+M80234,C10582,2026-06-16,Retention Outreach,LinkedIn,39.5,0
+M80235,C10006,2026-07-27,Analytics Launch,Search,22.1,0
+M80236,C10909,2025-06-22,Year-End Upgrade,Search,59.9,0
+M80237,C10737,2025-09-22,Driver Safety,Email,47.1,0
+M80238,C10623,2025-06-24,Partner Referral,Event,83.6,0
+M80239,C10599,2025-11-06,Partner Referral,Event,18.4,0
+M80240,C10669,2025-11-16,Analytics Launch,Partner,67.8,1
+M80241,C10422,2025-05-28,Fleet Efficiency Q1,Email,100.0,0
+M80242,C10966,2026-01-10,Fleet Efficiency Q1,Search,58.3,0
+M80243,C10213,2025-01-05,Driver Safety,Search,61.9,0
+M80244,C10810,2026-01-09,Fleet Efficiency Q1,Email,70.5,0
+M80245,C10761,2026-03-12,Year-End Upgrade,Event,72.1,0
+M80246,C10837,2025-01-31,Year-End Upgrade,Search,53.8,0
+M80247,C10070,2026-02-24,Year-End Upgrade,Webinar,41.8,0
+M80248,C10445,2026-03-04,Retention Outreach,Partner,75.1,1
+M80249,C10642,2026-07-19,Driver Safety,LinkedIn,23.8,0
+M80250,C10618,2026-04-13,Partner Referral,Search,78.6,0
+M80251,C10688,2025-01-13,Driver Safety,Event,54.2,0
+M80252,C10634,2025-02-17,Analytics Launch,Partner,62.1,0
+M80253,C10223,2025-03-21,Retention Outreach,Webinar,51.5,0
+M80254,C10827,2025-12-04,Retention Outreach,Webinar,90.6,1
+M80255,C10483,2026-02-18,Analytics Launch,Email,67.0,0
+M80256,C10970,2026-01-17,Driver Safety,LinkedIn,55.6,1
+M80257,C10520,2025-07-11,Year-End Upgrade,Email,55.0,1
+M80258,C10537,2025-04-27,Year-End Upgrade,Partner,59.0,0
+M80259,C10591,2025-02-06,Retention Outreach,Event,100.0,1
+M80260,C10871,2025-08-05,Year-End Upgrade,Email,35.7,0
+M80261,C10901,2025-06-24,Partner Referral,LinkedIn,83.7,0
+M80262,C10584,2025-06-26,Retention Outreach,Search,73.4,0
+M80263,C10546,2025-02-20,Fleet Efficiency Q1,Partner,92.8,1
+M80264,C10054,2025-06-18,Retention Outreach,Search,74.6,0
+M80265,C10067,2026-05-01,Analytics Launch,Email,62.1,0
+M80266,C10736,2025-05-20,Analytics Launch,Webinar,82.4,0
+M80267,C10344,2026-05-24,Driver Safety,Email,66.6,1
+M80268,C10436,2025-02-20,Year-End Upgrade,Webinar,77.1,0
+M80269,C10628,2026-01-05,Analytics Launch,Event,90.6,0
+M80270,C10221,2025-03-04,Driver Safety,Email,63.9,0
+M80271,C10333,2025-08-12,Partner Referral,Event,53.5,0
+M80272,C10042,2026-07-08,Partner Referral,Webinar,49.1,0
+M80273,C10767,2026-03-22,Fleet Efficiency Q1,Email,71.0,0
+M80274,C10508,2025-10-25,Driver Safety,LinkedIn,44.4,0
+M80275,C10189,2026-01-02,Analytics Launch,LinkedIn,55.0,0
+M80276,C10596,2026-01-19,Partner Referral,Event,42.6,0
+M80277,C10143,2026-04-05,Driver Safety,Partner,72.2,0
+M80278,C10780,2025-12-10,Retention Outreach,Search,47.0,0
+M80279,C10231,2025-10-24,Analytics Launch,Webinar,36.3,0
+M80280,C10270,2025-02-13,Analytics Launch,Search,39.8,1
+M80281,C10876,2026-07-10,Fleet Efficiency Q1,Search,50.6,0
+M80282,C10743,2025-11-25,Analytics Launch,Webinar,52.4,1
+M80283,C10680,2025-06-18,Partner Referral,LinkedIn,67.0,0
+M80284,C10601,2025-03-20,Driver Safety,Partner,58.8,0
+M80285,C10520,2025-12-17,Analytics Launch,Event,69.4,0
+M80286,C10192,2026-03-30,Fleet Efficiency Q1,Event,71.0,0
+M80287,C10300,2026-04-14,Driver Safety,LinkedIn,76.8,1
+M80288,C10962,2026-05-29,Fleet Efficiency Q1,Search,23.8,0
+M80289,C10918,2026-06-03,Partner Referral,LinkedIn,39.5,1
+M80290,C10726,2025-12-28,Retention Outreach,Webinar,73.1,0
+M80291,C10888,2026-07-04,Fleet Efficiency Q1,LinkedIn,66.2,1
+M80292,C10804,2025-02-13,Partner Referral,Search,81.5,0
+M80293,C10399,2025-08-18,Analytics Launch,Email,31.1,0
+M80294,C10715,2025-10-08,Partner Referral,Webinar,52.5,0
+M80295,C10752,2026-02-10,Analytics Launch,Webinar,56.1,0
+M80296,C10138,2025-06-23,Retention Outreach,Webinar,65.3,0
+M80297,C10913,2025-06-18,Fleet Efficiency Q1,Search,62.7,0
+M80298,C10493,2026-06-08,Fleet Efficiency Q1,Partner,71.4,0
+M80299,C10313,2026-01-12,Driver Safety,Webinar,59.7,0
+M80300,C10474,2026-01-04,Partner Referral,LinkedIn,89.4,0
+M80301,C10328,2025-04-17,Fleet Efficiency Q1,Search,95.8,0
+M80302,C10332,2025-10-18,Fleet Efficiency Q1,Webinar,39.6,0
+M80303,C10545,2025-09-02,Partner Referral,Email,62.9,0
+M80304,C10997,2025-12-26,Year-End Upgrade,Search,78.0,0
+M80305,C10408,2026-06-18,Partner Referral,Event,73.7,0
+M80306,C10214,2025-06-11,Year-End Upgrade,Search,53.8,0
+M80307,C10761,2026-04-16,Fleet Efficiency Q1,Webinar,67.1,0
+M80308,C10294,2026-01-03,Analytics Launch,Partner,30.3,0
+M80309,C10536,2025-10-15,Fleet Efficiency Q1,LinkedIn,61.6,1
+M80310,C10253,2026-07-06,Year-End Upgrade,Partner,32.8,1
+M80311,C10211,2025-03-27,Retention Outreach,Email,72.2,0
+M80312,C10251,2026-01-29,Driver Safety,Search,39.7,0
+M80313,C10356,2025-08-20,Driver Safety,Webinar,65.3,0
+M80314,C10955,2026-01-31,Retention Outreach,LinkedIn,68.4,0
+M80315,C10671,2025-03-22,Driver Safety,Partner,63.5,0
+M80316,C10695,2026-03-04,Year-End Upgrade,Email,49.4,0
+M80317,C10053,2025-02-09,Partner Referral,Webinar,57.8,1
+M80318,C10010,2025-07-22,Fleet Efficiency Q1,Webinar,85.6,0
+M80319,C10342,2026-06-10,Fleet Efficiency Q1,Partner,53.5,0
+M80320,C10887,2026-01-02,Retention Outreach,LinkedIn,62.4,1
+M80321,C10016,2025-10-13,Retention Outreach,Email,50.9,0
+M80322,C10766,2025-07-11,Retention Outreach,Webinar,82.4,0
+M80323,C10820,2025-02-21,Fleet Efficiency Q1,Event,63.6,0
+M80324,C10277,2025-03-06,Analytics Launch,Partner,46.7,1
+M80325,C10117,2026-02-20,Retention Outreach,LinkedIn,62.1,0
+M80326,C10153,2025-06-09,Retention Outreach,Search,57.2,0
+M80327,C10077,2025-02-13,Year-End Upgrade,LinkedIn,89.9,0
+M80328,C10843,2025-09-12,Year-End Upgrade,Partner,61.1,0
+M80329,C10786,2025-08-18,Fleet Efficiency Q1,Webinar,34.3,0
+M80330,C10672,2026-07-10,Fleet Efficiency Q1,Search,72.0,0
+M80331,C10089,2025-05-14,Year-End Upgrade,Email,97.7,0
+M80332,C10950,2025-06-05,Driver Safety,Webinar,85.9,1
+M80333,C10684,2025-04-06,Retention Outreach,Search,39.9,0
+M80334,C10827,2025-04-20,Fleet Efficiency Q1,Email,56.6,0
+M80335,C10379,2025-11-06,Analytics Launch,LinkedIn,61.4,0
+M80336,C10197,2025-05-10,Analytics Launch,Partner,61.6,0
+M80337,C10821,2026-02-22,Fleet Efficiency Q1,Partner,69.6,0
+M80338,C10051,2026-04-20,Year-End Upgrade,Search,55.1,0
+M80339,C10182,2025-10-10,Retention Outreach,Partner,43.7,0
+M80340,C10153,2025-05-19,Fleet Efficiency Q1,Partner,81.0,0
+M80341,C10084,2026-04-22,Fleet Efficiency Q1,Webinar,39.5,0
+M80342,C10551,2026-07-15,Fleet Efficiency Q1,LinkedIn,46.0,0
+M80343,C10228,2026-06-17,Fleet Efficiency Q1,Search,39.4,0
+M80344,C10966,2026-06-18,Retention Outreach,Partner,74.2,0
+M80345,C10932,2026-04-14,Fleet Efficiency Q1,LinkedIn,64.1,0
+M80346,C10168,2026-03-05,Driver Safety,Webinar,79.7,0
+M80347,C10829,2026-07-09,Partner Referral,Partner,46.3,0
+M80348,C10039,2025-07-16,Retention Outreach,Webinar,36.9,0
+M80349,C10285,2026-06-23,Fleet Efficiency Q1,Webinar,53.1,1
+M80350,C10659,2025-01-12,Year-End Upgrade,LinkedIn,58.4,0
+M80351,C10206,2026-04-28,Driver Safety,Search,66.2,0
+M80352,C10078,2025-07-13,Driver Safety,Email,28.4,0
+M80353,C10156,2025-06-19,Retention Outreach,Email,71.6,0
+M80354,C10658,2026-01-27,Year-End Upgrade,Webinar,44.1,0
+M80355,C10221,2025-04-12,Analytics Launch,LinkedIn,49.1,0
+M80356,C10245,2026-07-31,Fleet Efficiency Q1,Search,85.5,1
+M80357,C10205,2026-02-26,Driver Safety,Search,18.3,1
+M80358,C10881,2025-01-12,Year-End Upgrade,Search,68.5,0
+M80359,C10888,2026-05-06,Analytics Launch,Partner,68.4,1
+M80360,C10804,2025-03-04,Retention Outreach,Search,45.6,0
+M80361,C10019,2026-04-23,Driver Safety,Event,53.1,0
+M80362,C10250,2026-04-17,Analytics Launch,Search,86.4,0
+M80363,C10880,2026-01-09,Year-End Upgrade,Event,100.0,0
+M80364,C10553,2025-12-15,Partner Referral,Event,83.3,1
+M80365,C10041,2026-04-27,Year-End Upgrade,Search,99.7,1
+M80366,C10249,2026-05-09,Year-End Upgrade,Partner,48.2,1
+M80367,C10826,2026-02-15,Analytics Launch,Search,30.4,0
+M80368,C10878,2025-04-10,Year-End Upgrade,Event,60.9,0
+M80369,C10425,2026-01-21,Partner Referral,Partner,78.1,0
+M80370,C10151,2025-04-27,Fleet Efficiency Q1,Search,24.9,0
+M80371,C10077,2025-01-28,Year-End Upgrade,LinkedIn,43.5,1
+M80372,C10225,2025-03-30,Driver Safety,Event,45.7,0
+M80373,C10799,2025-09-25,Fleet Efficiency Q1,Webinar,69.1,0
+M80374,C10826,2026-07-13,Fleet Efficiency Q1,Partner,66.6,0
+M80375,C10256,2025-01-20,Year-End Upgrade,Partner,46.5,0
+M80376,C10977,2025-02-13,Driver Safety,Email,65.6,0
+M80377,C10878,2025-02-23,Partner Referral,LinkedIn,39.1,0
+M80378,C10987,2025-04-21,Analytics Launch,Event,53.5,0
+M80379,C10752,2025-11-10,Partner Referral,LinkedIn,36.7,1
+M80380,C10572,2026-04-22,Retention Outreach,Event,59.0,0
+M80381,C10981,2025-01-28,Partner Referral,Search,46.0,0
+M80382,C10688,2026-04-12,Year-End Upgrade,Event,75.8,0
+M80383,C10831,2026-06-14,Retention Outreach,Webinar,61.5,0
+M80384,C10402,2025-02-16,Year-End Upgrade,Email,57.5,0
+M80385,C10240,2025-09-19,Partner Referral,LinkedIn,97.4,1
+M80386,C10573,2026-04-18,Driver Safety,Event,69.7,0
+M80387,C10409,2026-02-10,Retention Outreach,LinkedIn,54.6,1
+M80388,C10351,2025-04-18,Driver Safety,LinkedIn,50.3,0
+M80389,C10696,2025-03-27,Analytics Launch,Email,38.4,0
+M80390,C10610,2025-09-16,Year-End Upgrade,Webinar,60.7,0
+M80391,C10316,2026-05-07,Driver Safety,Partner,68.2,0
+M80392,C10241,2026-07-05,Driver Safety,Event,23.7,0
+M80393,C10546,2025-10-05,Analytics Launch,Event,34.7,0
+M80394,C10327,2025-11-04,Fleet Efficiency Q1,Event,51.7,0
+M80395,C10237,2025-11-21,Driver Safety,Event,40.0,0
+M80396,C10222,2025-10-12,Retention Outreach,Webinar,62.9,0
+M80397,C10662,2026-01-12,Fleet Efficiency Q1,Partner,65.6,0
+M80398,C10415,2025-06-08,Partner Referral,Webinar,59.6,0
+M80399,C10342,2025-11-10,Driver Safety,Email,73.0,0
+M80400,C10115,2025-12-22,Driver Safety,Email,50.3,0
+M80401,C10055,2025-11-23,Year-End Upgrade,Email,61.1,0
+M80402,C10694,2026-07-20,Year-End Upgrade,Search,41.9,0
+M80403,C10967,2026-03-08,Partner Referral,Search,67.7,0
+M80404,C10324,2026-03-02,Partner Referral,Webinar,63.5,0
+M80405,C10843,2026-04-13,Year-End Upgrade,Webinar,38.0,0
+M80406,C10601,2025-11-03,Driver Safety,Search,58.9,0
+M80407,C10303,2025-06-27,Fleet Efficiency Q1,Partner,61.2,0
+M80408,C10566,2025-11-07,Partner Referral,Event,67.6,0
+M80409,C10129,2026-06-19,Retention Outreach,LinkedIn,68.4,0
+M80410,C10337,2026-05-25,Fleet Efficiency Q1,LinkedIn,47.6,0
+M80411,C10735,2025-07-25,Analytics Launch,Event,77.3,1
+M80412,C10851,2025-10-08,Driver Safety,Event,72.5,0
+M80413,C10220,2025-06-07,Driver Safety,LinkedIn,47.5,0
+M80414,C10910,2025-01-08,Partner Referral,Webinar,39.1,0
+M80415,C10605,2025-06-30,Driver Safety,Webinar,49.0,0
+M80416,C10229,2025-02-28,Driver Safety,Webinar,32.6,0
+M80417,C10779,2025-07-27,Fleet Efficiency Q1,Event,66.2,0
+M80418,C10881,2025-02-01,Retention Outreach,Email,85.7,0
+M80419,C10272,2025-07-03,Retention Outreach,Webinar,90.4,0
+M80420,C10105,2026-02-19,Retention Outreach,LinkedIn,40.2,0
+M80421,C10284,2026-05-05,Driver Safety,Partner,77.7,1
+M80422,C10756,2026-05-30,Driver Safety,Webinar,63.7,1
+M80423,C10061,2025-11-22,Retention Outreach,Partner,14.1,0
+M80424,C10289,2025-11-13,Analytics Launch,Event,55.4,1
+M80425,C10319,2026-07-16,Driver Safety,Partner,53.1,0
+M80426,C10016,2025-11-19,Fleet Efficiency Q1,Event,86.2,0
+M80427,C10597,2025-02-18,Partner Referral,Partner,44.6,0
+M80428,C10806,2026-06-27,Partner Referral,Webinar,73.3,0
+M80429,C10155,2025-12-23,Fleet Efficiency Q1,Search,59.9,0
+M80430,C10886,2026-01-22,Year-End Upgrade,Search,33.1,0
+M80431,C10953,2025-02-25,Year-End Upgrade,Search,51.0,0
+M80432,C10870,2025-09-30,Year-End Upgrade,Webinar,92.6,1
+M80433,C10722,2025-09-24,Year-End Upgrade,Partner,58.5,0
+M80434,C10448,2026-04-18,Driver Safety,Search,80.1,0
+M80435,C10203,2025-08-10,Year-End Upgrade,Webinar,79.0,0
+M80436,C10912,2025-07-18,Retention Outreach,Search,53.0,1
+M80437,C10530,2026-01-30,Retention Outreach,Webinar,36.3,0
+M80438,C10452,2025-01-10,Fleet Efficiency Q1,Partner,39.0,0
+M80439,C10391,2026-03-09,Partner Referral,Search,91.0,0
+M80440,C10218,2025-01-05,Analytics Launch,Search,65.0,0
+M80441,C10382,2025-05-19,Driver Safety,LinkedIn,27.3,0
+M80442,C10798,2025-10-16,Driver Safety,Search,78.7,0
+M80443,C10559,2025-04-23,Partner Referral,Search,26.3,0
+M80444,C10395,2025-01-21,Year-End Upgrade,Email,45.5,1
+M80445,C10108,2025-09-01,Fleet Efficiency Q1,Event,63.6,0
+M80446,C10414,2026-02-15,Retention Outreach,Event,100.0,0
+M80447,C10215,2025-05-21,Retention Outreach,LinkedIn,78.3,0
+M80448,C10397,2025-06-08,Year-End Upgrade,Event,52.4,0
+M80449,C10149,2026-01-28,Year-End Upgrade,LinkedIn,62.6,0
+M80450,C10947,2026-07-04,Year-End Upgrade,Search,80.4,1
+M80451,C10173,2025-10-28,Driver Safety,Email,90.4,0
+M80452,C10124,2025-11-21,Fleet Efficiency Q1,Webinar,57.0,0
+M80453,C10655,2026-04-25,Driver Safety,Search,57.6,0
+M80454,C10343,2025-02-08,Year-End Upgrade,LinkedIn,45.4,0
+M80455,C10996,2026-07-24,Fleet Efficiency Q1,LinkedIn,75.3,0
+M80456,C10404,2025-10-03,Fleet Efficiency Q1,Event,82.5,0
+M80457,C10651,2025-08-08,Retention Outreach,Partner,23.2,0
+M80458,C10834,2025-12-25,Retention Outreach,Email,54.1,0
+M80459,C10984,2026-06-13,Driver Safety,Email,37.7,0
+M80460,C10809,2026-06-28,Analytics Launch,Email,65.0,0
+M80461,C10577,2026-03-27,Fleet Efficiency Q1,LinkedIn,37.2,0
+M80462,C10814,2025-10-08,Retention Outreach,Partner,35.6,0
+M80463,C10283,2025-03-28,Partner Referral,Email,84.5,0
+M80464,C10870,2025-04-21,Driver Safety,LinkedIn,58.7,1
+M80465,C10872,2026-04-30,Driver Safety,Email,60.8,0
+M80466,C10383,2025-03-14,Driver Safety,Webinar,70.6,0
+M80467,C10067,2025-10-07,Fleet Efficiency Q1,Partner,81.4,0
+M80468,C10684,2025-08-25,Year-End Upgrade,Webinar,53.6,0
+M80469,C10102,2026-02-16,Partner Referral,Event,54.1,0
+M80470,C10017,2025-07-19,Partner Referral,Partner,54.2,1
+M80471,C10947,2026-02-12,Fleet Efficiency Q1,Partner,83.6,0
+M80472,C10567,2025-10-22,Year-End Upgrade,LinkedIn,60.6,0
+M80473,C10650,2026-05-29,Partner Referral,Event,56.2,0
+M80474,C10880,2025-04-19,Retention Outreach,Webinar,69.8,1
+M80475,C10928,2026-03-18,Analytics Launch,Email,98.6,0
+M80476,C10956,2026-02-23,Partner Referral,Email,63.5,1
+M80477,C10132,2026-04-24,Driver Safety,Event,56.6,0
+M80478,C10323,2025-10-12,Retention Outreach,LinkedIn,100.0,1
+M80479,C10768,2025-07-06,Year-End Upgrade,Search,88.6,0
+M80480,C10028,2025-10-27,Partner Referral,Partner,85.7,1
+M80481,C10234,2026-07-19,Driver Safety,Partner,52.0,1
+M80482,C10514,2025-04-24,Driver Safety,Email,50.0,1
+M80483,C10343,2026-01-19,Analytics Launch,Webinar,25.3,1
+M80484,C10172,2025-05-11,Analytics Launch,Event,81.3,0
+M80485,C10898,2026-03-25,Analytics Launch,Search,63.5,0
+M80486,C10447,2025-09-03,Partner Referral,Webinar,26.0,0
+M80487,C10411,2026-05-14,Partner Referral,LinkedIn,86.0,0
+M80488,C10657,2025-04-05,Driver Safety,Partner,55.3,0
+M80489,C10670,2025-03-13,Year-End Upgrade,Email,57.7,0
+M80490,C10492,2026-07-06,Fleet Efficiency Q1,Webinar,31.7,0
+M80491,C10887,2025-07-15,Partner Referral,Search,71.8,0
+M80492,C10295,2025-02-19,Fleet Efficiency Q1,Webinar,72.0,1
+M80493,C10870,2026-04-30,Fleet Efficiency Q1,Search,61.0,0
+M80494,C10868,2025-08-29,Analytics Launch,Event,53.6,0
+M80495,C10008,2026-06-19,Retention Outreach,Event,100.0,1
+M80496,C10754,2025-09-11,Year-End Upgrade,LinkedIn,37.9,0
+M80497,C10158,2026-03-15,Driver Safety,Email,47.6,0
+M80498,C10485,2025-12-02,Driver Safety,Search,76.2,0
+M80499,C10918,2025-10-07,Retention Outreach,Webinar,41.7,0
+M80500,C10195,2025-10-09,Analytics Launch,Partner,40.2,0
+M80501,C10562,2025-05-26,Year-End Upgrade,Webinar,84.6,0
+M80502,C10777,2026-03-04,Retention Outreach,Webinar,74.1,0
+M80503,C10480,2025-11-01,Fleet Efficiency Q1,Email,71.7,1
+M80504,C10078,2025-01-01,Analytics Launch,Partner,65.6,1
+M80505,C10065,2025-08-19,Year-End Upgrade,LinkedIn,48.2,0
+M80506,C10517,2025-08-24,Driver Safety,Search,56.9,1
+M80507,C10025,2026-05-29,Retention Outreach,Search,60.4,0
+M80508,C10015,2025-09-05,Retention Outreach,Email,78.9,0
+M80509,C10953,2025-11-26,Retention Outreach,Search,70.5,0
+M80510,C10532,2025-02-18,Fleet Efficiency Q1,Search,43.4,0
+M80511,C10473,2025-08-16,Partner Referral,LinkedIn,77.8,0
+M80512,C10100,2025-06-14,Year-End Upgrade,LinkedIn,28.4,1
+M80513,C10786,2025-10-17,Year-End Upgrade,Email,55.6,0
+M80514,C10510,2026-06-06,Driver Safety,Event,39.2,0
+M80515,C10220,2026-06-26,Analytics Launch,LinkedIn,44.9,0
+M80516,C10752,2025-06-16,Retention Outreach,Event,100.0,0
+M80517,C10237,2025-12-22,Driver Safety,Event,32.6,0
+M80518,C10503,2026-07-08,Analytics Launch,Search,45.6,0
+M80519,C10560,2025-05-13,Analytics Launch,Partner,72.2,0
+M80520,C10279,2025-09-12,Analytics Launch,LinkedIn,52.6,0
+M80521,C10876,2025-10-18,Driver Safety,LinkedIn,65.1,0
+M80522,C10703,2025-01-02,Fleet Efficiency Q1,Event,90.6,1
+M80523,C10288,2025-09-28,Partner Referral,Webinar,75.1,0
+M80524,C10156,2025-03-12,Analytics Launch,Partner,52.6,1
+M80525,C10328,2025-06-30,Partner Referral,Event,59.3,1
+M80526,C10465,2025-03-08,Analytics Launch,Email,72.6,0
+M80527,C10550,2026-03-04,Year-End Upgrade,LinkedIn,74.7,0
+M80528,C10400,2026-04-30,Driver Safety,Event,62.4,0
+M80529,C10040,2025-06-05,Analytics Launch,Email,69.2,1
+M80530,C10676,2025-01-24,Partner Referral,Search,69.2,0
+M80531,C10378,2025-10-13,Driver Safety,Email,60.2,0
+M80532,C10335,2025-03-08,Fleet Efficiency Q1,LinkedIn,49.9,0
+M80533,C10556,2025-09-13,Fleet Efficiency Q1,LinkedIn,76.9,0
+M80534,C10835,2025-11-12,Analytics Launch,LinkedIn,67.8,0
+M80535,C10004,2025-09-28,Driver Safety,Partner,20.4,0
+M80536,C10960,2025-10-30,Partner Referral,LinkedIn,45.5,0
+M80537,C10638,2025-11-25,Driver Safety,Partner,52.4,1
+M80538,C10546,2025-04-05,Year-End Upgrade,Event,58.0,0
+M80539,C10050,2026-02-01,Driver Safety,Webinar,86.1,0
+M80540,C10711,2026-01-23,Year-End Upgrade,Webinar,100.0,1
+M80541,C10719,2025-03-24,Partner Referral,Search,12.8,0
+M80542,C10560,2025-09-09,Partner Referral,Partner,68.1,1
+M80543,C10801,2025-06-17,Partner Referral,Partner,63.4,0
+M80544,C10838,2025-08-19,Analytics Launch,Event,58.4,0
+M80545,C10838,2026-03-25,Year-End Upgrade,LinkedIn,72.9,0
+M80546,C10326,2025-12-12,Driver Safety,Partner,65.0,0
+M80547,C10673,2026-06-11,Retention Outreach,Email,54.8,1
+M80548,C10057,2025-11-27,Partner Referral,Search,62.6,0
+M80549,C10561,2025-01-26,Retention Outreach,Email,73.1,0
+M80550,C10145,2026-02-17,Partner Referral,Webinar,71.2,0
+M80551,C10307,2025-02-12,Fleet Efficiency Q1,Event,65.8,0
+M80552,C10676,2025-07-18,Driver Safety,Partner,50.3,0
+M80553,C10424,2026-06-26,Year-End Upgrade,Partner,100.0,0
+M80554,C10863,2026-07-29,Driver Safety,Webinar,69.2,1
+M80555,C10087,2025-03-27,Retention Outreach,Webinar,77.2,0
+M80556,C10971,2026-07-26,Year-End Upgrade,Email,51.8,1
+M80557,C10707,2026-07-22,Driver Safety,Partner,65.8,0
+M80558,C10430,2026-05-25,Analytics Launch,Partner,65.6,0
+M80559,C10024,2026-04-26,Year-End Upgrade,Email,23.8,0
+M80560,C10041,2025-02-13,Fleet Efficiency Q1,Webinar,47.7,0
+M80561,C10413,2025-03-12,Retention Outreach,Search,47.3,0
+M80562,C10572,2025-12-22,Retention Outreach,Webinar,50.0,1
+M80563,C10506,2025-03-01,Partner Referral,Partner,40.6,0
+M80564,C10297,2025-05-26,Driver Safety,LinkedIn,62.9,0
+M80565,C10650,2026-07-21,Partner Referral,Event,89.9,0
+M80566,C10614,2026-06-13,Driver Safety,Search,64.6,0
+M80567,C10343,2025-05-28,Retention Outreach,Webinar,38.4,0
+M80568,C10325,2025-11-09,Retention Outreach,Email,41.4,0
+M80569,C10442,2025-11-09,Driver Safety,Email,54.5,0
+M80570,C10743,2025-06-02,Driver Safety,LinkedIn,33.7,1
+M80571,C10587,2025-05-18,Partner Referral,Event,68.1,0
+M80572,C10127,2025-09-11,Driver Safety,LinkedIn,89.1,0
+M80573,C10923,2025-12-15,Partner Referral,Search,50.5,1
+M80574,C10202,2026-04-12,Partner Referral,Event,63.5,0
+M80575,C10671,2026-05-03,Driver Safety,LinkedIn,53.4,0
+M80576,C10016,2025-01-12,Partner Referral,Partner,49.4,0
+M80577,C10254,2026-01-17,Fleet Efficiency Q1,Email,65.8,0
+M80578,C10564,2025-12-24,Year-End Upgrade,Email,48.7,0
+M80579,C10847,2025-01-28,Driver Safety,Email,45.8,0
+M80580,C10562,2026-04-30,Fleet Efficiency Q1,Email,29.6,0
+M80581,C10055,2025-12-12,Partner Referral,Webinar,63.3,0
+M80582,C10955,2026-02-21,Fleet Efficiency Q1,Email,83.3,0
+M80583,C10272,2026-01-19,Partner Referral,Webinar,76.1,0
+M80584,C10364,2025-07-13,Fleet Efficiency Q1,Webinar,91.8,0
+M80585,C10108,2025-04-27,Retention Outreach,LinkedIn,48.5,1
+M80586,C10696,2025-08-08,Retention Outreach,Email,79.0,0
+M80587,C10447,2026-03-19,Driver Safety,Email,39.9,1
+M80588,C10219,2026-01-05,Year-End Upgrade,Email,76.2,1
+M80589,C10636,2025-12-30,Analytics Launch,Webinar,94.9,0
+M80590,C10195,2025-03-17,Analytics Launch,Event,72.0,0
+M80591,C10530,2025-01-06,Fleet Efficiency Q1,Search,95.2,0
+M80592,C10663,2026-01-23,Retention Outreach,Webinar,50.0,0
+M80593,C10811,2026-07-06,Retention Outreach,LinkedIn,59.3,0
+M80594,C10694,2025-07-27,Year-End Upgrade,Email,43.7,0
+M80595,C10567,2025-09-16,Analytics Launch,LinkedIn,62.7,0
+M80596,C10033,2026-07-10,Driver Safety,Search,67.4,1
+M80597,C10232,2025-05-15,Partner Referral,Event,62.5,0
+M80598,C10577,2025-10-30,Analytics Launch,LinkedIn,52.5,0
+M80599,C10536,2025-02-19,Driver Safety,Event,52.2,0
+M80600,C10533,2025-06-02,Driver Safety,Webinar,68.9,0
+M80601,C10735,2025-08-06,Fleet Efficiency Q1,Search,58.8,0
+M80602,C10904,2026-02-02,Partner Referral,Webinar,39.0,0
+M80603,C10502,2025-06-28,Fleet Efficiency Q1,Partner,24.1,0
+M80604,C10134,2025-09-25,Analytics Launch,Partner,50.1,0
+M80605,C10441,2025-06-22,Partner Referral,Event,34.4,1
+M80606,C10252,2025-03-23,Fleet Efficiency Q1,Webinar,45.3,0
+M80607,C10529,2026-04-06,Fleet Efficiency Q1,Email,53.5,1
+M80608,C10589,2026-01-26,Partner Referral,Search,59.1,0
+M80609,C10548,2026-01-10,Partner Referral,Event,48.7,1
+M80610,C10581,2025-12-05,Fleet Efficiency Q1,LinkedIn,100.0,0
+M80611,C10310,2025-03-19,Driver Safety,Search,36.8,0
+M80612,C10176,2025-10-26,Analytics Launch,Webinar,86.2,0
+M80613,C10854,2026-02-15,Analytics Launch,Webinar,58.7,0
+M80614,C10401,2025-10-14,Analytics Launch,Event,48.8,0
+M80615,C10207,2026-02-24,Driver Safety,Webinar,73.8,0
+M80616,C10995,2025-07-10,Analytics Launch,Email,52.9,0
+M80617,C10032,2025-10-26,Fleet Efficiency Q1,LinkedIn,45.9,0
+M80618,C10346,2025-08-09,Retention Outreach,Webinar,97.8,0
+M80619,C10741,2026-08-01,Analytics Launch,Partner,18.1,0
+M80620,C10410,2025-04-14,Year-End Upgrade,Webinar,57.1,0
+M80621,C10842,2025-06-14,Year-End Upgrade,Partner,65.8,0
+M80622,C10358,2026-01-31,Year-End Upgrade,LinkedIn,90.2,0
+M80623,C10642,2025-02-03,Year-End Upgrade,Email,54.0,0
+M80624,C10427,2025-10-25,Driver Safety,Event,100.0,0
+M80625,C10468,2025-01-17,Analytics Launch,Webinar,77.2,0
+M80626,C10497,2025-11-03,Driver Safety,Partner,14.7,0
+M80627,C10975,2025-07-05,Driver Safety,Event,32.9,1
+M80628,C10759,2025-04-21,Retention Outreach,LinkedIn,66.7,0
+M80629,C10370,2025-10-16,Analytics Launch,Event,39.1,0
+M80630,C10416,2025-07-12,Retention Outreach,Search,73.0,0
+M80631,C10405,2025-02-15,Analytics Launch,Webinar,52.9,0
+M80632,C10736,2025-11-05,Partner Referral,Search,38.1,1
+M80633,C10591,2025-11-25,Fleet Efficiency Q1,LinkedIn,42.7,0
+M80634,C10534,2026-01-19,Analytics Launch,Event,79.0,0
+M80635,C10430,2026-06-07,Year-End Upgrade,Search,21.5,0
+M80636,C10398,2026-02-12,Fleet Efficiency Q1,Email,82.9,0
+M80637,C10555,2026-04-08,Fleet Efficiency Q1,Email,83.5,0
+M80638,C10831,2026-01-11,Driver Safety,Event,55.4,0
+M80639,C10966,2026-01-26,Fleet Efficiency Q1,Partner,33.9,0
+M80640,C10060,2026-04-06,Year-End Upgrade,Webinar,73.1,1
+M80641,C10237,2026-01-19,Fleet Efficiency Q1,Partner,52.3,0
+M80642,C10685,2025-10-19,Partner Referral,Webinar,31.7,0
+M80643,C10148,2026-02-28,Analytics Launch,Event,100.0,1
+M80644,C10610,2026-07-14,Retention Outreach,Email,44.3,0
+M80645,C10423,2025-10-14,Fleet Efficiency Q1,Email,32.6,0
+M80646,C10190,2025-05-12,Fleet Efficiency Q1,Partner,67.7,0
+M80647,C10503,2025-08-22,Retention Outreach,Event,60.6,0
+M80648,C10509,2025-01-09,Year-End Upgrade,Webinar,91.7,0
+M80649,C10713,2025-06-27,Partner Referral,Event,54.4,1

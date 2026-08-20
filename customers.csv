@@ -1,0 +1,1002 @@
+customer_id,customer_name,region,segment,acquisition_channel,signup_date,fleet_size,account_status,annual_contract_value
+C10000,Customer 0001,Kochi,Mid-Market,Paid Search,2024-04-25,116,Active,17157.4
+C10001,Customer 0002,Bengaluru,Mid-Market,Event,2026-03-12,18,Active,3199.04
+C10002,Customer 0003,Kochi,SMB,Organic,2025-02-07,235,Churned,34544.5
+C10003,Customer 0004,Chennai,Mid-Market,Paid Search,2024-09-28,179,Active,20254.88
+C10004,Customer 0005,Kochi,Mid-Market,Referral,2025-01-14,69,Active,5734.7
+C10005,Customer 0006,Kochi,Mid-Market,Organic,2024-08-05,268,Active,40516.99
+C10006,Customer 0007,Chennai,SMB,Paid Search,2026-01-09,433,Active,83883.96
+C10007,Customer 0008,Mumbai,SMB,Referral,2026-04-29,155,Active,16216.48
+C10008,Customer 0009,Chennai,SMB,Referral,2024-03-13,235,Churned,17223.97
+C10009,Customer 0010,Kochi,SMB,Organic,2025-09-02,22,Active,2151.13
+C10010,Customer 0011,Ahmedabad,SMB,Partner,2024-10-12,47,Active,4386.29
+C10011,Customer 0012,Ahmedabad,SMB,Partner,2024-02-10,138,At Risk,13567.49
+C10012,Customer 0013,Bengaluru,Mid-Market,Referral,2026-02-22,387,Active,60685.99
+C10013,Customer 0014,Chennai,SMB,Partner,2024-02-22,567,At Risk,65801.73
+C10014,Customer 0015,Hyderabad,Mid-Market,Referral,2024-06-24,671,Active,95711.43
+C10015,Customer 0016,Pune,Mid-Market,Outbound,2024-01-22,536,Active,75797.91
+C10016,Customer 0017,Ahmedabad,Mid-Market,Outbound,2025-02-04,526,Churned,43145.63
+C10017,Customer 0018,Hyderabad,SMB,Partner,2025-05-24,795,At Risk,146091.48
+C10018,Customer 0019,Pune,SMB,Event,2024-09-29,221,At Risk,23289.86
+C10019,Customer 0020,Ahmedabad,Mid-Market,Organic,2024-03-01,679,Active,91546.93
+C10020,Customer 0021,Kochi,Enterprise,Organic,2024-04-08,796,At Risk,84143.63
+C10021,Customer 0022,Delhi NCR,SMB,Organic,2026-03-04,484,Active,61829.84
+C10022,Customer 0023,Hyderabad,Mid-Market,Partner,2025-11-16,715,Active,180297.69
+C10023,Customer 0024,Ahmedabad,Mid-Market,Event,2026-03-07,121,Active,8291.53
+C10024,Customer 0025,Ahmedabad,Mid-Market,Partner,2025-03-27,747,Active,76656.79
+C10025,Customer 0026,Chennai,SMB,Outbound,2025-04-09,481,Active,30804.29
+C10026,Customer 0027,Ahmedabad,SMB,Paid Search,2025-10-30,192,Active,28482.02
+C10027,Customer 0028,Hyderabad,SMB,Organic,2025-06-08,57,Active,10005.42
+C10028,Customer 0029,Chennai,Enterprise,Paid Search,2025-01-05,613,At Risk,116371.2
+C10029,Customer 0030,Hyderabad,SMB,Organic,2024-09-05,369,Churned,32535.23
+C10030,Customer 0031,Ahmedabad,SMB,Paid Search,2025-02-16,266,Active,39081.34
+C10031,Customer 0032,Pune,Enterprise,Referral,2024-02-24,334,Churned,105137.28
+C10032,Customer 0033,Ahmedabad,SMB,Referral,2024-06-12,842,Active,72547.35
+C10033,Customer 0034,Chennai,SMB,Partner,2025-09-18,366,Active,27152.34
+C10034,Customer 0035,Hyderabad,SMB,Outbound,2026-01-07,71,At Risk,7778.07
+C10035,Customer 0036,Hyderabad,SMB,Referral,2024-03-27,241,Active,34848.33
+C10036,Customer 0037,Mumbai,SMB,Partner,2024-03-23,127,Active,17496.03
+C10037,Customer 0038,Pune,SMB,Paid Search,2024-03-13,584,Active,75462.21
+C10038,Customer 0039,Bengaluru,Mid-Market,Organic,2025-11-03,681,Active,125511.45
+C10039,Customer 0040,Kochi,Mid-Market,Event,2024-09-21,715,At Risk,93926.3
+C10040,Customer 0041,Bengaluru,SMB,Outbound,2024-10-04,539,Active,60369.49
+C10041,Customer 0042,Delhi NCR,Mid-Market,Partner,2024-01-11,654,Active,61868.42
+C10042,Customer 0043,Bengaluru,SMB,Outbound,2026-04-06,357,Active,67298.76
+C10043,Customer 0044,Delhi NCR,Enterprise,Outbound,2025-01-03,535,Active,120701.3
+C10044,Customer 0045,Delhi NCR,SMB,Referral,2025-11-08,95,Active,8008.12
+C10045,Customer 0046,Hyderabad,Mid-Market,Organic,2025-08-24,459,Churned,41634.34
+C10046,Customer 0047,Chennai,SMB,Event,2024-04-30,476,Active,81813.26
+C10047,Customer 0048,Kochi,Mid-Market,Event,2025-11-12,31,At Risk,6783.36
+C10048,Customer 0049,Ahmedabad,SMB,Event,2025-04-12,468,Active,64578.11
+C10049,Customer 0050,Mumbai,Mid-Market,Event,2025-05-28,615,At Risk,71858.3
+C10050,Customer 0051,Ahmedabad,SMB,Event,2024-06-19,315,Active,59091.52
+C10051,Customer 0052,Ahmedabad,Enterprise,Outbound,2025-12-20,465,Active,145769.81
+C10052,Customer 0053,Ahmedabad,SMB,Organic,2026-03-02,246,Active,37310.05
+C10053,Customer 0054,Mumbai,Mid-Market,Paid Search,2024-12-11,233,Active,41748.25
+C10054,Customer 0055,Kochi,Mid-Market,Partner,2024-03-19,114,At Risk,23520.08
+C10055,Customer 0056,Chennai,Enterprise,Partner,2025-12-22,282,Active,86814.98
+C10056,Customer 0057,Hyderabad,SMB,Outbound,2026-01-24,683,Churned,82340.71
+C10057,Customer 0058,Mumbai,SMB,Outbound,2025-03-06,795,Active,100208.81
+C10058,Customer 0059,Pune,SMB,Referral,2025-05-07,542,Active,54626.48
+C10059,Customer 0060,Bengaluru,SMB,Outbound,2024-07-08,532,Active,82792.87
+C10060,Customer 0061,Delhi NCR,Mid-Market,Organic,2024-02-27,523,Active,89910.74
+C10061,Customer 0062,Kochi,Enterprise,Partner,2026-03-13,407,Active,50010.04
+C10062,Customer 0063,Bengaluru,Enterprise,Event,2025-02-14,362,Active,47799.38
+C10063,Customer 0064,Delhi NCR,Mid-Market,Paid Search,2024-08-21,529,Churned,101884.97
+C10064,Customer 0065,Bengaluru,Mid-Market,Referral,2025-08-12,667,Active,171097.23
+C10065,Customer 0066,Chennai,Enterprise,Paid Search,2024-01-23,354,Active,104607.55
+C10066,Customer 0067,Bengaluru,Enterprise,Partner,2024-03-08,483,Active,91770.19
+C10067,Customer 0068,Ahmedabad,SMB,Outbound,2024-07-25,402,Active,54267.4
+C10068,Customer 0069,Hyderabad,Mid-Market,Outbound,2025-01-18,246,Active,53771.7
+C10069,Customer 0070,Ahmedabad,Mid-Market,Outbound,2024-11-07,250,Active,34457.65
+C10070,Customer 0071,Kochi,SMB,Paid Search,2024-06-08,71,Active,5986.91
+C10071,Customer 0072,Kochi,SMB,Referral,2024-10-25,376,Active,55426.43
+C10072,Customer 0073,Kochi,Enterprise,Event,2024-10-10,607,Active,76379.17
+C10073,Customer 0074,Bengaluru,Enterprise,Referral,2025-03-21,584,Active,147418.57
+C10074,Customer 0075,Ahmedabad,Enterprise,Paid Search,2025-04-23,837,Active,187599.61
+C10075,Customer 0076,Chennai,Mid-Market,Partner,2026-01-20,38,Active,6343.13
+C10076,Customer 0077,Ahmedabad,SMB,Referral,2025-11-16,647,Active,51670.15
+C10077,Customer 0078,Ahmedabad,SMB,Paid Search,2024-09-05,676,Active,112904.96
+C10078,Customer 0079,Chennai,Mid-Market,Referral,2026-02-06,373,At Risk,37868.66
+C10079,Customer 0080,Mumbai,Mid-Market,Organic,2025-03-18,244,Active,51475.57
+C10080,Customer 0081,Hyderabad,SMB,Partner,2024-06-08,306,Active,27285.98
+C10081,Customer 0082,Hyderabad,Mid-Market,Outbound,2024-10-16,581,Active,128029.77
+C10082,Customer 0083,Delhi NCR,SMB,Paid Search,2025-09-22,733,Active,119205.29
+C10083,Customer 0084,Kochi,Mid-Market,Paid Search,2025-11-29,548,Active,64050.27
+C10084,Customer 0085,Chennai,SMB,Referral,2024-11-14,439,At Risk,32343.02
+C10085,Customer 0086,Delhi NCR,SMB,Paid Search,2024-05-13,556,At Risk,97518.47
+C10086,Customer 0087,Bengaluru,SMB,Outbound,2024-06-12,64,Active,3830.48
+C10087,Customer 0088,Chennai,SMB,Partner,2024-03-28,518,Active,34770.69
+C10088,Customer 0089,Pune,Enterprise,Outbound,2025-08-16,40,Active,9595.15
+C10089,Customer 0090,Ahmedabad,SMB,Partner,2025-03-03,815,Active,122928.38
+C10090,Customer 0091,Pune,SMB,Paid Search,2025-01-18,756,Active,80917.11
+C10091,Customer 0092,Chennai,Mid-Market,Referral,2025-07-25,434,Active,63672.66
+C10092,Customer 0093,Ahmedabad,Mid-Market,Event,2025-12-05,321,Active,71264.55
+C10093,Customer 0094,Delhi NCR,SMB,Partner,2025-11-07,623,Active,60055.08
+C10094,Customer 0095,Ahmedabad,SMB,Referral,2024-04-26,543,Active,61703.55
+C10095,Customer 0096,Mumbai,SMB,Organic,2025-05-16,601,Active,70607.71
+C10096,Customer 0097,Bengaluru,Mid-Market,Organic,2026-01-20,440,Active,62399.35
+C10097,Customer 0098,Delhi NCR,SMB,Outbound,2025-10-19,204,Active,16834.74
+C10098,Customer 0099,Bengaluru,SMB,Outbound,2024-10-07,66,Active,9516.31
+C10099,Customer 0100,Hyderabad,SMB,Paid Search,2024-11-29,244,Active,16505.58
+C10100,Customer 0101,Ahmedabad,Mid-Market,Referral,2026-01-26,452,At Risk,73966.72
+C10101,Customer 0102,Kochi,SMB,Paid Search,2024-01-28,363,Active,25692.7
+C10102,Customer 0103,Bengaluru,Mid-Market,Partner,2025-03-22,432,Active,48125.77
+C10103,Customer 0104,Kochi,SMB,Paid Search,2024-04-08,239,Active,17695.52
+C10104,Customer 0105,Hyderabad,Mid-Market,Partner,2026-01-30,797,Active,117212.52
+C10105,Customer 0106,Mumbai,SMB,Outbound,2024-02-02,314,Active,50013.83
+C10106,Customer 0107,Pune,SMB,Paid Search,2024-01-20,720,At Risk,84741.83
+C10107,Customer 0108,Mumbai,SMB,Partner,2024-10-06,335,Active,22324.39
+C10108,Customer 0109,Pune,Mid-Market,Referral,2024-06-19,379,At Risk,45169.43
+C10109,Customer 0110,Kochi,Enterprise,Outbound,2025-02-25,515,Active,128979.88
+C10110,Customer 0111,Hyderabad,SMB,Partner,2024-09-11,227,Active,16208.25
+C10111,Customer 0112,Hyderabad,SMB,Event,2024-10-29,190,Active,31832.82
+C10112,Customer 0113,Ahmedabad,Enterprise,Paid Search,2025-04-25,325,Active,54905.26
+C10113,Customer 0114,Chennai,Mid-Market,Referral,2025-04-21,684,Active,85541.04
+C10114,Customer 0115,Chennai,SMB,Event,2026-03-05,127,Active,18785.16
+C10115,Customer 0116,Delhi NCR,SMB,Paid Search,2025-02-12,374,Active,36655.19
+C10116,Customer 0117,Delhi NCR,Mid-Market,Partner,2025-04-24,572,Active,44576.13
+C10117,Customer 0118,Pune,Mid-Market,Outbound,2025-07-30,601,Active,125106.99
+C10118,Customer 0119,Chennai,Mid-Market,Organic,2024-05-28,372,Active,42475.36
+C10119,Customer 0120,Bengaluru,Enterprise,Paid Search,2025-07-20,73,Active,14026.83
+C10120,Customer 0121,Pune,SMB,Event,2026-01-02,18,Active,1737.94
+C10121,Customer 0122,Pune,SMB,Paid Search,2024-09-27,402,Active,47223.58
+C10122,Customer 0123,Hyderabad,SMB,Outbound,2024-05-31,689,Active,112696.23
+C10123,Customer 0124,Delhi NCR,SMB,Referral,2024-10-21,28,Active,1737.97
+C10124,Customer 0125,Kochi,SMB,Partner,2024-08-21,754,Active,107631.39
+C10125,Customer 0126,Chennai,SMB,Partner,2025-05-12,576,Active,63257.3
+C10126,Customer 0127,Bengaluru,SMB,Referral,2026-01-04,11,Active,1617.25
+C10127,Customer 0128,Hyderabad,Mid-Market,Organic,2025-05-21,295,Active,59965.36
+C10128,Customer 0129,Chennai,SMB,Paid Search,2024-04-16,191,Active,32222.23
+C10129,Customer 0130,Delhi NCR,SMB,Paid Search,2024-09-24,807,Active,89740.73
+C10130,Customer 0131,Ahmedabad,Mid-Market,Event,2025-08-08,473,Active,61378.51
+C10131,Customer 0132,Chennai,Mid-Market,Organic,2024-10-07,278,At Risk,40452.52
+C10132,Customer 0133,Ahmedabad,Mid-Market,Event,2025-05-13,239,At Risk,37360.43
+C10133,Customer 0134,Bengaluru,Mid-Market,Paid Search,2025-08-12,481,Active,82095.55
+C10134,Customer 0135,Delhi NCR,Mid-Market,Referral,2024-10-06,9,Active,1850.05
+C10135,Customer 0136,Bengaluru,SMB,Referral,2025-07-04,222,Active,14100.75
+C10136,Customer 0137,Chennai,SMB,Partner,2024-12-04,144,At Risk,22922.92
+C10137,Customer 0138,Bengaluru,Mid-Market,Event,2024-04-24,528,Active,53131.39
+C10138,Customer 0139,Delhi NCR,SMB,Partner,2024-11-12,570,Active,112581.97
+C10139,Customer 0140,Mumbai,SMB,Organic,2025-01-09,399,Active,30594.11
+C10140,Customer 0141,Bengaluru,SMB,Outbound,2024-01-03,123,Active,8733.03
+C10141,Customer 0142,Hyderabad,SMB,Referral,2026-01-28,318,Active,57940.68
+C10142,Customer 0143,Chennai,SMB,Event,2025-03-24,717,At Risk,128062.3
+C10143,Customer 0144,Ahmedabad,SMB,Paid Search,2024-01-31,177,At Risk,29343.21
+C10144,Customer 0145,Bengaluru,Mid-Market,Organic,2026-01-07,143,Active,30087.17
+C10145,Customer 0146,Delhi NCR,Enterprise,Organic,2025-12-27,99,Active,13631.22
+C10146,Customer 0147,Bengaluru,SMB,Paid Search,2024-01-11,695,Active,118407.41
+C10147,Customer 0148,Kochi,Enterprise,Partner,2024-05-18,106,Active,18653.23
+C10148,Customer 0149,Delhi NCR,SMB,Event,2024-11-05,496,Active,65051.82
+C10149,Customer 0150,Ahmedabad,Enterprise,Organic,2025-03-07,849,Active,186808.05
+C10150,Customer 0151,Bengaluru,Enterprise,Event,2025-09-08,547,At Risk,50380.29
+C10151,Customer 0152,Hyderabad,SMB,Partner,2024-12-26,353,Churned,40907.25
+C10152,Customer 0153,Chennai,Mid-Market,Organic,2025-06-03,179,Active,35738.55
+C10153,Customer 0154,Pune,Enterprise,Partner,2024-01-09,6,Active,754.5
+C10154,Customer 0155,Ahmedabad,Enterprise,Organic,2025-07-13,136,Active,44781.4
+C10155,Customer 0156,Kochi,Enterprise,Paid Search,2026-02-17,810,Active,194309.55
+C10156,Customer 0157,Ahmedabad,Mid-Market,Partner,2025-03-23,126,Active,12998.43
+C10157,Customer 0158,Pune,SMB,Referral,2025-01-21,21,Active,3105.8
+C10158,Customer 0159,Mumbai,Mid-Market,Referral,2024-09-09,694,Active,74315.03
+C10159,Customer 0160,Delhi NCR,Mid-Market,Organic,2026-03-22,358,At Risk,33009.91
+C10160,Customer 0161,Bengaluru,Mid-Market,Organic,2024-01-29,306,Active,51715.8
+C10161,Customer 0162,Delhi NCR,SMB,Organic,2024-08-31,611,Active,46077.55
+C10162,Customer 0163,Mumbai,Mid-Market,Partner,2024-04-27,446,Active,44647.16
+C10163,Customer 0164,Hyderabad,SMB,Organic,2026-01-06,777,Churned,103903.04
+C10164,Customer 0165,Bengaluru,Mid-Market,Partner,2025-02-14,400,Active,34174.51
+C10165,Customer 0166,Chennai,SMB,Referral,2026-02-23,607,Active,108303.38
+C10166,Customer 0167,Mumbai,Mid-Market,Partner,2025-07-19,747,Active,140212.1
+C10167,Customer 0168,Ahmedabad,Mid-Market,Partner,2025-04-18,396,Active,42518.89
+C10168,Customer 0169,Delhi NCR,SMB,Paid Search,2025-03-15,245,Churned,34680.05
+C10169,Customer 0170,Ahmedabad,SMB,Referral,2024-06-21,828,Active,63677.28
+C10170,Customer 0171,Pune,SMB,Partner,2025-04-22,196,At Risk,25242.85
+C10171,Customer 0172,Hyderabad,Enterprise,Partner,2025-08-05,38,Active,4484.45
+C10172,Customer 0173,Bengaluru,Mid-Market,Paid Search,2026-03-31,493,Active,137837.02
+C10173,Customer 0174,Pune,SMB,Organic,2025-04-11,838,Active,69707.18
+C10174,Customer 0175,Chennai,SMB,Paid Search,2026-03-09,78,Active,9262.32
+C10175,Customer 0176,Mumbai,SMB,Event,2026-03-13,722,Active,41962.67
+C10176,Customer 0177,,SMB,Paid Search,2025-03-20,706,Active,63984.02
+C10177,Customer 0178,Ahmedabad,Enterprise,Organic,2025-01-08,789,Active,153334.08
+C10178,Customer 0179,Delhi NCR,Mid-Market,Outbound,2024-05-01,361,At Risk,55466.22
+C10179,Customer 0180,Hyderabad,SMB,Organic,2024-08-16,220,Churned,37157.77
+C10180,Customer 0181,Mumbai,Enterprise,Partner,2026-01-17,437,Active,50528.52
+C10181,Customer 0182,Ahmedabad,SMB,Organic,2024-04-27,125,Active,6784.27
+C10182,Customer 0183,Kochi,Enterprise,Event,2024-12-03,717,At Risk,146300.33
+C10183,Customer 0184,Kochi,SMB,Event,2025-08-16,565,Active,62284.97
+C10184,Customer 0185,Ahmedabad,Mid-Market,Referral,2024-07-23,413,At Risk,109756.8
+C10185,Customer 0186,Hyderabad,Enterprise,Referral,2026-04-07,440,Active,154714.82
+C10186,Customer 0187,Mumbai,SMB,Referral,2025-07-06,606,Active,90208.73
+C10187,Customer 0188,Hyderabad,Mid-Market,Referral,2024-01-25,447,Active,46788.7
+C10188,Customer 0189,Hyderabad,Enterprise,Referral,2024-07-29,714,Active,110637.37
+C10189,Customer 0190,Kochi,SMB,Event,2025-09-21,786,Active,139401.39
+C10190,Customer 0191,Ahmedabad,SMB,Outbound,2026-01-03,807,Active,68661.91
+C10191,Customer 0192,Bengaluru,Mid-Market,Organic,2026-02-26,528,At Risk,104778.15
+C10192,Customer 0193,Pune,SMB,Paid Search,2025-12-24,632,Churned,60965.38
+C10193,Customer 0194,Chennai,SMB,Event,2024-03-04,267,Active,22018.69
+C10194,Customer 0195,Hyderabad,SMB,Paid Search,2025-09-12,37,Active,6851.41
+C10195,Customer 0196,Ahmedabad,Mid-Market,Partner,2024-04-03,343,Active,32169.79
+C10196,Customer 0197,Kochi,SMB,Event,2024-03-06,741,Active,127056.58
+C10197,Customer 0198,Chennai,SMB,Referral,2025-08-11,117,Active,10791.97
+C10198,Customer 0199,Pune,Mid-Market,Referral,2025-02-10,466,At Risk,34614.9
+C10199,Customer 0200,Delhi NCR,Mid-Market,Paid Search,2025-07-04,167,Active,20259.85
+C10200,Customer 0201,Kochi,Mid-Market,Organic,2025-12-24,367,Active,44133.84
+C10201,Customer 0202,Delhi NCR,SMB,Paid Search,2024-02-28,126,Active,13880.51
+C10202,Customer 0203,Ahmedabad,Enterprise,Paid Search,2025-03-24,625,Active,80189.91
+C10203,Customer 0204,Hyderabad,Mid-Market,Event,2025-12-10,689,Active,142662.49
+C10204,Customer 0205,Bengaluru,SMB,Partner,2025-01-09,645,Active,117590.24
+C10205,Customer 0206,Ahmedabad,Enterprise,Organic,2025-03-20,600,Active,88437.26
+C10206,Customer 0207,Mumbai,SMB,Paid Search,2025-02-27,203,Active,18175.27
+C10207,Customer 0208,Mumbai,SMB,Event,2026-02-10,453,Active,38940.66
+C10208,Customer 0209,Kochi,SMB,Paid Search,2024-02-12,93,Active,14757.85
+C10209,Customer 0210,Bengaluru,Mid-Market,Paid Search,2026-01-16,321,Active,57558.53
+C10210,Customer 0211,Chennai,SMB,Outbound,2025-11-24,432,Active,32569.26
+C10211,Customer 0212,Mumbai,SMB,Referral,2025-11-21,569,Active,59728.81
+C10212,Customer 0213,Bengaluru,SMB,Partner,2024-12-16,86,At Risk,8509.93
+C10213,Customer 0214,Ahmedabad,SMB,Event,2025-03-14,691,Active,72941.09
+C10214,Customer 0215,Bengaluru,SMB,Referral,2024-11-09,392,Active,23178.43
+C10215,Customer 0216,Hyderabad,Mid-Market,Organic,2024-08-01,749,Active,177424.36
+C10216,Customer 0217,Pune,SMB,Paid Search,2026-01-14,450,Active,37863.31
+C10217,Customer 0218,Kochi,SMB,Event,2025-03-06,467,Active,39170.9
+C10218,Customer 0219,Bengaluru,Mid-Market,Paid Search,2025-09-06,590,Active,51553.13
+C10219,Customer 0220,Pune,SMB,Referral,2024-03-26,697,Active,81111.44
+C10220,Customer 0221,Chennai,Mid-Market,Referral,2025-11-01,138,Active,24438.77
+C10221,Customer 0222,Kochi,SMB,Outbound,2025-07-14,437,Active,36893.69
+C10222,Customer 0223,Bengaluru,SMB,Event,2026-04-27,30,Active,2666.25
+C10223,Customer 0224,Ahmedabad,SMB,Organic,2024-04-23,405,At Risk,50049.01
+C10224,Customer 0225,Chennai,SMB,Referral,2025-04-04,692,Active,58492.57
+C10225,Customer 0226,Kochi,SMB,Referral,2025-03-10,736,Active,149593.67
+C10226,Customer 0227,Mumbai,Mid-Market,Organic,2025-04-02,244,Active,28305.43
+C10227,Customer 0228,Ahmedabad,SMB,Outbound,2024-02-16,331,Active,21402.52
+C10228,Customer 0229,Pune,Mid-Market,Organic,2025-02-06,471,Active,111414.9
+C10229,Customer 0230,Bengaluru,Mid-Market,Paid Search,2024-09-11,339,Active,59624.35
+C10230,Customer 0231,Ahmedabad,SMB,Partner,2025-06-08,155,Active,13802.04
+C10231,Customer 0232,Kochi,SMB,Organic,2024-07-16,262,Active,50232.41
+C10232,Customer 0233,Mumbai,SMB,Outbound,2025-01-04,346,Active,44863.15
+C10233,Customer 0234,Chennai,SMB,Partner,2025-06-11,443,Active,35736.08
+C10234,Customer 0235,Delhi NCR,SMB,Partner,2024-02-24,783,Active,122671.35
+C10235,Customer 0236,Chennai,Mid-Market,Event,2025-10-30,465,Active,81260.68
+C10236,Customer 0237,Ahmedabad,Enterprise,Event,2025-08-31,332,Active,46806.05
+C10237,Customer 0238,Ahmedabad,SMB,Organic,2024-02-18,563,At Risk,76225.3
+C10238,Customer 0239,Bengaluru,Mid-Market,Partner,2024-02-25,658,Active,90075.99
+C10239,Customer 0240,,Mid-Market,Outbound,2025-12-23,368,Active,30050.11
+C10240,Customer 0241,Delhi NCR,SMB,Outbound,2024-08-28,418,Active,84738.64
+C10241,Customer 0242,Pune,Mid-Market,Event,2026-01-01,189,Active,28364.79
+C10242,Customer 0243,Kochi,Mid-Market,Referral,2025-02-28,735,Churned,150590.32
+C10243,Customer 0244,Delhi NCR,Enterprise,Organic,2024-10-17,737,Active,173681.0
+C10244,Customer 0245,Delhi NCR,Enterprise,Event,2024-08-20,152,Active,30611.67
+C10245,Customer 0246,Delhi NCR,SMB,Organic,2025-07-14,297,Active,30851.76
+C10246,Customer 0247,Kochi,SMB,Organic,2024-04-03,234,Churned,33617.67
+C10247,Customer 0248,Delhi NCR,Mid-Market,Outbound,2024-12-08,784,Active,143802.18
+C10248,Customer 0249,Mumbai,SMB,Referral,2024-10-20,60,Active,9070.52
+C10249,Customer 0250,Mumbai,SMB,Organic,2024-05-11,180,Active,18360.97
+C10250,Customer 0251,Bengaluru,Enterprise,Partner,2024-10-26,271,Active,50834.25
+C10251,Customer 0252,Delhi NCR,SMB,Referral,2025-03-25,478,Active,27004.26
+C10252,Customer 0253,Hyderabad,SMB,Partner,2025-07-29,215,Active,24124.66
+C10253,Customer 0254,Hyderabad,Mid-Market,Outbound,2024-03-14,458,Active,39589.32
+C10254,Customer 0255,Pune,SMB,Paid Search,2026-01-11,636,Active,75697.7
+C10255,Customer 0256,Hyderabad,SMB,Referral,2026-01-16,705,Active,110703.61
+C10256,Customer 0257,Chennai,Enterprise,Paid Search,2025-08-11,88,Active,16789.32
+C10257,Customer 0258,Kochi,SMB,Paid Search,2026-02-24,122,Active,10110.83
+C10258,Customer 0259,Pune,SMB,Paid Search,2024-12-29,85,Active,13569.33
+C10259,Customer 0260,Delhi NCR,SMB,Outbound,2025-11-29,773,Active,50782.9
+C10260,Customer 0261,Bengaluru,Enterprise,Referral,2025-09-10,556,Churned,168062.18
+C10261,Customer 0262,Ahmedabad,SMB,Referral,2025-04-23,454,Active,42931.1
+C10262,Customer 0263,Kochi,SMB,Referral,2024-06-01,673,Active,38573.96
+C10263,Customer 0264,Chennai,SMB,Partner,2025-04-18,500,At Risk,45245.5
+C10264,Customer 0265,Hyderabad,SMB,Event,2026-02-05,203,Active,33972.05
+C10265,Customer 0266,Hyderabad,Enterprise,Referral,2026-04-16,436,Active,72538.22
+C10266,Customer 0267,Mumbai,SMB,Outbound,2025-01-15,599,Active,85017.18
+C10267,Customer 0268,Bengaluru,Enterprise,Event,2024-07-29,35,Active,4698.02
+C10268,Customer 0269,,SMB,Event,2025-09-27,517,Active,42889.71
+C10269,Customer 0270,Bengaluru,SMB,Outbound,2024-03-05,425,Active,81251.58
+C10270,Customer 0271,Mumbai,Enterprise,Outbound,2024-05-08,63,Active,8999.91
+C10271,Customer 0272,Ahmedabad,SMB,Paid Search,2025-04-22,227,At Risk,13186.17
+C10272,Customer 0273,Kochi,SMB,Outbound,2026-04-21,384,Active,47802.95
+C10273,Customer 0274,Bengaluru,Enterprise,Partner,2024-10-06,294,Active,89842.81
+C10274,Customer 0275,Delhi NCR,SMB,Outbound,2025-01-11,250,At Risk,23296.86
+C10275,Customer 0276,Chennai,Mid-Market,Organic,2024-09-30,553,Active,55666.2
+C10276,Customer 0277,Pune,Enterprise,Event,2025-01-09,346,At Risk,108221.47
+C10277,Customer 0278,Ahmedabad,SMB,Partner,2024-01-07,425,Active,65440.11
+C10278,Customer 0279,Kochi,SMB,Referral,2025-05-20,679,Active,130094.62
+C10279,Customer 0280,Ahmedabad,SMB,Organic,2025-05-21,83,Active,14643.56
+C10280,Customer 0281,Hyderabad,SMB,Organic,2024-09-25,309,Active,49605.02
+C10281,Customer 0282,Bengaluru,SMB,Event,2024-08-12,66,At Risk,7079.55
+C10282,Customer 0283,Chennai,Mid-Market,Event,2025-10-09,788,At Risk,111774.76
+C10283,Customer 0284,Hyderabad,SMB,Partner,2024-06-08,161,Churned,20285.29
+C10284,Customer 0285,Mumbai,Mid-Market,Organic,2024-02-10,697,Active,134909.31
+C10285,Customer 0286,Bengaluru,SMB,Outbound,2024-02-04,166,Active,26053.55
+C10286,Customer 0287,Ahmedabad,SMB,Event,2026-01-19,278,Active,28089.74
+C10287,Customer 0288,Hyderabad,SMB,Partner,2024-11-05,519,At Risk,56556.16
+C10288,Customer 0289,Bengaluru,Mid-Market,Referral,2024-03-27,707,Active,127038.71
+C10289,Customer 0290,Bengaluru,SMB,Partner,2026-01-17,155,At Risk,20527.57
+C10290,Customer 0291,Bengaluru,SMB,Outbound,2024-05-06,185,Active,18072.1
+C10291,Customer 0292,Chennai,Enterprise,Paid Search,2024-10-13,750,Active,223790.24
+C10292,Customer 0293,Mumbai,Mid-Market,Organic,2024-01-18,277,Active,46645.2
+C10293,Customer 0294,Ahmedabad,SMB,Partner,2025-07-31,182,Active,11465.32
+C10294,Customer 0295,Mumbai,Enterprise,Referral,2025-08-17,633,Active,172564.01
+C10295,Customer 0296,Chennai,SMB,Outbound,2025-10-05,82,Churned,10340.13
+C10296,Customer 0297,Pune,SMB,Organic,2024-08-11,737,Active,112088.58
+C10297,Customer 0298,Pune,SMB,Event,2024-10-05,745,Active,72105.33
+C10298,Customer 0299,Kochi,SMB,Referral,2026-03-08,728,Active,77300.21
+C10299,Customer 0300,Bengaluru,SMB,Event,2025-11-29,254,Active,27819.94
+C10300,Customer 0301,Chennai,Mid-Market,Event,2024-02-01,101,Active,13363.96
+C10301,Customer 0302,Kochi,SMB,Organic,2025-08-11,364,Churned,19522.07
+C10302,Customer 0303,Kochi,Mid-Market,Organic,2025-11-21,287,Churned,58851.75
+C10303,Customer 0304,Chennai,Enterprise,Outbound,2025-04-20,815,Active,213940.34
+C10304,Customer 0305,Pune,Mid-Market,Partner,2025-06-27,538,Active,98033.65
+C10305,Customer 0306,Kochi,Mid-Market,Organic,2024-01-01,802,Active,113594.29
+C10306,Customer 0307,Chennai,Mid-Market,Paid Search,2024-01-26,639,At Risk,61506.63
+C10307,Customer 0308,Ahmedabad,Enterprise,Event,2024-01-30,609,Active,126359.35
+C10308,Customer 0309,Bengaluru,SMB,Outbound,2024-05-15,99,Active,9071.79
+C10309,Customer 0310,Mumbai,SMB,Referral,2026-04-22,63,Churned,7275.56
+C10310,Customer 0311,Hyderabad,SMB,Partner,2025-06-23,44,At Risk,2909.82
+C10311,Customer 0312,Hyderabad,Mid-Market,Paid Search,2025-10-26,506,Active,88704.37
+C10312,Customer 0313,Delhi NCR,SMB,Outbound,2024-09-08,175,Active,15961.22
+C10313,Customer 0314,Bengaluru,Mid-Market,Organic,2026-03-07,840,Active,130708.38
+C10314,Customer 0315,Delhi NCR,SMB,Referral,2024-06-18,117,Active,18636.27
+C10315,Customer 0316,Delhi NCR,Enterprise,Organic,2026-02-05,805,Active,102683.0
+C10316,Customer 0317,Chennai,SMB,Partner,2024-01-27,569,Active,60416.02
+C10317,Customer 0318,Ahmedabad,SMB,Partner,2024-01-18,94,Active,17097.0
+C10318,Customer 0319,Kochi,SMB,Outbound,2024-03-08,54,Active,6337.53
+C10319,Customer 0320,Delhi NCR,SMB,Event,2025-11-04,339,Active,19548.36
+C10320,Customer 0321,Mumbai,SMB,Organic,2024-08-06,291,Active,36078.89
+C10321,Customer 0322,Kochi,SMB,Outbound,2025-01-18,271,Churned,23157.38
+C10322,Customer 0323,Hyderabad,SMB,Referral,2025-02-04,451,Active,48852.25
+C10323,Customer 0324,Chennai,SMB,Event,2025-11-02,114,At Risk,14594.22
+C10324,Customer 0325,Delhi NCR,SMB,Event,2024-10-23,114,Active,5166.72
+C10325,Customer 0326,Bengaluru,SMB,Organic,2024-01-06,592,Active,90237.86
+C10326,Customer 0327,Chennai,SMB,Outbound,2024-11-24,841,At Risk,130511.99
+C10327,Customer 0328,Mumbai,SMB,Referral,2024-09-01,236,Active,36841.57
+C10328,Customer 0329,Bengaluru,SMB,Organic,2025-09-13,792,Active,43502.18
+C10329,Customer 0330,Pune,SMB,Partner,2025-09-30,296,Active,29716.0
+C10330,Customer 0331,,SMB,Event,2024-03-19,288,Active,33204.22
+C10331,Customer 0332,Pune,Mid-Market,Referral,2025-11-05,81,Active,6982.09
+C10332,Customer 0333,Bengaluru,Enterprise,Paid Search,2024-02-29,362,Active,80786.74
+C10333,Customer 0334,Delhi NCR,Enterprise,Partner,2025-06-10,425,Active,50429.35
+C10334,Customer 0335,Kochi,SMB,Event,2024-11-26,565,Active,43641.76
+C10335,Customer 0336,Bengaluru,Mid-Market,Partner,2024-09-13,138,Active,23370.23
+C10336,Customer 0337,Kochi,SMB,Organic,2025-02-14,164,Active,12225.32
+C10337,Customer 0338,Pune,Mid-Market,Referral,2024-09-20,370,Active,77712.62
+C10338,Customer 0339,Ahmedabad,Mid-Market,Event,2025-11-05,63,Active,5799.21
+C10339,Customer 0340,Bengaluru,Mid-Market,Partner,2026-04-01,126,Active,20348.07
+C10340,Customer 0341,Pune,Enterprise,Partner,2025-11-24,536,Active,81168.44
+C10341,Customer 0342,Ahmedabad,SMB,Paid Search,2025-01-08,811,Active,141361.34
+C10342,Customer 0343,Kochi,Mid-Market,Partner,2025-03-03,489,Active,89125.27
+C10343,Customer 0344,Bengaluru,Mid-Market,Referral,2025-01-15,127,Active,16353.07
+C10344,Customer 0345,Kochi,SMB,Partner,2025-11-05,842,Active,117587.74
+C10345,Customer 0346,Hyderabad,Enterprise,Organic,2025-04-14,445,Churned,56142.99
+C10346,Customer 0347,Chennai,SMB,Partner,2025-02-01,610,At Risk,64485.5
+C10347,Customer 0348,Delhi NCR,Enterprise,Event,2024-12-14,171,Active,16250.73
+C10348,Customer 0349,Chennai,Mid-Market,Event,2024-11-14,493,Active,84887.76
+C10349,Customer 0350,Chennai,SMB,Referral,2025-04-14,69,Active,4965.8
+C10350,Customer 0351,Hyderabad,Mid-Market,Paid Search,2025-08-08,533,At Risk,126679.15
+C10351,Customer 0352,Chennai,SMB,Outbound,2025-01-02,175,At Risk,23145.3
+C10352,Customer 0353,Ahmedabad,Mid-Market,Partner,2025-11-16,773,Active,143571.6
+C10353,Customer 0354,Delhi NCR,Mid-Market,Referral,2025-12-03,51,Active,6957.43
+C10354,Customer 0355,Mumbai,Mid-Market,Outbound,2024-12-30,556,Active,68946.28
+C10355,Customer 0356,Ahmedabad,Enterprise,Outbound,2026-02-11,122,At Risk,16779.27
+C10356,Customer 0357,Hyderabad,SMB,Partner,2024-05-27,585,At Risk,102801.12
+C10357,Customer 0358,Delhi NCR,SMB,Outbound,2026-03-03,421,Active,77197.1
+C10358,Customer 0359,Chennai,SMB,Referral,2024-09-06,822,Active,65689.2
+C10359,Customer 0360,Delhi NCR,SMB,Event,2025-04-24,555,Active,79833.7
+C10360,Customer 0361,Ahmedabad,SMB,Partner,2024-08-29,319,Active,31939.49
+C10361,Customer 0362,Delhi NCR,SMB,Referral,2025-01-10,78,At Risk,5121.29
+C10362,Customer 0363,Ahmedabad,SMB,Outbound,2024-10-16,508,Active,52532.92
+C10363,Customer 0364,Hyderabad,SMB,Partner,2025-08-22,377,Active,30619.86
+C10364,Customer 0365,Pune,Enterprise,Outbound,2024-03-10,49,Active,6463.52
+C10365,Customer 0366,Chennai,SMB,Organic,2025-12-13,496,Active,76509.64
+C10366,Customer 0367,Bengaluru,Enterprise,Outbound,2026-02-07,182,At Risk,32044.76
+C10367,Customer 0368,Bengaluru,SMB,Referral,2025-04-23,202,Active,33320.73
+C10368,Customer 0369,Pune,SMB,Partner,2025-04-10,12,At Risk,1443.18
+C10369,Customer 0370,Pune,SMB,Organic,2025-08-17,319,Active,57728.65
+C10370,Customer 0371,,SMB,Outbound,2024-06-18,189,Active,23607.71
+C10371,Customer 0372,Hyderabad,SMB,Partner,2025-09-29,65,Active,9871.62
+C10372,Customer 0373,Chennai,SMB,Paid Search,2024-07-04,371,Active,37327.08
+C10373,Customer 0374,Ahmedabad,SMB,Organic,2025-07-28,191,Active,23002.54
+C10374,Customer 0375,Hyderabad,SMB,Event,2024-09-16,118,Active,15131.75
+C10375,Customer 0376,Delhi NCR,Mid-Market,Referral,2025-09-26,399,Active,77348.7
+C10376,Customer 0377,Delhi NCR,SMB,Event,2025-11-03,58,Active,4272.82
+C10377,Customer 0378,Ahmedabad,Mid-Market,Organic,2024-06-26,841,Active,167119.44
+C10378,Customer 0379,Mumbai,SMB,Partner,2025-06-08,402,Active,48881.93
+C10379,Customer 0380,Delhi NCR,Enterprise,Referral,2025-02-27,846,At Risk,151561.72
+C10380,Customer 0381,Pune,Mid-Market,Referral,2024-09-06,749,Churned,175882.59
+C10381,Customer 0382,Hyderabad,Enterprise,Outbound,2025-05-15,832,Active,175799.65
+C10382,Customer 0383,Kochi,Mid-Market,Event,2026-04-23,463,Active,49716.22
+C10383,Customer 0384,Kochi,SMB,Outbound,2024-01-03,362,Active,52352.59
+C10384,Customer 0385,Pune,Mid-Market,Organic,2026-03-24,613,Churned,79145.92
+C10385,Customer 0386,Pune,SMB,Partner,2025-12-28,73,Active,3909.06
+C10386,Customer 0387,Pune,Mid-Market,Event,2025-03-25,714,Active,72293.11
+C10387,Customer 0388,Kochi,Mid-Market,Referral,2025-06-02,278,Active,34403.64
+C10388,Customer 0389,Ahmedabad,SMB,Event,2024-11-09,11,At Risk,1701.38
+C10389,Customer 0390,Delhi NCR,Enterprise,Referral,2024-04-19,205,Active,60837.92
+C10390,Customer 0391,Delhi NCR,SMB,Organic,2025-04-30,209,Active,25245.86
+C10391,Customer 0392,Pune,Mid-Market,Paid Search,2025-11-24,16,Active,1213.06
+C10392,Customer 0393,Bengaluru,Mid-Market,Outbound,2024-07-15,569,Active,108247.2
+C10393,Customer 0394,Kochi,SMB,Referral,2025-09-01,85,At Risk,15517.64
+C10394,Customer 0395,Kochi,Mid-Market,Organic,2025-09-27,720,Active,141992.47
+C10395,Customer 0396,Pune,Mid-Market,Partner,2025-10-06,387,Active,43533.0
+C10396,Customer 0397,Mumbai,SMB,Event,2024-10-16,611,Active,40361.16
+C10397,Customer 0398,Mumbai,SMB,Event,2024-11-29,292,Active,41558.65
+C10398,Customer 0399,Delhi NCR,SMB,Outbound,2024-12-19,116,Active,20428.98
+C10399,Customer 0400,Pune,Mid-Market,Organic,2025-12-27,157,Active,13376.88
+C10400,Customer 0401,Kochi,SMB,Referral,2026-02-04,550,Churned,77637.44
+C10401,Customer 0402,Pune,Enterprise,Outbound,2024-12-17,610,Active,77360.23
+C10402,Customer 0403,Ahmedabad,Enterprise,Referral,2026-04-04,231,Active,31172.48
+C10403,Customer 0404,Ahmedabad,SMB,Referral,2025-04-29,306,Active,38921.74
+C10404,Customer 0405,Pune,SMB,Paid Search,2024-11-23,803,Active,96369.84
+C10405,Customer 0406,Mumbai,Mid-Market,Partner,2024-01-01,724,Active,104160.47
+C10406,Customer 0407,Chennai,Mid-Market,Partner,2025-06-03,354,Active,69579.3
+C10407,Customer 0408,Delhi NCR,SMB,Outbound,2025-07-02,208,Active,33682.06
+C10408,Customer 0409,Pune,SMB,Organic,2026-04-03,259,Active,16793.5
+C10409,Customer 0410,Kochi,SMB,Organic,2025-09-02,459,Active,52288.0
+C10410,Customer 0411,Mumbai,Enterprise,Paid Search,2024-01-26,483,At Risk,113548.05
+C10411,Customer 0412,Chennai,SMB,Outbound,2025-04-27,160,Active,22633.49
+C10412,Customer 0413,Hyderabad,Enterprise,Referral,2025-09-23,60,Active,17761.23
+C10413,Customer 0414,Pune,SMB,Referral,2025-02-26,423,At Risk,62643.77
+C10414,Customer 0415,Delhi NCR,Enterprise,Referral,2024-12-30,678,Active,87218.34
+C10415,Customer 0416,Delhi NCR,SMB,Organic,2025-11-19,133,Active,12051.38
+C10416,Customer 0417,Chennai,SMB,Partner,2025-06-03,350,Active,60714.14
+C10417,Customer 0418,Bengaluru,Enterprise,Organic,2025-08-02,141,Active,51790.65
+C10418,Customer 0419,Chennai,Enterprise,Outbound,2025-01-29,209,Active,26583.35
+C10419,Customer 0420,Pune,SMB,Outbound,2024-08-24,522,Active,34543.7
+C10420,Customer 0421,Mumbai,SMB,Partner,2025-03-17,246,Active,35428.76
+C10421,Customer 0422,Bengaluru,SMB,Partner,2026-03-26,227,Active,13618.57
+C10422,Customer 0423,Delhi NCR,SMB,Partner,2025-05-27,846,Active,52024.7
+C10423,Customer 0424,Bengaluru,SMB,Event,2025-08-24,150,Active,21220.96
+C10424,Customer 0425,Mumbai,Enterprise,Paid Search,2024-04-15,164,Active,44380.35
+C10425,Customer 0426,Pune,SMB,Outbound,2026-04-19,790,Active,124733.2
+C10426,Customer 0427,Hyderabad,Mid-Market,Paid Search,2024-07-26,469,At Risk,70239.37
+C10427,Customer 0428,Pune,SMB,Outbound,2026-04-05,41,Active,3556.48
+C10428,Customer 0429,Bengaluru,SMB,Referral,2025-01-13,364,Active,67429.7
+C10429,Customer 0430,Ahmedabad,Mid-Market,Partner,2026-02-20,482,Active,61959.3
+C10430,Customer 0431,Pune,SMB,Event,2026-01-28,218,Active,21885.49
+C10431,Customer 0432,Mumbai,Mid-Market,Outbound,2025-10-04,468,At Risk,106541.14
+C10432,Customer 0433,Chennai,SMB,Outbound,2026-02-17,552,Active,88290.24
+C10433,Customer 0434,Hyderabad,Enterprise,Event,2025-06-02,216,Active,72601.18
+C10434,Customer 0435,Hyderabad,Mid-Market,Partner,2025-12-22,691,At Risk,58320.41
+C10435,Customer 0436,Ahmedabad,Enterprise,Organic,2024-05-26,387,Active,144366.05
+C10436,Customer 0437,Kochi,SMB,Referral,2024-02-29,819,Active,86855.34
+C10437,Customer 0438,Bengaluru,SMB,Partner,2025-04-06,79,Active,11365.68
+C10438,Customer 0439,Mumbai,SMB,Paid Search,2025-11-19,278,Active,52559.09
+C10439,Customer 0440,Bengaluru,Mid-Market,Partner,2025-10-12,614,Active,79321.96
+C10440,Customer 0441,Delhi NCR,SMB,Paid Search,2025-03-24,761,Active,114653.65
+C10441,Customer 0442,Mumbai,SMB,Paid Search,2025-03-18,192,Active,24498.21
+C10442,Customer 0443,Mumbai,SMB,Paid Search,2025-06-02,833,Active,105371.4
+C10443,Customer 0444,Chennai,SMB,Outbound,2026-01-08,168,Active,22555.66
+C10444,Customer 0445,Bengaluru,SMB,Referral,2025-12-16,356,Active,41765.44
+C10445,Customer 0446,Ahmedabad,SMB,Paid Search,2024-04-03,271,Active,14433.94
+C10446,Customer 0447,Pune,SMB,Organic,2025-05-21,363,Active,29529.16
+C10447,Customer 0448,Kochi,Mid-Market,Referral,2024-11-19,767,Active,182291.03
+C10448,Customer 0449,Bengaluru,SMB,Partner,2025-11-10,624,At Risk,107917.35
+C10449,Customer 0450,Pune,SMB,Partner,2025-03-06,678,Active,128435.1
+C10450,Customer 0451,Kochi,Mid-Market,Paid Search,2026-04-22,219,Active,14215.17
+C10451,Customer 0452,Bengaluru,Mid-Market,Organic,2025-01-02,805,Active,101489.75
+C10452,Customer 0453,Kochi,SMB,Paid Search,2025-07-31,373,Active,62141.1
+C10453,Customer 0454,Mumbai,Mid-Market,Partner,2024-04-02,555,Active,130042.47
+C10454,Customer 0455,Kochi,Enterprise,Event,2026-03-03,594,Churned,68554.05
+C10455,Customer 0456,Delhi NCR,Mid-Market,Event,2024-05-10,565,Active,83311.15
+C10456,Customer 0457,Kochi,Enterprise,Organic,2024-11-17,513,Active,75316.84
+C10457,Customer 0458,Bengaluru,Mid-Market,Referral,2025-12-12,410,Churned,74514.05
+C10458,Customer 0459,Delhi NCR,SMB,Referral,2026-04-02,552,Active,45278.64
+C10459,Customer 0460,Mumbai,SMB,Paid Search,2025-02-15,769,Churned,42538.61
+C10460,Customer 0461,Bengaluru,Mid-Market,Paid Search,2025-02-16,334,Active,23963.19
+C10461,Customer 0462,Mumbai,Enterprise,Outbound,2024-02-11,436,Active,137350.81
+C10462,Customer 0463,Delhi NCR,SMB,Paid Search,2026-04-12,157,Churned,27060.25
+C10463,Customer 0464,Bengaluru,SMB,Organic,2024-01-15,305,Active,56022.26
+C10464,Customer 0465,Pune,Mid-Market,Paid Search,2024-01-23,657,Active,93514.37
+C10465,Customer 0466,Chennai,SMB,Partner,2025-02-06,546,Active,61565.78
+C10466,Customer 0467,Kochi,Mid-Market,Paid Search,2024-01-04,183,Active,27930.78
+C10467,Customer 0468,Pune,SMB,Partner,2024-05-19,466,Active,60935.02
+C10468,Customer 0469,Bengaluru,Mid-Market,Organic,2025-06-17,691,Active,104105.98
+C10469,Customer 0470,Hyderabad,Enterprise,Event,2025-08-22,109,Active,27835.47
+C10470,Customer 0471,Delhi NCR,Mid-Market,Organic,2024-09-10,57,Active,11216.39
+C10471,Customer 0472,Delhi NCR,Mid-Market,Outbound,2025-11-07,336,Active,77085.05
+C10472,Customer 0473,Bengaluru,Mid-Market,Outbound,2025-05-31,559,Active,63499.65
+C10473,Customer 0474,Kochi,Mid-Market,Referral,2024-07-13,269,Active,52274.22
+C10474,Customer 0475,Chennai,Enterprise,Event,2025-08-28,698,Active,104877.05
+C10475,Customer 0476,Pune,SMB,Organic,2025-05-18,720,Active,41005.9
+C10476,Customer 0477,Hyderabad,Mid-Market,Partner,2025-11-21,454,Active,84242.04
+C10477,Customer 0478,Kochi,SMB,Partner,2024-05-11,325,Active,40947.8
+C10478,Customer 0479,Bengaluru,Enterprise,Referral,2024-07-15,40,Active,9867.41
+C10479,Customer 0480,Delhi NCR,Mid-Market,Referral,2024-09-15,699,Active,67785.58
+C10480,Customer 0481,Delhi NCR,SMB,Event,2024-10-17,761,Active,130036.03
+C10481,Customer 0482,Kochi,SMB,Paid Search,2026-01-25,378,Churned,64632.22
+C10482,Customer 0483,Mumbai,SMB,Partner,2025-09-14,441,At Risk,52222.35
+C10483,Customer 0484,Bengaluru,Mid-Market,Event,2025-04-07,641,Active,116458.24
+C10484,Customer 0485,Mumbai,SMB,Outbound,2025-04-04,592,Churned,53727.47
+C10485,Customer 0486,Mumbai,SMB,Outbound,2026-01-23,119,At Risk,17551.13
+C10486,Customer 0487,Bengaluru,Enterprise,Paid Search,2025-01-14,573,Active,166885.44
+C10487,Customer 0488,Bengaluru,Mid-Market,Paid Search,2024-07-10,786,Active,181010.66
+C10488,Customer 0489,Bengaluru,SMB,Paid Search,2024-04-26,639,Active,110314.18
+C10489,Customer 0490,Delhi NCR,SMB,Outbound,2024-10-07,411,Active,52818.62
+C10490,Customer 0491,Mumbai,Enterprise,Partner,2025-07-09,447,Active,120377.33
+C10491,Customer 0492,Delhi NCR,Mid-Market,Event,2025-02-04,224,Active,39783.63
+C10492,Customer 0493,Pune,Mid-Market,Partner,2024-12-24,563,Active,59049.38
+C10493,Customer 0494,Bengaluru,SMB,Paid Search,2025-02-12,209,Churned,14951.82
+C10494,Customer 0495,Ahmedabad,SMB,Partner,2026-04-08,293,Active,46726.74
+C10495,Customer 0496,Kochi,SMB,Referral,2026-04-28,228,Active,31040.12
+C10496,Customer 0497,Bengaluru,Mid-Market,Outbound,2024-05-17,288,Active,51711.48
+C10497,Customer 0498,Mumbai,SMB,Event,2024-04-07,314,Active,46323.77
+C10498,Customer 0499,Bengaluru,SMB,Outbound,2024-07-26,75,At Risk,10538.39
+C10499,Customer 0500,Mumbai,Mid-Market,Partner,2025-12-25,611,Active,74421.67
+C10500,Customer 0501,Mumbai,Enterprise,Partner,2025-01-25,377,Active,69747.49
+C10501,Customer 0502,Bengaluru,Mid-Market,Event,2026-01-04,807,Active,151680.01
+C10502,Customer 0503,Hyderabad,SMB,Paid Search,2025-07-03,157,Active,23490.12
+C10503,Customer 0504,Delhi NCR,SMB,Organic,2025-04-15,570,Active,68113.59
+C10504,Customer 0505,Pune,SMB,Outbound,2024-08-27,156,At Risk,21349.74
+C10505,Customer 0506,Mumbai,SMB,Referral,2024-10-19,467,Active,75551.55
+C10506,Customer 0507,Kochi,Mid-Market,Organic,2024-05-05,419,Active,81828.94
+C10507,Customer 0508,Mumbai,SMB,Outbound,2025-03-17,384,Active,71953.74
+C10508,Customer 0509,Ahmedabad,Mid-Market,Referral,2024-08-26,558,Active,45889.87
+C10509,Customer 0510,Bengaluru,Enterprise,Referral,2024-09-05,704,Active,211091.04
+C10510,Customer 0511,Chennai,Enterprise,Event,2024-02-03,272,Active,50617.1
+C10511,Customer 0512,Kochi,SMB,Paid Search,2025-11-10,722,Active,42470.99
+C10512,Customer 0513,Hyderabad,SMB,Paid Search,2026-03-09,161,Active,21061.55
+C10513,Customer 0514,Ahmedabad,SMB,Referral,2025-02-27,252,Churned,30686.88
+C10514,Customer 0515,Mumbai,SMB,Partner,2025-03-31,267,Active,32184.27
+C10515,Customer 0516,Delhi NCR,SMB,Organic,2026-02-25,810,Active,109544.74
+C10516,Customer 0517,Pune,SMB,Event,2025-03-10,105,Active,10237.24
+C10517,Customer 0518,Pune,Mid-Market,Partner,2025-06-13,338,Active,32074.15
+C10518,Customer 0519,Hyderabad,SMB,Referral,2024-12-29,363,Active,30476.18
+C10519,Customer 0520,Kochi,Enterprise,Partner,2025-03-13,681,Active,154688.22
+C10520,Customer 0521,Chennai,SMB,Partner,2025-03-19,415,Active,62656.38
+C10521,Customer 0522,Ahmedabad,SMB,Referral,2025-08-27,821,Active,154958.26
+C10522,Customer 0523,Delhi NCR,SMB,Outbound,2025-05-28,630,Active,91052.51
+C10523,Customer 0524,Chennai,SMB,Paid Search,2025-03-04,599,Active,37392.09
+C10524,Customer 0525,Delhi NCR,SMB,Organic,2024-03-05,641,Active,66519.84
+C10525,Customer 0526,Ahmedabad,Enterprise,Partner,2026-02-07,141,Active,19427.62
+C10526,Customer 0527,Kochi,SMB,Organic,2026-01-25,384,Active,43590.18
+C10527,Customer 0528,Ahmedabad,SMB,Event,2024-06-05,500,Active,49225.66
+C10528,Customer 0529,Chennai,Mid-Market,Partner,2024-09-06,181,At Risk,30901.55
+C10529,Customer 0530,Kochi,SMB,Paid Search,2026-04-07,105,At Risk,17750.21
+C10530,Customer 0531,Mumbai,Mid-Market,Organic,2024-09-29,119,Active,22254.8
+C10531,Customer 0532,Delhi NCR,SMB,Paid Search,2025-11-21,671,Active,64864.24
+C10532,Customer 0533,Kochi,Mid-Market,Event,2025-10-29,560,Active,65950.55
+C10533,Customer 0534,Hyderabad,SMB,Paid Search,2026-01-01,242,Active,39341.95
+C10534,Customer 0535,Pune,SMB,Referral,2024-01-14,627,Active,74469.89
+C10535,Customer 0536,Hyderabad,Mid-Market,Partner,2025-02-14,592,At Risk,46347.92
+C10536,Customer 0537,Chennai,Enterprise,Organic,2025-04-25,694,Active,168732.91
+C10537,Customer 0538,Delhi NCR,SMB,Outbound,2025-12-12,774,Active,97185.46
+C10538,Customer 0539,Delhi NCR,Mid-Market,Organic,2024-07-09,750,Active,137948.21
+C10539,Customer 0540,Delhi NCR,SMB,Paid Search,2024-09-17,157,Active,14512.99
+C10540,Customer 0541,Delhi NCR,SMB,Partner,2024-06-01,655,At Risk,72298.99
+C10541,Customer 0542,Delhi NCR,SMB,Organic,2025-10-09,336,Active,38828.3
+C10542,Customer 0543,Delhi NCR,Mid-Market,Referral,2026-04-29,345,Active,45066.23
+C10543,Customer 0544,Chennai,SMB,Event,2024-04-29,551,Active,64923.7
+C10544,Customer 0545,Kochi,Mid-Market,Organic,2024-07-17,513,Active,81271.26
+C10545,Customer 0546,Chennai,SMB,Outbound,2024-09-17,359,Active,49621.36
+C10546,Customer 0547,Pune,Enterprise,Referral,2026-01-25,849,Active,234495.24
+C10547,Customer 0548,Kochi,Mid-Market,Outbound,2025-01-13,152,Active,16357.55
+C10548,Customer 0549,Ahmedabad,SMB,Organic,2024-08-27,86,Active,5113.62
+C10549,Customer 0550,Hyderabad,SMB,Event,2024-09-30,29,Active,5247.6
+C10550,Customer 0551,Pune,SMB,Organic,2025-05-23,693,Active,148934.96
+C10551,Customer 0552,Bengaluru,Enterprise,Event,2024-11-24,348,Active,96802.36
+C10552,Customer 0553,Bengaluru,SMB,Referral,2024-04-29,374,At Risk,23492.11
+C10553,Customer 0554,Kochi,Mid-Market,Paid Search,2025-11-28,553,Active,62128.05
+C10554,Customer 0555,Hyderabad,SMB,Organic,2024-12-24,372,Active,19234.54
+C10555,Customer 0556,Kochi,Mid-Market,Referral,2024-08-06,490,Churned,97450.5
+C10556,Customer 0557,Kochi,SMB,Organic,2025-09-11,54,Active,6159.19
+C10557,Customer 0558,Ahmedabad,SMB,Referral,2025-09-25,137,Active,15209.27
+C10558,Customer 0559,Pune,Enterprise,Outbound,2024-05-11,792,Active,157010.46
+C10559,Customer 0560,Kochi,SMB,Partner,2024-03-03,385,Active,28156.9
+C10560,Customer 0561,Hyderabad,Mid-Market,Partner,2024-02-08,146,Active,22762.67
+C10561,Customer 0562,Ahmedabad,SMB,Partner,2025-10-12,317,At Risk,21677.16
+C10562,Customer 0563,Bengaluru,SMB,Partner,2025-06-15,287,Active,32496.65
+C10563,Customer 0564,Mumbai,Enterprise,Organic,2025-11-04,236,Active,57991.0
+C10564,Customer 0565,Bengaluru,Mid-Market,Partner,2025-06-16,253,Active,48060.03
+C10565,Customer 0566,Delhi NCR,Mid-Market,Referral,2024-12-07,621,Active,76204.36
+C10566,Customer 0567,Pune,SMB,Partner,2025-05-16,95,Active,15142.77
+C10567,Customer 0568,Mumbai,SMB,Outbound,2025-09-06,266,Active,31404.78
+C10568,Customer 0569,Kochi,SMB,Outbound,2024-12-05,400,Active,30103.5
+C10569,Customer 0570,Chennai,Mid-Market,Outbound,2026-02-16,461,Active,50664.85
+C10570,Customer 0571,Pune,SMB,Referral,2026-02-03,749,Active,108144.04
+C10571,Customer 0572,Ahmedabad,SMB,Partner,2025-11-11,785,Active,73499.52
+C10572,Customer 0573,Delhi NCR,SMB,Event,2026-04-23,256,Active,17457.2
+C10573,Customer 0574,Mumbai,SMB,Partner,2024-11-27,460,Active,32160.01
+C10574,Customer 0575,Ahmedabad,SMB,Paid Search,2024-04-06,23,Active,1550.62
+C10575,Customer 0576,Chennai,SMB,Paid Search,2025-02-15,526,Active,60346.39
+C10576,Customer 0577,Chennai,Enterprise,Outbound,2025-09-26,134,Active,25592.02
+C10577,Customer 0578,Mumbai,Mid-Market,Referral,2025-10-24,66,Active,6393.52
+C10578,Customer 0579,Bengaluru,SMB,Outbound,2024-11-26,572,Active,88266.43
+C10579,Customer 0580,Bengaluru,Mid-Market,Event,2024-09-05,155,Active,15907.31
+C10580,Customer 0581,Bengaluru,Mid-Market,Paid Search,2025-01-13,408,Active,42697.54
+C10581,Customer 0582,Bengaluru,SMB,Event,2025-11-14,90,Active,7918.73
+C10582,Customer 0583,Pune,SMB,Partner,2024-02-21,635,Active,93274.14
+C10583,Customer 0584,Hyderabad,SMB,Event,2024-10-05,651,Active,127662.19
+C10584,Customer 0585,Pune,SMB,Partner,2024-07-14,490,At Risk,67106.54
+C10585,Customer 0586,Ahmedabad,Mid-Market,Event,2025-11-16,711,At Risk,68407.75
+C10586,Customer 0587,Kochi,Enterprise,Paid Search,2025-02-03,374,Active,57198.3
+C10587,Customer 0588,Delhi NCR,SMB,Event,2024-03-14,162,Active,10968.87
+C10588,Customer 0589,Hyderabad,Mid-Market,Organic,2024-08-10,132,Active,29814.92
+C10589,Customer 0590,Kochi,SMB,Paid Search,2024-02-07,190,Churned,13104.47
+C10590,Customer 0591,Hyderabad,Mid-Market,Event,2025-02-08,174,Active,43318.68
+C10591,Customer 0592,Pune,Mid-Market,Organic,2026-04-28,278,Active,44810.47
+C10592,Customer 0593,Pune,SMB,Partner,2025-04-27,186,Active,18381.8
+C10593,Customer 0594,Bengaluru,SMB,Organic,2026-01-09,504,Active,71695.29
+C10594,Customer 0595,Pune,Mid-Market,Partner,2025-09-23,130,Active,8839.0
+C10595,Customer 0596,Bengaluru,Enterprise,Paid Search,2026-01-20,530,Active,123309.8
+C10596,Customer 0597,Bengaluru,SMB,Referral,2024-09-21,287,Active,23373.01
+C10597,Customer 0598,Kochi,SMB,Partner,2026-03-19,585,Active,75444.29
+C10598,Customer 0599,Ahmedabad,SMB,Organic,2024-07-21,438,At Risk,55224.32
+C10599,Customer 0600,Mumbai,Mid-Market,Partner,2025-01-07,769,At Risk,76670.79
+C10600,Customer 0601,Ahmedabad,Mid-Market,Event,2025-08-02,376,Active,76265.02
+C10601,Customer 0602,Ahmedabad,Mid-Market,Event,2024-08-31,254,Active,20247.36
+C10602,Customer 0603,Kochi,Mid-Market,Partner,2024-08-12,502,Active,52832.21
+C10603,Customer 0604,Bengaluru,Enterprise,Partner,2024-04-20,561,At Risk,144817.92
+C10604,Customer 0605,Mumbai,Mid-Market,Organic,2024-01-04,376,Active,56900.84
+C10605,Customer 0606,Pune,SMB,Event,2025-03-02,477,Active,88781.34
+C10606,Customer 0607,Ahmedabad,Mid-Market,Outbound,2026-04-18,402,At Risk,80114.35
+C10607,Customer 0608,Kochi,SMB,Outbound,2024-07-06,263,Active,39277.3
+C10608,Customer 0609,Delhi NCR,SMB,Partner,2025-01-09,269,Active,29421.01
+C10609,Customer 0610,Bengaluru,Enterprise,Referral,2026-03-06,771,Active,94357.26
+C10610,Customer 0611,Ahmedabad,Mid-Market,Organic,2025-10-18,575,Active,149395.07
+C10611,Customer 0612,Mumbai,Enterprise,Outbound,2024-01-04,85,Active,10847.63
+C10612,Customer 0613,Mumbai,SMB,Referral,2025-03-01,817,Active,105555.1
+C10613,Customer 0614,Ahmedabad,Mid-Market,Partner,2024-05-01,606,Churned,79860.8
+C10614,Customer 0615,Chennai,SMB,Outbound,2024-07-28,47,Active,4550.06
+C10615,Customer 0616,Mumbai,SMB,Referral,2024-07-28,620,At Risk,92552.12
+C10616,Customer 0617,Hyderabad,SMB,Paid Search,2025-06-04,503,Active,73143.88
+C10617,Customer 0618,Delhi NCR,Mid-Market,Partner,2024-06-18,778,Active,169611.01
+C10618,Customer 0619,Ahmedabad,SMB,Organic,2024-08-02,418,Churned,62374.96
+C10619,Customer 0620,Delhi NCR,Enterprise,Event,2024-07-10,443,Active,75815.46
+C10620,Customer 0621,Pune,SMB,Partner,2024-10-30,270,Active,33640.39
+C10621,Customer 0622,Mumbai,SMB,Partner,2025-07-11,276,Active,17306.49
+C10622,Customer 0623,Kochi,Mid-Market,Outbound,2024-12-05,527,Active,102176.43
+C10623,Customer 0624,Kochi,SMB,Partner,2024-10-05,704,At Risk,65554.06
+C10624,Customer 0625,Chennai,Enterprise,Paid Search,2025-03-15,757,Active,159242.67
+C10625,Customer 0626,Kochi,Mid-Market,Outbound,2025-06-06,656,Active,58520.2
+C10626,Customer 0627,Chennai,SMB,Referral,2024-01-14,520,Active,74019.26
+C10627,Customer 0628,Delhi NCR,Mid-Market,Referral,2026-01-26,427,Active,105529.23
+C10628,Customer 0629,Pune,Mid-Market,Organic,2026-02-17,291,Active,59751.67
+C10629,Customer 0630,Kochi,Mid-Market,Paid Search,2025-05-27,653,Active,63716.04
+C10630,Customer 0631,Kochi,Mid-Market,Paid Search,2025-05-03,273,Active,59167.47
+C10631,Customer 0632,Bengaluru,Mid-Market,Referral,2025-08-13,231,Active,29202.76
+C10632,Customer 0633,Pune,Mid-Market,Organic,2025-01-09,738,At Risk,96091.63
+C10633,Customer 0634,Hyderabad,SMB,Organic,2024-11-06,503,Active,46755.08
+C10634,Customer 0635,Chennai,Mid-Market,Outbound,2024-10-26,304,Active,38386.49
+C10635,Customer 0636,Chennai,Enterprise,Outbound,2024-05-15,736,Active,177979.24
+C10636,Customer 0637,Mumbai,Mid-Market,Outbound,2025-12-15,818,Active,109061.86
+C10637,Customer 0638,Ahmedabad,Mid-Market,Partner,2024-09-29,273,Active,39385.97
+C10638,Customer 0639,Ahmedabad,SMB,Event,2024-08-29,445,Active,50408.46
+C10639,Customer 0640,Hyderabad,Mid-Market,Partner,2026-03-30,413,Active,80778.76
+C10640,Customer 0641,Bengaluru,Enterprise,Referral,2025-03-06,597,At Risk,164828.17
+C10641,Customer 0642,Bengaluru,SMB,Organic,2025-06-12,808,Active,104219.01
+C10642,Customer 0643,Ahmedabad,SMB,Event,2024-07-27,468,Active,35049.85
+C10643,Customer 0644,Chennai,Mid-Market,Partner,2024-08-23,679,Churned,149487.52
+C10644,Customer 0645,Pune,SMB,Outbound,2025-09-11,508,Active,28884.1
+C10645,Customer 0646,Kochi,Mid-Market,Partner,2025-01-18,754,At Risk,99415.96
+C10646,Customer 0647,Kochi,SMB,Outbound,2024-05-05,346,Active,23420.0
+C10647,Customer 0648,Hyderabad,SMB,Paid Search,2025-12-11,330,At Risk,49597.25
+C10648,Customer 0649,Bengaluru,Mid-Market,Organic,2024-12-08,361,Active,53486.13
+C10649,Customer 0650,Delhi NCR,Mid-Market,Partner,2025-07-22,847,Active,180459.91
+C10650,Customer 0651,Mumbai,Mid-Market,Outbound,2024-10-17,521,Active,71835.05
+C10651,Customer 0652,Pune,Mid-Market,Partner,2025-04-21,133,Active,23859.75
+C10652,Customer 0653,Bengaluru,Mid-Market,Partner,2025-10-21,39,Active,5009.52
+C10653,Customer 0654,Mumbai,Mid-Market,Referral,2026-01-22,443,Churned,38216.24
+C10654,Customer 0655,Bengaluru,Mid-Market,Partner,2024-06-25,685,Active,109321.24
+C10655,Customer 0656,Bengaluru,Mid-Market,Organic,2025-07-25,409,Active,73933.84
+C10656,Customer 0657,Bengaluru,Mid-Market,Referral,2026-02-16,478,At Risk,72799.29
+C10657,Customer 0658,Bengaluru,SMB,Outbound,2025-06-30,679,Active,44610.06
+C10658,Customer 0659,Chennai,SMB,Outbound,2024-05-01,441,Active,57777.02
+C10659,Customer 0660,Delhi NCR,Mid-Market,Event,2024-06-10,772,Active,113523.44
+C10660,Customer 0661,Delhi NCR,Enterprise,Organic,2024-06-21,544,Active,52436.58
+C10661,Customer 0662,Delhi NCR,Mid-Market,Paid Search,2024-03-31,622,Active,54405.9
+C10662,Customer 0663,Pune,SMB,Partner,2025-10-02,665,Active,80315.99
+C10663,Customer 0664,Kochi,Mid-Market,Event,2026-03-31,534,Active,64807.35
+C10664,Customer 0665,Chennai,SMB,Referral,2025-03-15,47,Active,5587.25
+C10665,Customer 0666,Pune,Mid-Market,Organic,2025-05-24,366,Active,43129.22
+C10666,Customer 0667,Pune,Mid-Market,Outbound,2025-10-19,124,Active,25761.94
+C10667,Customer 0668,Pune,Mid-Market,Organic,2024-12-19,436,Active,46463.44
+C10668,Customer 0669,Bengaluru,Mid-Market,Partner,2025-02-05,125,Active,23251.56
+C10669,Customer 0670,Ahmedabad,SMB,Outbound,2025-05-15,435,Active,69197.91
+C10670,Customer 0671,Bengaluru,SMB,Referral,2024-09-15,295,Active,33774.15
+C10671,Customer 0672,Delhi NCR,Enterprise,Outbound,2024-02-22,22,Active,2276.26
+C10672,Customer 0673,Pune,Mid-Market,Referral,2025-04-27,110,Active,16287.05
+C10673,Customer 0674,Delhi NCR,SMB,Event,2025-11-29,430,At Risk,91078.47
+C10674,Customer 0675,Bengaluru,SMB,Referral,2024-03-03,71,Active,12811.01
+C10675,Customer 0676,Ahmedabad,SMB,Organic,2024-07-03,728,Active,48775.44
+C10676,Customer 0677,Hyderabad,SMB,Organic,2024-08-11,646,Active,108938.7
+C10677,Customer 0678,Bengaluru,SMB,Outbound,2025-11-14,604,Active,52075.35
+C10678,Customer 0679,Ahmedabad,SMB,Organic,2025-03-04,150,At Risk,12542.86
+C10679,Customer 0680,Pune,Enterprise,Paid Search,2025-03-30,677,At Risk,182283.0
+C10680,Customer 0681,Hyderabad,SMB,Organic,2025-07-02,541,At Risk,75557.79
+C10681,Customer 0682,Kochi,SMB,Partner,2024-08-23,334,Active,48496.56
+C10682,Customer 0683,Ahmedabad,SMB,Referral,2025-08-29,5,Active,720.64
+C10683,Customer 0684,Hyderabad,SMB,Partner,2024-01-26,451,Active,48443.46
+C10684,Customer 0685,Delhi NCR,Mid-Market,Paid Search,2024-04-06,677,Active,117213.09
+C10685,Customer 0686,Delhi NCR,SMB,Event,2025-11-24,33,Active,3497.4
+C10686,Customer 0687,Bengaluru,Mid-Market,Organic,2025-07-13,49,Active,4147.59
+C10687,Customer 0688,Bengaluru,Mid-Market,Organic,2024-05-29,328,Active,37209.54
+C10688,Customer 0689,Bengaluru,SMB,Partner,2025-01-07,437,At Risk,60901.89
+C10689,Customer 0690,Bengaluru,Mid-Market,Outbound,2024-02-14,405,Active,51937.32
+C10690,Customer 0691,Delhi NCR,Enterprise,Paid Search,2025-07-25,365,Active,38322.9
+C10691,Customer 0692,Delhi NCR,SMB,Referral,2025-10-04,220,At Risk,28008.65
+C10692,Customer 0693,Bengaluru,SMB,Organic,2024-08-24,55,Active,11218.79
+C10693,Customer 0694,Mumbai,Enterprise,Outbound,2024-10-24,31,Active,9471.99
+C10694,Customer 0695,Bengaluru,Enterprise,Organic,2024-07-20,88,Active,22416.33
+C10695,Customer 0696,Kochi,Mid-Market,Outbound,2024-11-26,588,Active,91956.14
+C10696,Customer 0697,Bengaluru,Mid-Market,Organic,2024-08-19,669,Active,126056.95
+C10697,Customer 0698,Ahmedabad,SMB,Event,2024-07-29,372,Active,55863.52
+C10698,Customer 0699,Chennai,Mid-Market,Partner,2024-12-31,70,Active,17608.0
+C10699,Customer 0700,Kochi,SMB,Partner,2025-12-31,356,Active,61442.26
+C10700,Customer 0701,Pune,SMB,Paid Search,2025-10-10,837,Active,102801.48
+C10701,Customer 0702,Mumbai,Mid-Market,Organic,2024-09-09,216,Active,23642.46
+C10702,Customer 0703,Chennai,Enterprise,Organic,2026-03-12,419,Active,98894.55
+C10703,Customer 0704,Mumbai,Mid-Market,Referral,2024-06-27,459,Active,46725.16
+C10704,Customer 0705,Hyderabad,SMB,Partner,2026-02-13,283,Active,20487.09
+C10705,Customer 0706,Mumbai,SMB,Paid Search,2024-09-19,375,Active,43198.58
+C10706,Customer 0707,Mumbai,Enterprise,Outbound,2025-04-04,403,Active,111701.44
+C10707,Customer 0708,Bengaluru,Enterprise,Organic,2024-06-21,405,Active,96883.36
+C10708,Customer 0709,Hyderabad,Mid-Market,Paid Search,2025-10-09,611,Active,100930.65
+C10709,Customer 0710,,Mid-Market,Partner,2024-09-27,495,Active,109586.43
+C10710,Customer 0711,Chennai,SMB,Paid Search,2026-01-11,50,Active,6221.19
+C10711,Customer 0712,Delhi NCR,SMB,Partner,2024-03-11,10,Active,1701.45
+C10712,Customer 0713,Ahmedabad,SMB,Organic,2025-03-02,352,Active,15888.43
+C10713,Customer 0714,Bengaluru,SMB,Organic,2024-05-14,772,Active,111856.07
+C10714,Customer 0715,Delhi NCR,SMB,Event,2026-01-25,36,Active,2263.28
+C10715,Customer 0716,Kochi,Mid-Market,Organic,2024-12-20,65,Active,6492.71
+C10716,Customer 0717,Pune,SMB,Outbound,2025-07-27,578,Active,41048.99
+C10717,Customer 0718,Delhi NCR,SMB,Event,2026-01-17,386,Active,49428.29
+C10718,Customer 0719,Mumbai,Mid-Market,Paid Search,2025-03-31,199,Active,32232.45
+C10719,Customer 0720,Hyderabad,SMB,Partner,2024-02-18,180,Active,31914.49
+C10720,Customer 0721,Hyderabad,SMB,Outbound,2024-07-06,566,At Risk,119937.48
+C10721,Customer 0722,Bengaluru,Mid-Market,Event,2024-06-29,447,At Risk,119871.85
+C10722,Customer 0723,Kochi,SMB,Organic,2026-02-16,544,At Risk,36423.1
+C10723,Customer 0724,Pune,Mid-Market,Event,2026-02-11,241,Active,53246.03
+C10724,Customer 0725,Delhi NCR,Enterprise,Event,2025-02-09,449,Active,108529.98
+C10725,Customer 0726,Kochi,SMB,Organic,2026-01-26,731,Active,120863.19
+C10726,Customer 0727,Bengaluru,Enterprise,Organic,2024-07-28,272,Active,37655.28
+C10727,Customer 0728,Bengaluru,Enterprise,Outbound,2025-07-31,339,Active,38240.4
+C10728,Customer 0729,Delhi NCR,Mid-Market,Organic,2024-11-29,143,Active,34386.31
+C10729,Customer 0730,Ahmedabad,Mid-Market,Referral,2024-07-23,544,Active,65358.25
+C10730,Customer 0731,Chennai,Mid-Market,Organic,2024-07-31,32,Active,3494.91
+C10731,Customer 0732,Kochi,Mid-Market,Outbound,2024-12-22,215,At Risk,28982.78
+C10732,Customer 0733,Bengaluru,Mid-Market,Partner,2024-10-15,607,Active,51107.97
+C10733,Customer 0734,Kochi,SMB,Organic,2024-06-28,21,Active,1027.25
+C10734,Customer 0735,Hyderabad,Enterprise,Organic,2024-10-11,840,Active,234842.71
+C10735,Customer 0736,Bengaluru,Mid-Market,Partner,2024-04-19,346,Active,80748.2
+C10736,Customer 0737,Chennai,Mid-Market,Referral,2026-04-04,341,At Risk,65451.49
+C10737,Customer 0738,Hyderabad,SMB,Organic,2024-11-18,458,Active,45439.07
+C10738,Customer 0739,Kochi,SMB,Outbound,2024-04-01,545,At Risk,51931.09
+C10739,Customer 0740,Kochi,SMB,Referral,2025-05-04,393,Active,49793.78
+C10740,Customer 0741,Chennai,SMB,Partner,2026-01-20,752,Active,89352.14
+C10741,Customer 0742,Mumbai,SMB,Event,2024-11-01,817,Active,39998.63
+C10742,Customer 0743,Hyderabad,SMB,Referral,2025-12-19,174,Active,22119.79
+C10743,Customer 0744,Chennai,SMB,Outbound,2025-06-03,602,Active,96520.97
+C10744,Customer 0745,Chennai,Mid-Market,Partner,2025-09-20,259,Active,50161.15
+C10745,Customer 0746,Kochi,SMB,Outbound,2024-09-08,846,Churned,103786.78
+C10746,Customer 0747,Chennai,Enterprise,Referral,2024-02-01,219,Active,39095.72
+C10747,Customer 0748,Bengaluru,SMB,Event,2024-10-20,254,At Risk,15834.41
+C10748,Customer 0749,Hyderabad,SMB,Paid Search,2026-02-24,608,Active,53883.2
+C10749,Customer 0750,Kochi,SMB,Outbound,2025-11-03,671,Churned,72436.95
+C10750,Customer 0751,Bengaluru,Mid-Market,Paid Search,2025-10-28,113,Active,19814.82
+C10751,Customer 0752,Ahmedabad,SMB,Organic,2026-01-16,474,Active,51855.13
+C10752,Customer 0753,Hyderabad,Mid-Market,Organic,2024-11-13,297,Active,61224.67
+C10753,Customer 0754,Pune,Enterprise,Event,2024-09-30,521,Active,75779.88
+C10754,Customer 0755,Ahmedabad,SMB,Outbound,2026-02-25,475,At Risk,23603.14
+C10755,Customer 0756,Delhi NCR,Mid-Market,Paid Search,2025-04-30,838,Active,64457.37
+C10756,Customer 0757,Hyderabad,SMB,Outbound,2024-09-10,793,Active,65035.74
+C10757,Customer 0758,Ahmedabad,SMB,Organic,2024-08-24,557,Active,60233.93
+C10758,Customer 0759,Bengaluru,SMB,Organic,2026-01-15,579,Active,93373.5
+C10759,Customer 0760,Chennai,SMB,Referral,2024-02-15,764,Active,121977.97
+C10760,Customer 0761,Ahmedabad,Mid-Market,Referral,2024-02-22,160,Active,25202.59
+C10761,Customer 0762,Pune,Mid-Market,Event,2025-09-19,618,Active,70777.33
+C10762,Customer 0763,Hyderabad,Mid-Market,Outbound,2024-01-02,657,Active,59937.24
+C10763,Customer 0764,Kochi,SMB,Partner,2024-05-25,112,Active,9715.22
+C10764,Customer 0765,Bengaluru,Mid-Market,Outbound,2026-04-22,749,Churned,92816.08
+C10765,Customer 0766,Pune,SMB,Paid Search,2024-12-27,596,Active,109707.14
+C10766,Customer 0767,Chennai,SMB,Outbound,2025-09-10,298,Active,37553.74
+C10767,Customer 0768,Mumbai,SMB,Partner,2025-02-17,414,Active,40645.17
+C10768,Customer 0769,Delhi NCR,Mid-Market,Organic,2024-03-17,418,Active,49907.01
+C10769,Customer 0770,Hyderabad,Enterprise,Organic,2024-06-05,781,Active,109720.35
+C10770,Customer 0771,Ahmedabad,SMB,Event,2025-10-08,824,Active,149189.09
+C10771,Customer 0772,Bengaluru,Mid-Market,Organic,2024-03-21,686,Active,50339.07
+C10772,Customer 0773,Mumbai,Mid-Market,Event,2025-05-20,556,Active,39150.12
+C10773,Customer 0774,Chennai,Mid-Market,Outbound,2024-10-22,92,Active,9787.31
+C10774,Customer 0775,Pune,Mid-Market,Organic,2024-11-10,778,Churned,183711.44
+C10775,Customer 0776,Chennai,Mid-Market,Event,2026-03-20,118,Active,18891.98
+C10776,Customer 0777,Chennai,Mid-Market,Organic,2025-05-30,145,Active,23239.67
+C10777,Customer 0778,Chennai,Enterprise,Organic,2025-06-06,63,Active,13539.86
+C10778,Customer 0779,Kochi,SMB,Referral,2024-10-24,805,Active,43314.97
+C10779,Customer 0780,Delhi NCR,Enterprise,Partner,2024-11-20,421,Active,145167.94
+C10780,Customer 0781,Kochi,SMB,Partner,2025-08-05,204,Active,18105.21
+C10781,Customer 0782,Kochi,Mid-Market,Partner,2024-02-03,73,Active,6617.46
+C10782,Customer 0783,Ahmedabad,SMB,Referral,2024-07-20,353,Active,49956.99
+C10783,Customer 0784,Ahmedabad,SMB,Organic,2025-05-25,616,Active,35589.77
+C10784,Customer 0785,Kochi,SMB,Partner,2025-06-14,845,Churned,59590.97
+C10785,Customer 0786,Bengaluru,SMB,Referral,2024-03-19,471,Active,80527.09
+C10786,Customer 0787,Kochi,SMB,Paid Search,2025-10-31,518,At Risk,66249.8
+C10787,Customer 0788,Pune,SMB,Outbound,2025-04-06,711,Active,55034.64
+C10788,Customer 0789,Mumbai,SMB,Partner,2024-07-21,767,Churned,65965.39
+C10789,Customer 0790,Pune,SMB,Referral,2025-10-01,241,Active,32801.75
+C10790,Customer 0791,Mumbai,Mid-Market,Outbound,2026-04-22,843,Active,71451.3
+C10791,Customer 0792,Chennai,Enterprise,Paid Search,2024-12-26,443,Active,57104.17
+C10792,Customer 0793,Kochi,Mid-Market,Partner,2024-08-28,790,Active,159791.72
+C10793,Customer 0794,Bengaluru,SMB,Referral,2024-09-11,104,Active,15075.32
+C10794,Customer 0795,Mumbai,SMB,Referral,2025-05-18,87,Churned,16442.83
+C10795,Customer 0796,Kochi,Enterprise,Organic,2024-02-10,752,Active,124783.24
+C10796,Customer 0797,Delhi NCR,SMB,Referral,2025-02-14,573,Active,35870.58
+C10797,Customer 0798,Ahmedabad,SMB,Organic,2024-01-22,152,Active,17350.62
+C10798,Customer 0799,Hyderabad,Enterprise,Referral,2024-02-02,761,At Risk,165062.8
+C10799,Customer 0800,Pune,Enterprise,Event,2024-12-31,91,At Risk,9542.53
+C10800,Customer 0801,Kochi,SMB,Referral,2025-09-25,581,Active,67476.26
+C10801,Customer 0802,Ahmedabad,Mid-Market,Outbound,2026-01-20,178,Active,17288.1
+C10802,Customer 0803,Bengaluru,SMB,Partner,2024-03-15,64,Active,10573.44
+C10803,Customer 0804,Ahmedabad,Mid-Market,Event,2024-07-26,686,Active,121771.4
+C10804,Customer 0805,Delhi NCR,SMB,Outbound,2024-12-24,721,At Risk,71181.08
+C10805,Customer 0806,Mumbai,SMB,Event,2025-05-02,94,Active,13519.39
+C10806,Customer 0807,Mumbai,Mid-Market,Outbound,2026-04-18,83,Active,21010.59
+C10807,Customer 0808,Pune,SMB,Referral,2025-08-04,524,Active,38302.95
+C10808,Customer 0809,Pune,Mid-Market,Referral,2025-04-02,29,Active,3695.79
+C10809,Customer 0810,Delhi NCR,SMB,Event,2024-02-21,635,At Risk,70926.91
+C10810,Customer 0811,Hyderabad,Enterprise,Event,2024-03-09,778,Active,108701.02
+C10811,Customer 0812,Ahmedabad,Mid-Market,Paid Search,2024-05-10,639,Active,91702.48
+C10812,Customer 0813,Bengaluru,SMB,Organic,2025-07-15,199,Active,18691.27
+C10813,Customer 0814,Hyderabad,Mid-Market,Organic,2024-10-08,165,Churned,39245.93
+C10814,Customer 0815,Chennai,SMB,Partner,2024-07-23,580,Active,69310.11
+C10815,Customer 0816,Delhi NCR,SMB,Organic,2025-07-23,57,Churned,9927.67
+C10816,Customer 0817,Chennai,SMB,Partner,2025-11-24,459,Active,45206.9
+C10817,Customer 0818,Ahmedabad,Enterprise,Organic,2025-01-08,384,Active,53159.81
+C10818,Customer 0819,Hyderabad,Mid-Market,Event,2026-01-19,634,Active,124357.19
+C10819,Customer 0820,Mumbai,Enterprise,Organic,2025-09-16,176,Active,18499.88
+C10820,Customer 0821,Chennai,Enterprise,Referral,2025-08-31,649,Active,69498.52
+C10821,Customer 0822,Kochi,Enterprise,Paid Search,2026-01-07,595,Active,86441.69
+C10822,Customer 0823,Chennai,SMB,Partner,2024-06-05,206,Active,34304.97
+C10823,Customer 0824,Delhi NCR,Enterprise,Outbound,2025-10-06,306,Active,61752.2
+C10824,Customer 0825,Chennai,Mid-Market,Event,2026-03-25,60,Active,4697.51
+C10825,Customer 0826,Ahmedabad,SMB,Outbound,2026-04-23,384,Active,43618.95
+C10826,Customer 0827,Delhi NCR,Mid-Market,Event,2025-05-06,225,Active,24105.42
+C10827,Customer 0828,Ahmedabad,SMB,Referral,2025-10-03,100,Active,5476.09
+C10828,Customer 0829,Kochi,SMB,Outbound,2026-01-25,478,At Risk,66427.96
+C10829,Customer 0830,Mumbai,SMB,Organic,2025-12-25,484,Churned,31044.83
+C10830,Customer 0831,Bengaluru,SMB,Event,2026-02-02,77,Active,6863.62
+C10831,Customer 0832,Kochi,SMB,Outbound,2025-12-08,161,Active,23200.15
+C10832,Customer 0833,Bengaluru,Enterprise,Partner,2024-11-20,74,Active,16531.73
+C10833,Customer 0834,Mumbai,Mid-Market,Paid Search,2025-09-12,578,Active,66482.18
+C10834,Customer 0835,Bengaluru,Mid-Market,Referral,2024-12-14,290,At Risk,34772.71
+C10835,Customer 0836,Chennai,SMB,Organic,2025-11-12,65,Active,5975.78
+C10836,Customer 0837,Mumbai,SMB,Outbound,2025-11-19,166,Active,24764.8
+C10837,Customer 0838,Pune,SMB,Partner,2026-03-05,829,Active,58352.53
+C10838,Customer 0839,Ahmedabad,Mid-Market,Organic,2025-05-15,221,Active,25205.76
+C10839,Customer 0840,Kochi,SMB,Partner,2025-02-07,583,At Risk,55627.96
+C10840,Customer 0841,Ahmedabad,Mid-Market,Event,2024-05-20,400,Active,41153.19
+C10841,Customer 0842,Hyderabad,Mid-Market,Partner,2025-06-26,158,Active,17264.49
+C10842,Customer 0843,Delhi NCR,Mid-Market,Referral,2025-04-26,264,Active,26408.49
+C10843,Customer 0844,Bengaluru,Enterprise,Outbound,2025-03-13,16,Churned,3258.48
+C10844,Customer 0845,Ahmedabad,SMB,Organic,2025-07-28,636,Active,95416.98
+C10845,Customer 0846,Pune,Enterprise,Outbound,2025-12-24,287,At Risk,76704.08
+C10846,Customer 0847,Mumbai,Mid-Market,Partner,2024-05-06,426,At Risk,81614.34
+C10847,Customer 0848,Chennai,Mid-Market,Outbound,2025-01-01,134,Active,19157.87
+C10848,Customer 0849,Chennai,Mid-Market,Partner,2025-09-05,701,At Risk,175367.45
+C10849,Customer 0850,Delhi NCR,Mid-Market,Organic,2025-11-27,189,Active,38927.95
+C10850,Customer 0851,Delhi NCR,Enterprise,Outbound,2025-10-23,483,Active,138432.97
+C10851,Customer 0852,Hyderabad,SMB,Outbound,2025-11-10,742,Active,117788.32
+C10852,Customer 0853,Delhi NCR,Mid-Market,Event,2025-12-27,607,Active,98119.96
+C10853,Customer 0854,Mumbai,Mid-Market,Outbound,2026-03-28,514,Active,64684.56
+C10854,Customer 0855,Kochi,SMB,Paid Search,2025-05-31,755,Active,91451.91
+C10855,Customer 0856,Kochi,Enterprise,Partner,2024-07-30,154,Active,20426.29
+C10856,Customer 0857,Kochi,SMB,Partner,2025-04-24,819,Active,104231.11
+C10857,Customer 0858,Hyderabad,Mid-Market,Referral,2025-08-26,475,Active,45767.68
+C10858,Customer 0859,Kochi,SMB,Paid Search,2024-03-26,351,Active,17086.86
+C10859,Customer 0860,Delhi NCR,SMB,Paid Search,2025-10-05,221,Active,32817.68
+C10860,Customer 0861,Delhi NCR,Mid-Market,Partner,2025-04-07,634,Churned,124998.31
+C10861,Customer 0862,Ahmedabad,SMB,Paid Search,2026-03-06,829,Churned,101710.79
+C10862,Customer 0863,Kochi,SMB,Partner,2024-06-29,588,Active,59035.1
+C10863,Customer 0864,Hyderabad,SMB,Organic,2026-02-09,32,Active,4524.05
+C10864,Customer 0865,Mumbai,SMB,Organic,2025-01-15,401,Active,78271.19
+C10865,Customer 0866,Pune,Mid-Market,Referral,2025-05-02,623,Active,111049.59
+C10866,Customer 0867,Chennai,Enterprise,Paid Search,2025-07-15,340,Active,86701.91
+C10867,Customer 0868,Mumbai,SMB,Organic,2025-05-07,658,Active,65062.0
+C10868,Customer 0869,Chennai,Mid-Market,Referral,2026-02-07,602,Active,80920.13
+C10869,Customer 0870,Kochi,SMB,Organic,2024-05-22,61,Active,7020.86
+C10870,Customer 0871,Bengaluru,Mid-Market,Organic,2025-09-12,476,Active,114311.53
+C10871,Customer 0872,Pune,SMB,Organic,2026-04-08,150,Active,16508.24
+C10872,Customer 0873,Pune,SMB,Paid Search,2024-07-06,416,At Risk,47350.2
+C10873,Customer 0874,Ahmedabad,SMB,Event,2024-08-04,329,Active,37835.88
+C10874,Customer 0875,Mumbai,Mid-Market,Partner,2025-02-07,686,Active,94522.21
+C10875,Customer 0876,Bengaluru,SMB,Partner,2025-09-08,738,Active,105882.64
+C10876,Customer 0877,Chennai,SMB,Partner,2026-03-26,394,Active,47792.07
+C10877,Customer 0878,Chennai,Mid-Market,Paid Search,2025-11-07,458,Active,73454.78
+C10878,Customer 0879,Delhi NCR,Mid-Market,Outbound,2025-11-05,534,Active,85480.01
+C10879,Customer 0880,Kochi,SMB,Partner,2025-01-10,558,Active,56488.68
+C10880,Customer 0881,Kochi,Mid-Market,Referral,2025-07-02,541,Active,39322.87
+C10881,Customer 0882,Bengaluru,Enterprise,Event,2024-06-28,666,Active,141338.74
+C10882,Customer 0883,Kochi,SMB,Event,2025-01-28,834,Active,140368.03
+C10883,Customer 0884,Bengaluru,Mid-Market,Referral,2024-06-09,704,Active,123259.69
+C10884,Customer 0885,Delhi NCR,SMB,Outbound,2024-01-24,118,Active,7786.84
+C10885,Customer 0886,Hyderabad,Mid-Market,Event,2025-12-29,407,At Risk,77102.86
+C10886,Customer 0887,Mumbai,SMB,Outbound,2025-11-15,394,Active,51634.87
+C10887,Customer 0888,Ahmedabad,Mid-Market,Partner,2025-03-10,434,Active,47849.12
+C10888,Customer 0889,Delhi NCR,SMB,Organic,2024-01-13,451,At Risk,51841.38
+C10889,Customer 0890,Pune,SMB,Organic,2024-03-17,611,Active,85366.03
+C10890,Customer 0891,Hyderabad,Enterprise,Event,2024-04-05,360,Active,104767.05
+C10891,Customer 0892,Pune,SMB,Referral,2025-09-01,227,Active,14847.86
+C10892,Customer 0893,Mumbai,Enterprise,Partner,2024-06-21,391,Active,57053.2
+C10893,Customer 0894,Pune,Enterprise,Paid Search,2024-07-31,727,Active,151023.66
+C10894,Customer 0895,Ahmedabad,Enterprise,Partner,2026-01-01,268,At Risk,32650.22
+C10895,Customer 0896,Chennai,SMB,Outbound,2026-01-14,22,Churned,2782.04
+C10896,Customer 0897,Hyderabad,Mid-Market,Referral,2025-10-10,829,Active,146436.87
+C10897,Customer 0898,Delhi NCR,SMB,Event,2024-09-20,170,Active,14431.31
+C10898,Customer 0899,Hyderabad,SMB,Partner,2025-05-07,514,Active,62558.39
+C10899,Customer 0900,Delhi NCR,Enterprise,Paid Search,2024-06-19,681,Active,235949.97
+C10900,Customer 0901,Hyderabad,Mid-Market,Organic,2025-12-30,236,Active,35777.17
+C10901,Customer 0902,Pune,Mid-Market,Event,2024-03-13,292,Active,43349.09
+C10902,Customer 0903,Mumbai,SMB,Referral,2025-09-24,242,Active,24238.96
+C10903,Customer 0904,Bengaluru,Mid-Market,Referral,2025-03-10,131,Active,16507.83
+C10904,Customer 0905,Hyderabad,Mid-Market,Paid Search,2025-10-05,134,Active,13842.88
+C10905,Customer 0906,Ahmedabad,SMB,Partner,2025-01-18,162,Active,21742.45
+C10906,Customer 0907,Kochi,Enterprise,Event,2024-05-14,392,Active,75005.19
+C10907,Customer 0908,Kochi,SMB,Paid Search,2025-09-30,453,Churned,33734.78
+C10908,Customer 0909,Hyderabad,SMB,Outbound,2025-06-20,18,Active,922.18
+C10909,Customer 0910,Mumbai,Mid-Market,Organic,2025-01-29,720,Active,163965.38
+C10910,Customer 0911,Ahmedabad,Enterprise,Partner,2024-11-12,576,Active,61563.03
+C10911,Customer 0912,Chennai,SMB,Outbound,2024-10-19,64,Active,10613.03
+C10912,Customer 0913,Bengaluru,SMB,Organic,2025-02-12,717,Churned,78348.6
+C10913,Customer 0914,Bengaluru,SMB,Organic,2024-08-10,30,At Risk,4053.12
+C10914,Customer 0915,Mumbai,Enterprise,Outbound,2024-08-28,478,Active,83286.56
+C10915,Customer 0916,Ahmedabad,SMB,Partner,2024-08-24,398,Active,24505.72
+C10916,Customer 0917,Bengaluru,SMB,Partner,2024-01-11,429,Active,56183.49
+C10917,Customer 0918,Ahmedabad,Enterprise,Referral,2026-02-27,812,Active,225369.43
+C10918,Customer 0919,Pune,SMB,Partner,2024-07-20,788,Active,56966.54
+C10919,Customer 0920,Ahmedabad,Mid-Market,Organic,2024-05-20,240,Active,31171.67
+C10920,Customer 0921,Kochi,SMB,Organic,2024-05-08,494,Active,48374.84
+C10921,Customer 0922,Mumbai,Mid-Market,Organic,2026-04-19,815,Active,79324.43
+C10922,Customer 0923,Kochi,SMB,Organic,2025-02-09,620,Active,78632.3
+C10923,Customer 0924,Bengaluru,SMB,Outbound,2024-10-04,755,Active,47238.07
+C10924,Customer 0925,Mumbai,SMB,Partner,2024-12-09,372,Active,46977.17
+C10925,Customer 0926,Bengaluru,Mid-Market,Organic,2024-03-16,244,Active,19187.82
+C10926,Customer 0927,Bengaluru,Mid-Market,Organic,2024-09-23,436,Active,55209.87
+C10927,Customer 0928,Hyderabad,SMB,Paid Search,2024-07-30,695,Active,60575.38
+C10928,Customer 0929,Bengaluru,SMB,Event,2025-11-13,789,Active,77151.53
+C10929,Customer 0930,Hyderabad,Enterprise,Paid Search,2024-02-19,584,Active,137252.11
+C10930,Customer 0931,Delhi NCR,SMB,Organic,2024-12-27,602,At Risk,93438.98
+C10931,Customer 0932,Hyderabad,SMB,Partner,2025-11-02,437,At Risk,45150.33
+C10932,Customer 0933,Hyderabad,Mid-Market,Paid Search,2025-12-09,275,Active,51318.49
+C10933,Customer 0934,Ahmedabad,SMB,Partner,2025-03-11,362,Active,28600.91
+C10934,Customer 0935,Hyderabad,SMB,Event,2024-07-08,425,Active,43861.02
+C10935,Customer 0936,Hyderabad,SMB,Outbound,2024-10-13,694,Active,49723.38
+C10936,Customer 0937,Hyderabad,SMB,Paid Search,2024-07-07,474,Active,48236.7
+C10937,Customer 0938,Bengaluru,Mid-Market,Event,2025-07-16,675,Active,132651.29
+C10938,Customer 0939,Chennai,Mid-Market,Partner,2024-09-05,28,Active,5996.0
+C10939,Customer 0940,Kochi,Mid-Market,Organic,2025-06-20,644,Active,124469.05
+C10940,Customer 0941,Pune,SMB,Event,2025-07-11,433,Active,60073.38
+C10941,Customer 0942,,Mid-Market,Event,2026-03-09,848,Active,80907.29
+C10942,Customer 0943,Hyderabad,SMB,Partner,2024-11-10,403,Active,25996.89
+C10943,Customer 0944,Kochi,Mid-Market,Referral,2026-03-28,409,Active,95892.99
+C10944,Customer 0945,Hyderabad,SMB,Partner,2024-12-06,112,Active,8381.05
+C10945,Customer 0946,Pune,Mid-Market,Referral,2025-08-01,686,Active,73472.52
+C10946,Customer 0947,Delhi NCR,SMB,Outbound,2025-07-16,597,Active,118389.14
+C10947,Customer 0948,Ahmedabad,SMB,Outbound,2025-11-26,733,Active,113009.28
+C10948,Customer 0949,Mumbai,SMB,Referral,2025-02-02,83,Active,12215.65
+C10949,Customer 0950,Pune,SMB,Outbound,2025-11-04,183,At Risk,19482.51
+C10950,Customer 0951,Delhi NCR,SMB,Referral,2024-10-29,746,Active,120382.84
+C10951,Customer 0952,Chennai,Mid-Market,Outbound,2025-02-21,40,Active,4376.12
+C10952,Customer 0953,Ahmedabad,Mid-Market,Partner,2025-02-28,434,Active,72673.1
+C10953,Customer 0954,Pune,SMB,Paid Search,2025-08-21,347,At Risk,36103.8
+C10954,Customer 0955,Delhi NCR,Enterprise,Paid Search,2025-06-09,798,Active,246540.45
+C10955,Customer 0956,Delhi NCR,Mid-Market,Referral,2024-03-07,728,At Risk,136903.72
+C10956,Customer 0957,Pune,Enterprise,Organic,2025-11-18,762,Active,183164.78
+C10957,Customer 0958,Mumbai,Mid-Market,Partner,2025-10-06,249,Active,26918.48
+C10958,Customer 0959,Bengaluru,Mid-Market,Event,2024-03-29,501,Active,84568.91
+C10959,Customer 0960,Delhi NCR,Mid-Market,Organic,2026-03-28,596,Active,56546.36
+C10960,Customer 0961,Hyderabad,Mid-Market,Referral,2025-07-15,822,Active,212010.77
+C10961,Customer 0962,Bengaluru,Enterprise,Referral,2024-03-13,11,Active,1618.6
+C10962,Customer 0963,Delhi NCR,SMB,Paid Search,2025-02-21,830,Active,52242.37
+C10963,Customer 0964,Kochi,SMB,Organic,2025-12-11,305,At Risk,35296.12
+C10964,Customer 0965,Kochi,SMB,Organic,2024-08-25,113,Active,12932.75
+C10965,Customer 0966,Mumbai,Enterprise,Partner,2026-03-04,525,Active,124102.81
+C10966,Customer 0967,Delhi NCR,SMB,Organic,2024-12-21,665,Active,39705.01
+C10967,Customer 0968,Bengaluru,Mid-Market,Organic,2024-07-11,114,At Risk,25106.3
+C10968,Customer 0969,,Mid-Market,Organic,2024-10-29,39,At Risk,3660.32
+C10969,Customer 0970,Bengaluru,Enterprise,Partner,2025-03-22,762,Active,75685.81
+C10970,Customer 0971,Kochi,SMB,Event,2025-08-07,793,Churned,102209.15
+C10971,Customer 0972,Kochi,Mid-Market,Referral,2026-02-27,137,At Risk,17846.63
+C10972,Customer 0973,Pune,Enterprise,Organic,2024-06-14,768,At Risk,144404.87
+C10973,Customer 0974,Mumbai,SMB,Referral,2026-03-27,773,At Risk,40318.27
+C10974,Customer 0975,Ahmedabad,Mid-Market,Organic,2025-03-24,847,Active,73651.91
+C10975,Customer 0976,Pune,SMB,Paid Search,2024-04-18,187,Active,30084.98
+C10976,Customer 0977,Pune,Mid-Market,Organic,2026-02-26,494,Active,51867.02
+C10977,Customer 0978,Kochi,SMB,Organic,2024-10-23,845,Active,123070.5
+C10978,Customer 0979,Ahmedabad,SMB,Organic,2025-06-11,767,Active,119201.98
+C10979,Customer 0980,Hyderabad,SMB,Paid Search,2025-08-16,516,Active,35295.82
+C10980,Customer 0981,Ahmedabad,SMB,Paid Search,2024-01-12,171,Churned,28120.16
+C10981,Customer 0982,Kochi,SMB,Paid Search,2024-07-07,76,Active,5615.17
+C10982,Customer 0983,Bengaluru,Mid-Market,Referral,2025-08-06,223,Churned,26949.51
+C10983,Customer 0984,Mumbai,SMB,Outbound,2024-10-03,60,Active,3369.53
+C10984,Customer 0985,Kochi,SMB,Outbound,2024-01-08,169,Active,31683.76
+C10985,Customer 0986,Bengaluru,Mid-Market,Referral,2024-01-20,68,Active,13382.91
+C10986,Customer 0987,Delhi NCR,Mid-Market,Referral,2025-12-03,649,At Risk,115766.5
+C10987,Customer 0988,Pune,Mid-Market,Paid Search,2024-05-10,503,Active,101229.86
+C10988,Customer 0989,Pune,Enterprise,Partner,2024-03-26,442,Active,79312.89
+C10989,Customer 0990,Ahmedabad,SMB,Paid Search,2025-04-22,689,Active,100274.35
+C10990,Customer 0991,Hyderabad,Mid-Market,Organic,2024-04-11,352,Active,65258.89
+C10991,Customer 0992,Mumbai,SMB,Event,2025-07-09,345,Active,53519.47
+C10992,Customer 0993,Ahmedabad,Mid-Market,Paid Search,2025-04-07,179,At Risk,46068.63
+C10993,Customer 0994,Chennai,Enterprise,Outbound,2025-07-05,380,Active,104952.07
+C10994,Customer 0995,Bengaluru,Mid-Market,Event,2025-02-21,152,Active,15520.91
+C10995,Customer 0996,Mumbai,Mid-Market,Paid Search,2025-10-23,502,Active,124972.72
+C10996,Customer 0997,Mumbai,Mid-Market,Event,2025-07-02,847,Churned,191186.23
+C10997,Customer 0998,Chennai,SMB,Paid Search,2024-12-18,455,Active,51293.65
+C10998,Customer 0999,Mumbai,Mid-Market,Organic,2024-01-14,257,Active,36262.16
+C10999,Customer 1000,Chennai,Mid-Market,Organic,2024-08-20,586,Active,146904.06
+C10012,Customer 0013,Bengaluru,Mid-Market,Referral,2026-02-22,387,Active,60685.99

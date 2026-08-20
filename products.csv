@@ -1,0 +1,351 @@
+product_id,product_name,category,unit_cost,list_price,launch_date
+P1000,Orion Product 001,Fleet Software,130.3,898.08,2026-03-02
+P1001,Orion Product 002,Connectivity,567.31,2114.78,2026-01-24
+P1002,Orion Product 003,Analytics,1191.46,2190.7,2025-06-18
+P1003,Orion Product 004,Maintenance,1078.68,1732.82,2024-12-01
+P1004,Orion Product 005,Maintenance,918.44,1056.21,2025-06-16
+P1005,Orion Product 006,Accessories,1077.69,1559.71,2024-09-28
+P1006,Orion Product 007,Fleet Software,1080.66,1596.08,2024-10-22
+P1007,Orion Product 008,Connectivity,661.12,945.08,2025-06-01
+P1008,Orion Product 009,Tracking Hardware,433.84,1463.82,2025-04-30
+P1009,Orion Product 010,Fleet Software,944.65,1086.35,2025-05-08
+P1010,Orion Product 011,Analytics,821.06,944.22,2024-11-22
+P1011,Orion Product 012,Accessories,498.5,1226.43,2024-12-13
+P1012,Orion Product 013,Connectivity,185.8,485.69,2024-01-09
+P1013,Orion Product 014,Connectivity,916.4,1053.86,2025-05-26
+P1014,Orion Product 015,Connectivity,373.96,1864.42,2025-05-04
+P1015,Orion Product 016,Connectivity,1129.23,2177.72,2026-03-06
+P1016,Orion Product 017,Analytics,349.89,1289.74,2025-03-04
+P1017,Orion Product 018,Fleet Software,217.49,1870.09,2025-02-01
+P1018,Orion Product 019,Accessories,1010.85,2180.16,2024-02-27
+P1019,Orion Product 020,Maintenance,251.68,440.27,2024-06-16
+P1020,Orion Product 021,Analytics,280.78,1068.9,2024-10-14
+P1021,Orion Product 022,Maintenance,751.31,954.77,2024-11-16
+P1022,Orion Product 023,Tracking Hardware,1059.51,1218.44,2024-11-04
+P1023,Orion Product 024,Accessories,300.01,1698.43,2024-11-30
+P1024,Orion Product 025,Connectivity,427.56,1039.25,2025-10-15
+P1025,Orion Product 026,Analytics,950.69,1112.12,2024-04-21
+P1026,Orion Product 027,Maintenance,1168.45,1343.72,2024-10-09
+P1027,Orion Product 028,Connectivity,640.83,736.95,2024-05-18
+P1028,Orion Product 029,Analytics,241.17,2009.56,2024-09-18
+P1029,Orion Product 030,Maintenance,95.61,241.53,2025-08-04
+P1030,Orion Product 031,Maintenance,337.21,627.35,2024-02-09
+P1031,Orion Product 032,Tracking Hardware,227.64,748.72,2024-10-15
+P1032,Orion Product 033,Fleet Software,838.98,1154.9,2024-01-21
+P1033,Orion Product 034,Analytics,216.45,1352.21,2026-03-22
+P1034,Orion Product 035,Accessories,647.09,1161.24,2025-09-10
+P1035,Orion Product 036,Fleet Software,857.57,986.21,2024-07-26
+P1036,Orion Product 037,Accessories,730.85,840.48,2024-06-17
+P1037,Orion Product 038,Connectivity,303.75,1879.36,2024-03-25
+P1038,Orion Product 039,Tracking Hardware,980.62,1457.06,2025-02-05
+P1039,Orion Product 040,Analytics,881.26,1480.76,2025-10-02
+P1040,Orion Product 041,Fleet Software,907.66,1523.92,2025-05-11
+P1041,Orion Product 042,Connectivity,226.78,1713.95,2026-01-18
+P1042,Orion Product 043,Connectivity,218.6,269.12,2024-10-19
+P1043,Orion Product 044,Maintenance,1118.87,1286.7,2024-08-24
+P1044,Orion Product 045,Fleet Software,525.29,1256.03,2025-02-10
+P1045,Orion Product 046,Accessories,417.06,843.84,2024-06-20
+P1046,Orion Product 047,Maintenance,627.21,1881.18,2026-04-09
+P1047,Orion Product 048,Accessories,822.41,1139.27,2024-06-06
+P1048,Orion Product 049,Connectivity,1150.3,1725.69,2025-02-11
+P1049,Orion Product 050,Connectivity,400.82,1896.63,2025-03-19
+P1050,Orion Product 051,Connectivity,1115.79,1283.16,2024-02-18
+P1051,Orion Product 052,Tracking Hardware,107.84,2014.58,2025-02-02
+P1052,Orion Product 053,Maintenance,701.82,1353.6,2025-01-21
+P1053,Orion Product 054,Maintenance,790.05,1893.06,2024-08-08
+P1054,Orion Product 055,Maintenance,198.61,848.21,2024-04-18
+P1055,Orion Product 056,Fleet Software,237.18,1172.57,2024-02-08
+P1056,Orion Product 057,Analytics,549.41,1239.39,2024-01-08
+P1057,Orion Product 058,Fleet Software,1162.18,1336.51,2025-02-13
+P1058,Orion Product 059,Connectivity,747.57,967.03,2024-03-17
+P1059,Orion Product 060,Connectivity,1124.99,2030.54,2026-03-26
+P1060,Orion Product 061,Accessories,980.88,1443.21,2024-07-27
+P1061,Orion Product 062,Connectivity,603.47,693.99,2025-07-08
+P1062,Orion Product 063,Maintenance,958.94,1102.78,2025-07-26
+P1063,Orion Product 064,Accessories,99.98,542.79,2025-02-25
+P1064,Orion Product 065,Maintenance,202.24,232.58,2026-01-21
+P1065,Orion Product 066,Tracking Hardware,1008.96,2051.29,2024-04-04
+P1066,Orion Product 067,Accessories,972.44,1118.31,2024-07-17
+P1067,Orion Product 068,Maintenance,340.56,780.45,2024-08-02
+P1068,Orion Product 069,Fleet Software,674.46,1376.88,2024-04-25
+P1069,Orion Product 070,Maintenance,758.74,872.55,2024-09-07
+P1070,Orion Product 071,Connectivity,1051.87,1209.65,2024-09-22
+P1071,Orion Product 072,Tracking Hardware,755.48,1591.22,2025-10-12
+P1072,Orion Product 073,Maintenance,542.08,1449.23,2024-09-13
+P1073,Orion Product 074,Fleet Software,499.09,2162.7,2026-01-15
+P1074,Orion Product 075,Connectivity,556.99,1421.73,2025-10-18
+P1075,Orion Product 076,Maintenance,810.16,1128.89,2026-02-05
+P1076,Orion Product 077,Tracking Hardware,1051.59,1710.94,2024-03-30
+P1077,Orion Product 078,Tracking Hardware,588.36,2001.82,2026-04-16
+P1078,Orion Product 079,Analytics,357.58,1627.43,2025-06-05
+P1079,Orion Product 080,Connectivity,345.06,2124.58,2026-04-15
+P1080,Orion Product 081,Accessories,915.54,1753.11,2024-10-28
+P1081,Orion Product 082,Maintenance,994.56,1926.94,2026-03-21
+P1082,Orion Product 083,Fleet Software,197.91,383.91,2025-05-15
+P1083,Orion Product 084,Connectivity,154.55,1651.45,2024-03-02
+P1084,Orion Product 085,Analytics,745.77,1052.18,2024-12-14
+P1085,Orion Product 086,Connectivity,243.71,1283.86,2024-04-27
+P1086,Orion Product 087,Fleet Software,1003.62,1490.91,2026-03-11
+P1087,Orion Product 088,Tracking Hardware,427.57,2138.12,2024-09-15
+P1088,Orion Product 089,Connectivity,241.14,2168.39,2024-07-08
+P1089,Orion Product 090,Connectivity,1111.49,1278.21,2025-04-14
+P1090,Orion Product 091,Maintenance,265.4,1654.19,2024-12-27
+P1091,Orion Product 092,Connectivity,398.89,1687.47,2024-03-23
+P1092,Orion Product 093,Accessories,252.05,860.31,2025-11-25
+P1093,Orion Product 094,Maintenance,209.35,403.93,2025-12-19
+P1094,Orion Product 095,Accessories,103.69,233.94,2025-09-23
+P1095,Orion Product 096,Tracking Hardware,142.04,1743.55,2025-06-08
+P1096,Orion Product 097,Tracking Hardware,275.6,1153.88,2024-12-08
+P1097,Orion Product 098,Connectivity,139.79,2170.36,2025-04-06
+P1098,Orion Product 099,Analytics,742.08,1103.2,2025-03-18
+P1099,Orion Product 100,Fleet Software,842.4,2154.73,2024-05-20
+P1100,Orion Product 101,Connectivity,520.87,993.73,2024-03-10
+P1101,Orion Product 102,Tracking Hardware,436.15,1777.05,2024-08-03
+P1102,Orion Product 103,Connectivity,645.07,741.83,2025-01-21
+P1103,Orion Product 104,Fleet Software,1060.01,1288.7,2024-05-16
+P1104,Orion Product 105,Connectivity,1033.27,1794.22,2024-03-31
+P1105,Orion Product 106,Connectivity,128.69,2045.64,2025-12-25
+P1106,Orion Product 107,Connectivity,283.28,1836.3,2024-11-14
+P1107,Orion Product 108,Analytics,345.15,396.92,2025-05-11
+P1108,Orion Product 109,Maintenance,359.31,914.04,2025-03-21
+P1109,Orion Product 110,Connectivity,719.78,827.75,2025-09-16
+P1110,Orion Product 111,Tracking Hardware,546.21,628.14,2025-09-20
+P1111,Orion Product 112,Connectivity,135.16,1534.38,2024-09-08
+P1112,Orion Product 113,Analytics,498.45,1612.18,2025-12-21
+P1113,Orion Product 114,Maintenance,666.6,1736.13,2024-11-11
+P1114,Orion Product 115,Analytics,193.87,1924.19,2025-12-10
+P1115,Orion Product 116,Analytics,1013.47,1665.83,2024-12-10
+P1116,Orion Product 117,Fleet Software,138.2,1791.79,2024-04-04
+P1117,Orion Product 118,Fleet Software,1115.82,1283.19,2025-10-08
+P1118,Orion Product 119,Tracking Hardware,191.01,630.8,2024-01-26
+P1119,Orion Product 120,Fleet Software,1024.8,1424.89,2025-10-18
+P1120,Orion Product 121,Maintenance,1090.97,1909.16,2024-02-06
+P1121,Orion Product 122,Connectivity,1177.12,1353.69,2024-06-24
+P1122,Orion Product 123,Analytics,978.27,1204.99,2025-05-27
+P1123,Orion Product 124,Maintenance,953.01,1538.44,2026-03-11
+P1124,Orion Product 125,Accessories,799.58,919.52,2024-12-13
+P1125,Orion Product 126,Analytics,952.48,1095.35,2024-04-12
+P1126,Orion Product 127,Fleet Software,230.7,1986.05,2024-07-16
+P1127,Orion Product 128,Connectivity,680.4,1526.81,2026-01-31
+P1128,Orion Product 129,Analytics,655.93,754.32,2025-09-09
+P1129,Orion Product 130,Analytics,1040.48,1898.2,2024-03-26
+P1130,Orion Product 131,Analytics,598.34,863.46,2024-11-23
+P1131,Orion Product 132,Analytics,511.3,1899.36,2024-08-12
+P1132,Orion Product 133,Fleet Software,796.31,915.76,2024-05-31
+P1133,Orion Product 134,Analytics,378.44,1360.16,2025-12-20
+P1134,Orion Product 135,Connectivity,236.54,963.73,2025-06-09
+P1135,Orion Product 136,Tracking Hardware,615.22,713.39,2024-06-01
+P1136,Orion Product 137,Analytics,546.92,1967.44,2025-07-07
+P1137,Orion Product 138,Fleet Software,340.48,534.57,2024-12-17
+P1138,Orion Product 139,Maintenance,491.61,565.35,2024-02-22
+P1139,Orion Product 140,Maintenance,490.36,850.95,2025-01-17
+P1140,Orion Product 141,Accessories,446.8,1621.16,2024-06-06
+P1141,Orion Product 142,Tracking Hardware,505.0,1805.23,2024-07-27
+P1142,Orion Product 143,Tracking Hardware,848.03,2197.42,2026-01-17
+P1143,Orion Product 144,Maintenance,412.5,757.54,2025-08-26
+P1144,Orion Product 145,Accessories,1142.72,1314.13,2024-04-23
+P1145,Orion Product 146,Accessories,1106.31,1272.26,2025-12-24
+P1146,Orion Product 147,Fleet Software,618.62,1328.49,2025-05-03
+P1147,Orion Product 148,Tracking Hardware,447.76,2195.04,2026-01-13
+P1148,Orion Product 149,Connectivity,679.69,1586.81,2025-09-27
+P1149,Orion Product 150,Fleet Software,1030.39,1370.19,2024-10-15
+P1150,Orion Product 151,Accessories,810.9,954.36,2025-03-30
+P1151,Orion Product 152,Tracking Hardware,980.92,2026.36,2025-03-27
+P1152,Orion Product 153,Accessories,676.65,1168.68,2025-09-03
+P1153,Orion Product 154,Tracking Hardware,788.87,907.2,2024-07-30
+P1154,Orion Product 155,Maintenance,402.73,899.03,2024-10-10
+P1155,Orion Product 156,Analytics,903.08,1038.54,2024-07-27
+P1156,Orion Product 157,Fleet Software,306.69,564.06,2024-09-08
+P1157,Orion Product 158,Analytics,858.17,986.9,2024-05-17
+P1158,Orion Product 159,Analytics,1044.01,1200.61,2024-02-01
+P1159,Orion Product 160,Connectivity,227.96,1450.81,2026-03-10
+P1160,Orion Product 161,Accessories,768.11,883.33,2024-03-04
+P1161,Orion Product 162,Analytics,186.51,1011.78,2026-01-24
+P1162,Orion Product 163,Maintenance,892.8,2116.38,2024-01-03
+P1163,Orion Product 164,Maintenance,174.63,1691.52,2025-10-22
+P1164,Orion Product 165,Maintenance,1128.25,1297.49,2024-10-06
+P1165,Orion Product 166,Connectivity,233.9,733.31,2025-03-16
+P1166,Orion Product 167,Tracking Hardware,1153.95,1988.84,2024-08-27
+P1167,Orion Product 168,Tracking Hardware,976.99,1123.54,2025-02-21
+P1168,Orion Product 169,Maintenance,744.92,856.66,2025-01-18
+P1169,Orion Product 170,Fleet Software,956.54,2013.58,2025-03-26
+P1170,Orion Product 171,Fleet Software,970.53,1235.56,2024-11-30
+P1171,Orion Product 172,Fleet Software,1139.55,1671.75,2025-04-01
+P1172,Orion Product 173,Connectivity,363.79,1361.03,2025-12-02
+P1173,Orion Product 174,Connectivity,740.89,1489.55,2025-01-04
+P1174,Orion Product 175,Connectivity,186.46,763.74,2024-11-03
+P1175,Orion Product 176,Maintenance,770.11,885.63,2024-04-21
+P1176,Orion Product 177,Connectivity,271.85,811.11,2024-11-01
+P1177,Orion Product 178,Fleet Software,712.74,819.65,2024-04-16
+P1178,Orion Product 179,Accessories,721.12,1942.34,2024-06-04
+P1179,Orion Product 180,Analytics,601.9,730.66,2026-03-20
+P1180,Orion Product 181,Accessories,665.35,1301.05,2024-03-17
+P1181,Orion Product 182,Fleet Software,935.59,1773.55,2025-02-13
+P1182,Orion Product 183,Maintenance,975.15,1756.84,2025-12-10
+P1183,Orion Product 184,Connectivity,631.21,1048.69,2026-03-21
+P1184,Orion Product 185,Maintenance,751.54,1126.33,2024-05-04
+P1185,Orion Product 186,Maintenance,1122.98,2189.14,2024-05-19
+P1186,Orion Product 187,Fleet Software,214.1,1532.92,2024-11-12
+P1187,Orion Product 188,Maintenance,211.16,1820.01,2025-04-16
+P1188,Orion Product 189,Tracking Hardware,178.23,2000.24,2026-03-26
+P1189,Orion Product 190,Tracking Hardware,816.81,1764.56,2024-06-25
+P1190,Orion Product 191,Connectivity,548.84,631.17,2024-05-19
+P1191,Orion Product 192,Analytics,947.24,1302.45,2024-08-03
+P1192,Orion Product 193,Analytics,831.78,956.55,2026-01-13
+P1193,Orion Product 194,Maintenance,453.67,1488.49,2024-01-26
+P1194,Orion Product 195,Accessories,1086.17,2108.47,2024-11-19
+P1195,Orion Product 196,Fleet Software,934.04,1201.1,2024-04-11
+P1196,Orion Product 197,Maintenance,383.0,1037.59,2024-05-13
+P1197,Orion Product 198,Fleet Software,487.9,561.08,2026-02-18
+P1198,Orion Product 199,Maintenance,432.17,2117.54,2024-01-02
+P1199,Orion Product 200,Accessories,256.53,361.16,2024-09-30
+P1200,Orion Product 201,Maintenance,245.52,282.35,2026-02-17
+P1201,Orion Product 202,Accessories,1128.46,1297.73,2025-05-31
+P1202,Orion Product 203,Maintenance,570.45,656.02,2024-03-01
+P1203,Orion Product 204,Connectivity,509.32,1082.99,2025-01-30
+P1204,Orion Product 205,Maintenance,897.25,1207.98,2026-04-05
+P1205,Orion Product 206,Tracking Hardware,699.35,804.25,2024-12-06
+P1206,Orion Product 207,Connectivity,1128.48,1297.75,2025-03-25
+P1207,Orion Product 208,Accessories,953.94,1097.03,2025-03-28
+P1208,Orion Product 209,Tracking Hardware,616.89,938.23,2025-07-15
+P1209,Orion Product 210,Connectivity,501.52,576.75,2024-06-08
+P1210,Orion Product 211,Tracking Hardware,1185.03,1581.29,2025-12-14
+P1211,Orion Product 212,Connectivity,883.89,1016.47,2026-04-20
+P1212,Orion Product 213,Connectivity,1145.34,1317.14,2024-05-01
+P1213,Orion Product 214,Maintenance,212.7,957.96,2025-11-26
+P1214,Orion Product 215,Connectivity,1032.6,1187.49,2025-11-25
+P1215,Orion Product 216,Tracking Hardware,793.52,912.55,2025-09-22
+P1216,Orion Product 217,Fleet Software,216.55,379.74,2024-11-11
+P1217,Orion Product 218,Fleet Software,738.85,1918.67,2025-02-02
+P1218,Orion Product 219,Maintenance,848.43,975.69,2025-12-14
+P1219,Orion Product 220,Accessories,93.78,1191.74,2024-05-09
+P1220,Orion Product 221,Fleet Software,588.84,1153.48,2025-12-05
+P1221,Orion Product 222,Maintenance,1004.45,1155.12,2026-02-21
+P1222,Orion Product 223,Connectivity,410.8,1034.22,2025-08-02
+P1223,Orion Product 224,Tracking Hardware,593.57,1750.19,2024-10-17
+P1224,Orion Product 225,Connectivity,575.39,1874.47,2025-04-20
+P1225,Orion Product 226,Tracking Hardware,418.16,683.71,2024-02-12
+P1226,Orion Product 227,Connectivity,1108.65,1274.95,2026-03-03
+P1227,Orion Product 228,Analytics,955.05,1098.31,2024-10-18
+P1228,Orion Product 229,Analytics,203.86,1133.72,2024-02-18
+P1229,Orion Product 230,Tracking Hardware,1196.68,1550.68,2025-11-06
+P1230,Orion Product 231,Maintenance,1064.7,1224.4,2025-07-12
+P1231,Orion Product 232,Accessories,397.98,828.01,2025-06-13
+P1232,Orion Product 233,Fleet Software,1017.32,2057.29,2024-02-15
+P1233,Orion Product 234,Connectivity,199.19,249.57,2025-09-30
+P1234,Orion Product 235,Maintenance,1199.0,1378.85,2025-06-25
+P1235,Orion Product 236,Connectivity,825.57,1608.69,2025-11-05
+P1236,Orion Product 237,Analytics,808.14,929.36,2025-12-04
+P1237,Orion Product 238,Maintenance,181.29,247.12,2024-06-29
+P1238,Orion Product 239,Tracking Hardware,1084.68,1247.38,2024-06-28
+P1239,Orion Product 240,Analytics,112.48,2033.59,2026-02-24
+P1240,Orion Product 241,Fleet Software,349.73,402.19,2025-03-27
+P1241,Orion Product 242,Analytics,240.18,536.06,2025-01-07
+P1242,Orion Product 243,Fleet Software,949.98,1092.48,2024-09-01
+P1243,Orion Product 244,Analytics,301.99,376.79,2025-06-27
+P1244,Orion Product 245,Analytics,1099.91,1421.31,2025-10-02
+P1245,Orion Product 246,Fleet Software,815.02,937.27,2024-01-02
+P1246,Orion Product 247,Connectivity,120.5,1316.88,2025-04-14
+P1247,Orion Product 248,Maintenance,86.08,1359.9,2026-04-24
+P1248,Orion Product 249,Connectivity,137.86,1891.34,2024-08-26
+P1249,Orion Product 250,Fleet Software,758.64,872.44,2024-08-26
+P1250,Orion Product 251,Tracking Hardware,977.66,1899.41,2026-01-16
+P1251,Orion Product 252,Maintenance,347.18,1419.19,2024-02-22
+P1252,Orion Product 253,Tracking Hardware,1031.34,1186.04,2024-12-03
+P1253,Orion Product 254,Tracking Hardware,144.1,1734.52,2025-01-24
+P1254,Orion Product 255,Analytics,977.08,1903.76,2025-11-09
+P1255,Orion Product 256,Fleet Software,1119.13,1287.0,2024-04-19
+P1256,Orion Product 257,Connectivity,944.76,2033.53,2025-01-03
+P1257,Orion Product 258,Fleet Software,861.9,1081.64,2024-05-09
+P1258,Orion Product 259,Tracking Hardware,1018.54,1387.02,2025-10-31
+P1259,Orion Product 260,Analytics,124.97,2168.53,2025-06-21
+P1260,Orion Product 261,Connectivity,306.0,891.15,2025-02-26
+P1261,Orion Product 262,Tracking Hardware,219.91,1816.98,2024-11-29
+P1262,Orion Product 263,Tracking Hardware,645.07,802.72,2024-05-10
+P1263,Orion Product 264,Accessories,914.61,1788.39,2026-02-22
+P1264,Orion Product 265,Accessories,785.61,1381.5,2025-07-04
+P1265,Orion Product 266,Analytics,1033.27,1188.26,2024-09-28
+P1266,Orion Product 267,Maintenance,253.84,998.75,2024-12-17
+P1267,Orion Product 268,Maintenance,902.78,1038.2,2025-09-09
+P1268,Orion Product 269,Analytics,296.21,340.64,2025-09-03
+P1269,Orion Product 270,Analytics,383.25,440.74,2025-01-26
+P1270,Orion Product 271,Tracking Hardware,875.09,1006.35,2024-09-14
+P1271,Orion Product 272,Fleet Software,1177.83,1354.5,2025-07-14
+P1272,Orion Product 273,Fleet Software,764.93,879.67,2025-07-13
+P1273,Orion Product 274,Accessories,141.04,1636.63,2025-05-24
+P1274,Orion Product 275,Maintenance,770.27,1601.59,2024-03-02
+P1275,Orion Product 276,Maintenance,127.43,1664.09,2025-02-05
+P1276,Orion Product 277,Maintenance,1070.24,1230.78,2025-06-05
+P1277,Orion Product 278,Connectivity,874.73,1974.54,2026-03-18
+P1278,Orion Product 279,Fleet Software,273.9,1367.35,2025-03-22
+P1279,Orion Product 280,Fleet Software,182.73,408.35,2024-10-18
+P1280,Orion Product 281,Tracking Hardware,285.56,444.62,2025-04-17
+P1281,Orion Product 282,Maintenance,1177.63,1570.85,2024-05-30
+P1282,Orion Product 283,Connectivity,593.59,682.63,2024-03-18
+P1283,Orion Product 284,Maintenance,958.17,1189.95,2025-07-30
+P1284,Orion Product 285,Maintenance,792.78,2183.14,2026-04-18
+P1285,Orion Product 286,Accessories,721.1,829.26,2025-12-20
+P1286,Orion Product 287,Fleet Software,242.55,278.93,2025-05-11
+P1287,Orion Product 288,Analytics,1139.55,2185.82,2024-02-04
+P1288,Orion Product 289,Analytics,417.5,1348.51,2026-04-19
+P1289,Orion Product 290,Maintenance,727.38,836.49,2025-01-17
+P1290,Orion Product 291,Connectivity,863.75,1989.47,2024-09-03
+P1291,Orion Product 292,Tracking Hardware,807.14,1954.78,2026-01-28
+P1292,Orion Product 293,Accessories,1133.47,1303.49,2025-09-26
+P1293,Orion Product 294,Tracking Hardware,246.25,1424.67,2025-09-29
+P1294,Orion Product 295,Analytics,649.36,746.76,2024-08-24
+P1295,Orion Product 296,Analytics,532.52,612.4,2026-04-23
+P1296,Orion Product 297,Accessories,611.07,1368.86,2025-01-19
+P1297,Orion Product 298,Maintenance,213.52,754.25,2025-03-27
+P1298,Orion Product 299,Tracking Hardware,230.19,1510.42,2025-09-30
+P1299,Orion Product 300,Fleet Software,391.44,1864.3,2025-07-14
+P1300,Orion Product 301,Maintenance,421.27,484.46,2024-05-26
+P1301,Orion Product 302,Connectivity,559.25,1371.21,2024-09-14
+P1302,Orion Product 303,Fleet Software,764.31,878.96,2024-11-03
+P1303,Orion Product 304,Accessories,790.78,1941.47,2026-03-16
+P1304,Orion Product 305,Analytics,541.23,670.01,2025-08-30
+P1305,Orion Product 306,Fleet Software,537.84,1402.08,2024-11-07
+P1306,Orion Product 307,Tracking Hardware,323.74,1284.76,2025-09-16
+P1307,Orion Product 308,Analytics,738.9,962.14,2025-09-19
+P1308,Orion Product 309,Tracking Hardware,435.09,1539.12,2024-12-01
+P1309,Orion Product 310,Fleet Software,120.39,1637.83,2024-12-08
+P1310,Orion Product 311,Analytics,548.61,1312.22,2026-01-30
+P1311,Orion Product 312,Connectivity,611.03,1704.77,2025-04-22
+P1312,Orion Product 313,Fleet Software,332.66,2166.01,2024-05-07
+P1313,Orion Product 314,Tracking Hardware,721.15,1009.51,2025-09-03
+P1314,Orion Product 315,Tracking Hardware,713.66,1204.9,2025-05-16
+P1315,Orion Product 316,Analytics,866.24,996.18,2025-03-08
+P1316,Orion Product 317,Connectivity,805.7,1781.86,2025-09-08
+P1317,Orion Product 318,Connectivity,810.73,1216.47,2026-02-10
+P1318,Orion Product 319,Accessories,434.16,986.32,2024-10-07
+P1319,Orion Product 320,Connectivity,961.92,1106.21,2024-12-22
+P1320,Orion Product 321,Tracking Hardware,695.04,1973.8,2024-06-10
+P1321,Orion Product 322,Fleet Software,563.19,959.76,2025-07-04
+P1322,Orion Product 323,Analytics,781.13,1549.29,2024-12-08
+P1323,Orion Product 324,Accessories,483.94,556.53,2024-10-18
+P1324,Orion Product 325,Accessories,654.27,2121.18,2025-08-15
+P1325,Orion Product 326,Tracking Hardware,905.11,1040.88,2024-12-12
+P1326,Orion Product 327,Tracking Hardware,1072.77,1233.69,2025-01-29
+P1327,Orion Product 328,Fleet Software,1111.58,1910.91,2025-01-09
+P1328,Orion Product 329,Fleet Software,644.07,2020.79,2024-08-07
+P1329,Orion Product 330,Analytics,662.71,762.12,2024-04-16
+P1330,Orion Product 331,Analytics,975.85,1122.23,2025-12-04
+P1331,Orion Product 332,Maintenance,432.18,1653.66,2024-03-18
+P1332,Orion Product 333,Tracking Hardware,1017.87,1950.65,2024-10-03
+P1333,Orion Product 334,Connectivity,633.44,927.06,2025-07-21
+P1334,Orion Product 335,Maintenance,209.76,1209.89,2024-04-21
+P1335,Orion Product 336,Connectivity,160.71,1670.52,2025-07-11
+P1336,Orion Product 337,Accessories,1023.03,1648.83,2025-09-15
+P1337,Orion Product 338,Tracking Hardware,142.24,1755.07,2025-07-17
+P1338,Orion Product 339,Tracking Hardware,394.28,1318.36,2024-09-16
+P1339,Orion Product 340,Accessories,454.23,522.36,2024-01-17
+P1340,Orion Product 341,Analytics,273.75,2003.15,2026-01-24
+P1341,Orion Product 342,Tracking Hardware,431.56,1924.42,2024-10-04
+P1342,Orion Product 343,Analytics,911.82,1786.1,2025-11-15
+P1343,Orion Product 344,Analytics,96.44,354.72,2024-06-17
+P1344,Orion Product 345,Accessories,1006.43,1157.39,2024-05-18
+P1345,Orion Product 346,Tracking Hardware,1039.33,1674.38,2025-10-23
+P1346,Orion Product 347,Accessories,496.93,571.47,2026-03-09
+P1347,Orion Product 348,Accessories,252.05,2157.41,2026-01-01
+P1348,Orion Product 349,Tracking Hardware,752.94,923.15,2025-09-30
+P1349,Orion Product 350,Fleet Software,214.03,1624.59,2024-07-28

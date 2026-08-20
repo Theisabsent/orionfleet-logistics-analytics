@@ -1,0 +1,701 @@
+ticket_id,customer_id,opened_date,category,priority,channel,assigned_department,status,resolution_hours,csat
+ST70000,C10943,2025-01-06,Installation,Low,Email,Support,Resolved,28.38,4.6
+ST70001,C10731,2026-01-23,Installation,Low,Portal,Support,Resolved,14.89,4.3
+ST70002,C10642,2026-01-08,Software,Medium,Chat,Support,Resolved,1.4,2.7
+ST70003,C10129,2026-03-30,Performance,Low,Phone,Support,Resolved,55.41,4.9
+ST70004,C10250,2025-07-12,Software,Critical,Email,Support,Open,14.51,4.2
+ST70005,C10205,2026-04-28,Performance,Low,Chat,Engineering,Resolved,29.35,4.6
+ST70006,C10641,2025-04-09,Training,Low,Phone,Support,Escalated,23.39,3.8
+ST70007,C10500,2025-05-15,Billing,Low,Email,Customer Success,Resolved,32.346,2.0
+ST70008,C10360,2026-06-16,Installation,High,Portal,Customer Success,Resolved,33.61,2.4
+ST70009,C10745,2026-05-27,Hardware,Medium,Chat,Support,Resolved,7.81,3.4
+ST70010,C10777,2025-12-14,Software,High,Portal,Support,Resolved,12.89,4.5
+ST70011,C10739,2025-12-20,Training,Critical,Email,Support,Resolved,22.5,5.0
+ST70012,C10105,2026-02-11,Hardware,Medium,Phone,Support,Resolved,14.16,4.3
+ST70013,C10608,2026-04-23,Performance,Low,Chat,Engineering,Resolved,22.17,3.3
+ST70014,C10210,2025-05-15,Training,Low,Phone,Support,Resolved,47.24,3.5
+ST70015,C10272,2025-02-09,Software,High,Chat,Customer Success,Resolved,12.19,5.0
+ST70016,C10978,2025-04-18,Hardware,Low,Email,Customer Success,Resolved,28.48,3.1
+ST70017,C10415,2025-07-26,Installation,High,Phone,Engineering,Resolved,6.44,5.0
+ST70018,C10787,2025-05-17,Training,High,Phone,Support,Resolved,37.49,5.0
+ST70019,C10246,2025-11-01,Software,Medium,Chat,Engineering,Open,29.57,5.0
+ST70020,C10972,2025-03-22,Performance,Medium,Phone,Support,Resolved,2.85,4.4
+ST70021,C10277,2025-12-01,Installation,High,Chat,Support,Resolved,24.03,3.8
+ST70022,C10181,2026-02-17,Billing,Medium,Email,Customer Success,Resolved,2.64,4.4
+ST70023,C10323,2025-02-27,Software,Medium,Email,Support,Resolved,26.05,4.8
+ST70024,C10173,2025-06-16,Hardware,Medium,Phone,Customer Success,Escalated,18.92,3.6
+ST70025,C10598,2025-11-09,Software,Medium,Email,Customer Success,Pending Customer,34.64,3.3
+ST70026,C10144,2025-02-08,Hardware,Medium,Chat,Customer Success,Open,12.57,3.9
+ST70027,C10207,2026-01-21,Software,High,Email,Engineering,Resolved,19.59,3.5
+ST70028,C10702,2026-03-14,Software,Medium,Phone,Support,Resolved,24.31,5.0
+ST70029,C10042,2025-07-29,Billing,High,Portal,Support,Resolved,1.35,3.6
+ST70030,C10440,2025-01-06,Training,Low,Phone,Support,Pending Customer,23.53,4.2
+ST70031,C10692,2025-10-18,Hardware,High,Phone,Engineering,Resolved,1.51,4.8
+ST70032,C10445,2026-05-20,Software,Medium,Portal,Customer Success,Resolved,9.49,5.0
+ST70033,C10021,2025-06-19,Software,Medium,Portal,Engineering,Resolved,21.85,4.3
+ST70034,C10158,2026-05-08,Training,Low,Phone,Support,Open,2.09,4.4
+ST70035,C10970,2026-05-20,Connectivity,High,Phone,Support,Resolved,26.9,3.3
+ST70036,C10772,2025-06-12,Installation,Medium,Phone,Engineering,Resolved,25.37,4.9
+ST70037,C10350,2025-12-14,Billing,Medium,Portal,Customer Success,Pending Customer,33.64,5.0
+ST70038,C10873,2025-01-25,Performance,Low,Portal,Support,Resolved,3.63,2.7
+ST70039,C10006,2025-11-16,Billing,Low,Email,Support,Escalated,56.2,5.0
+ST70040,C10047,2026-05-26,Billing,Low,Chat,Engineering,Resolved,5.57,3.6
+ST70041,C10884,2026-07-02,Performance,Low,Email,Customer Success,Escalated,19.49,4.5
+ST70042,C10674,2025-04-26,Billing,Medium,Portal,Support,Pending Customer,13.2,4.2
+ST70043,C10599,2026-01-21,Hardware,Medium,Chat,Support,Resolved,15.71,4.1
+ST70044,C10344,2025-02-08,Connectivity,Medium,Chat,Support,Pending Customer,50.97,3.9
+ST70045,C10817,2025-06-12,Software,Medium,Portal,Support,Resolved,6.38,3.4
+ST70046,C10608,2026-04-30,Software,Medium,Portal,Support,Resolved,45.91,4.5
+ST70047,C10435,2026-01-08,Hardware,Low,Portal,Support,Resolved,29.58,3.9
+ST70048,C10380,2025-08-16,Hardware,High,Phone,Customer Success,Resolved,17.06,3.1
+ST70049,C10354,2026-07-12,Training,Medium,Email,Support,Resolved,16.93,3.3
+ST70050,C10575,2026-03-16,Software,Medium,Chat,Customer Success,Resolved,25.44,3.1
+ST70051,C10655,2025-01-14,Hardware,High,Chat,Support,Escalated,12.46,3.7
+ST70052,C10804,2025-02-16,Performance,High,Portal,Support,Pending Customer,14.44,4.5
+ST70053,C10406,2025-12-30,Installation,Medium,Email,Support,Resolved,19.41,3.6
+ST70054,C10253,2026-05-24,Training,Medium,Phone,Support,Resolved,42.54,4.8
+ST70055,C10556,2025-04-01,Billing,High,Phone,Customer Success,Resolved,15.54,4.0
+ST70056,C10583,2025-11-09,Connectivity,High,Phone,Engineering,Resolved,3.17,3.9
+ST70057,C10277,2026-04-19,Installation,Low,Email,Customer Success,Pending Customer,20.0,4.1
+ST70058,C10073,2026-05-16,Hardware,Medium,Phone,Customer Success,Escalated,16.26,5.0
+ST70059,C10332,2026-01-07,Training,High,Email,Engineering,Resolved,10.23,3.1
+ST70060,C10070,2026-08-03,Connectivity,High,Portal,Customer Success,Resolved,22.29,5.0
+ST70061,C10082,2026-06-28,Software,Low,Phone,Support,Resolved,10.53,4.8
+ST70062,C10965,2026-04-29,Connectivity,Medium,Chat,Customer Success,Resolved,27.45,3.4
+ST70063,C10781,2026-01-24,Training,Medium,Phone,Support,Resolved,19.47,5.0
+ST70064,C10035,2026-07-26,Performance,Low,Email,Support,Resolved,20.89,3.9
+ST70065,C10348,2025-01-10,Training,Medium,Phone,Customer Success,Resolved,23.58,4.3
+ST70066,C10254,2025-02-21,Connectivity,Medium,Email,Customer Success,Resolved,25.94,3.7
+ST70067,C10974,2025-10-24,Training,Low,Email,Support,Pending Customer,19.17,4.8
+ST70068,C10437,2026-01-25,Installation,Medium,Email,Engineering,Open,4.04,3.6
+ST70069,C10259,2026-06-09,Performance,High,Chat,Support,Resolved,21.43,4.1
+ST70070,C10634,2026-01-29,Training,High,Portal,Customer Success,Resolved,33.03,4.6
+ST70071,C10475,2025-05-15,Software,High,Phone,Engineering,Pending Customer,3.08,4.9
+ST70072,C10187,2026-06-11,Software,High,Chat,Support,Resolved,4.08,3.5
+ST70073,C10305,2025-02-18,Billing,High,Chat,Engineering,Pending Customer,9.15,4.7
+ST70074,C10127,2025-02-25,Hardware,Medium,Chat,Customer Success,Resolved,31.66,3.4
+ST70075,C10693,2026-02-22,Installation,Low,Email,Customer Success,Pending Customer,15.642,1.8
+ST70076,C10970,2026-07-13,Connectivity,High,Portal,Engineering,Resolved,31.96,3.5
+ST70077,C10808,2025-10-19,Software,Medium,Portal,Customer Success,Pending Customer,20.51,4.7
+ST70078,C10375,2025-03-20,Connectivity,Medium,Chat,Support,Resolved,10.92,4.1
+ST70079,C10487,2025-01-28,Training,Critical,Portal,Customer Success,Pending Customer,87.64,3.7
+ST70080,C10060,2026-07-23,Training,Medium,Email,Support,Resolved,5.66,4.1
+ST70081,C10366,2025-06-12,Hardware,High,Chat,Support,Resolved,17.63,4.1
+ST70082,C10032,2026-01-06,Connectivity,Medium,Portal,Support,Open,7.8,4.6
+ST70083,C10744,2025-07-09,Connectivity,Low,Phone,Support,Resolved,22.15,2.9
+ST70084,C10909,2025-05-05,Hardware,High,Portal,Customer Success,Resolved,8.12,4.0
+ST70085,C10191,2026-01-23,Training,High,Portal,Engineering,Resolved,12.21,4.2
+ST70086,C10673,2026-03-05,Installation,Medium,Email,Engineering,Open,9.52,3.1
+ST70087,C10599,2025-10-01,Hardware,Medium,Email,Support,Pending Customer,14.12,3.1
+ST70088,C10417,2025-10-22,Hardware,Low,Email,Support,Resolved,32.82,3.8
+ST70089,C10733,2025-10-10,Connectivity,Low,Email,Support,Open,4.89,4.1
+ST70090,C10679,2025-12-09,Billing,Low,Portal,Support,Pending Customer,8.82,4.1
+ST70091,C10269,2026-04-13,Training,Low,Email,Support,Resolved,12.63,3.7
+ST70092,C10798,2026-02-17,Hardware,Medium,Email,Support,Resolved,14.58,3.7
+ST70093,C10655,2025-06-11,Software,Medium,Chat,Engineering,Resolved,40.68,3.8
+ST70094,C10312,2025-05-24,Installation,Low,Chat,Support,Resolved,9.18,4.3
+ST70095,C10735,2026-01-26,Billing,Medium,Portal,Customer Success,Resolved,31.85,5.0
+ST70096,C10640,2026-01-10,Billing,Low,Chat,Engineering,Resolved,44.13,2.4
+ST70097,C10117,2025-08-02,Connectivity,Low,Email,Customer Success,Pending Customer,15.3,4.6
+ST70098,C10166,2026-05-02,Connectivity ,High,Email,Support,Resolved,7.33,4.0
+ST70099,C10323,2025-08-31,Software,Critical,Portal,Support,Resolved,37.3,
+ST70100,C10044,2025-07-14,Performance,High,Portal,Engineering,Resolved,30.03,5.0
+ST70101,C10406,2025-11-19,Connectivity,Low,Email,Support,Resolved,6.71,3.5
+ST70102,C10461,2025-04-22,Training,Medium,Chat,Support,Pending Customer,87.624,4.1
+ST70103,C10775,2026-02-08,Billing,Low,Chat,Engineering,Resolved,9.92,3.2
+ST70104,C10171,2026-06-05,Training,Medium,Portal,Customer Success,Escalated,15.12,4.2
+ST70105,C10567,2026-07-03,Software,High,Portal,Customer Success,Resolved,26.72,3.9
+ST70106,C10664,2025-09-17,Installation,Medium,Phone,Support,Resolved,44.88,4.1
+ST70107,C10449,2025-06-06,Software,High,Chat,Support,Resolved,21.25,3.4
+ST70108,C10907,2025-10-05,Hardware,Medium,Portal,Customer Success,Open,13.94,4.4
+ST70109,C10318,2025-03-02,Installation,Low,Phone,Support,Resolved,12.42,5.0
+ST70110,C10407,2026-01-23,Training,Low,Email,Support,Resolved,13.93,3.4
+ST70111,C10004,2025-09-06,Hardware,High,Phone,Support,Resolved,66.66,4.2
+ST70112,C10410,2025-03-12,Software,Medium,Chat,Customer Success,Resolved,42.066,4.0
+ST70113,C10020,2025-11-14,Software,Low,Portal,Support,Resolved,19.22,3.9
+ST70114,C10983,2026-02-21,Installation,Low,Phone,Engineering,Resolved,30.24,5.0
+ST70115,C10240,2025-05-13,Connectivity,Critical,Phone,Support,Open,14.69,3.8
+ST70116,C10812,2025-08-23,Software,Low,Phone,Support,Resolved,43.35,4.0
+ST70117,C10116,2026-06-01,Connectivity,Critical,Phone,Engineering,Pending Customer,24.76,3.4
+ST70118,C10274,2026-02-16,Performance,Medium,Chat,Engineering,Open,13.67,4.2
+ST70119,C10119,2026-04-09,Connectivity,Low,Email,Customer Success,Resolved,11.58,4.1
+ST70120,C10368,2025-09-18,Hardware,Medium,Chat,Engineering,Resolved,3.54,4.6
+ST70121,C10602,2025-10-14,Hardware,High,Chat,Support,Resolved,32.76,3.6
+ST70122,C10419,2025-10-16,Installation,Medium,Chat,Support,Resolved,4.83,3.6
+ST70123,C10605,2025-09-19,Training,Low,Portal,Support,Escalated,41.72,4.4
+ST70124,C10806,2025-03-25,Installation,Low,Phone,Support,Pending Customer,8.63,5.0
+ST70125,C10044,2025-01-24,Hardware,High,Portal,Customer Success,Resolved,9.56,4.6
+ST70126,C10424,2026-04-28,Performance,Medium,Chat,Customer Success,Resolved,101.214,4.3
+ST70127,C10593,2025-11-08,Performance,Medium,Portal,Support,Resolved,31.11,4.5
+ST70128,C10523,2025-11-05,Billing,Low,Portal,Support,Resolved,18.87,4.5
+ST70129,C10145,2025-12-12,Connectivity ,Medium,Phone,Engineering,Resolved,52.81,4.6
+ST70130,C10206,2025-08-28,Hardware,High,Email,Support,Resolved,16.37,5.0
+ST70131,C10377,2026-06-02,Software,Low,Portal,Support,Resolved,12.05,5.0
+ST70132,C10651,2025-09-30,Billing,Critical,Email,Support,Resolved,20.16,3.3
+ST70133,C10989,2025-10-18,Hardware,High,Portal,Support,Resolved,34.29,4.7
+ST70134,C10368,2025-11-05,Training,Low,Portal,Support,Resolved,5.95,4.3
+ST70135,C10522,2025-04-02,Training,High,Email,Support,Resolved,9.38,4.0
+ST70136,C10306,2025-04-11,Training,Medium,Chat,Support,Resolved,7.49,2.8
+ST70137,C10034,2025-04-15,Performance,Medium,Portal,Support,Resolved,6.44,2.9
+ST70138,C10398,2025-05-28,Performance,Low,Portal,Support,Resolved,15.11,3.8
+ST70139,C10347,2025-04-03,Hardware,High,Email,Support,Escalated,6.32,3.0
+ST70140,C10150,2025-05-10,Performance,Medium,Chat,Support,Resolved,3.07,3.8
+ST70141,C10670,2026-06-29,Hardware,High,Chat,Support,Resolved,9.32,4.6
+ST70142,C10258,2025-07-29,Software,Low,Portal,Engineering,Resolved,8.81,3.7
+ST70143,C10224,2026-04-06,Performance,Low,Portal,Customer Success,Resolved,23.78,4.2
+ST70144,C10389,2025-08-17,Installation,Critical,Portal,Support,Resolved,32.29,3.3
+ST70145,C10964,2026-04-24,Performance,Medium,Chat,Support,Open,10.54,4.3
+ST70146,C10636,2026-03-13,Training,Low,Email,Support,Escalated,9.47,4.5
+ST70147,C10425,2026-05-03,Performance,High,Phone,Support,Resolved,54.21,3.0
+ST70148,C10820,2025-06-17,Training,Low,Chat,Customer Success,Resolved,31.51,3.5
+ST70149,C10021,2025-02-25,Billing,High,Chat,Engineering,Pending Customer,21.96,3.1
+ST70150,C10336,2025-06-28,Connectivity,High,Chat,Support,Resolved,13.35,4.5
+ST70151,C10540,2026-02-12,Installation,Low,Chat,Support,Resolved,31.04,4.2
+ST70152,C10488,2026-01-15,Software,Medium,Email,Support,Pending Customer,6.94,4.1
+ST70153,C10676,2026-02-13,Hardware,Critical,Email,Support,Resolved,31.99,4.0
+ST70154,C10701,2026-07-31,Hardware,High,Email,Support,Resolved,24.59,4.3
+ST70155,C10455,2025-05-11,Training,Medium,Phone,Customer Success,Resolved,27.88,4.4
+ST70156,C10929,2025-09-15,Training,Medium,Portal,Support,Resolved,19.03,3.7
+ST70157,C10928,2025-10-12,Installation,Medium,Email,Customer Success,Escalated,5.23,3.6
+ST70158,C10475,2025-03-28,Performance,Low,Phone,Customer Success,Resolved,7.12,4.1
+ST70159,C10901,2026-01-20,Connectivity,Medium,Email,Support,Resolved,25.52,4.0
+ST70160,C10640,2025-01-29,Training,Medium,Portal,Engineering,Resolved,23.72,5.0
+ST70161,C10138,2026-06-05,Software,Medium,Portal,Customer Success,Resolved,11.46,3.8
+ST70162,C10119,2025-02-21,Hardware,Medium,Chat,Support,Resolved,11.27,4.3
+ST70163,C10079,2025-03-06,Billing,High,Phone,Engineering,Resolved,37.87,4.4
+ST70164,C10211,2025-04-11,Billing,Low,Phone,Customer Success,Resolved,17.28,5.0
+ST70165,C10312,2026-06-02,Training,Low,Chat,Support,Resolved,8.91,3.5
+ST70166,C10069,2026-05-15,Connectivity,Low,Email,Support,Pending Customer,41.93,5.0
+ST70167,C10608,2026-06-20,Billing,Low,Portal,Support,Resolved,39.4,4.0
+ST70168,C10411,2026-04-29,Installation,Critical,Chat,Customer Success,Escalated,17.25,5.0
+ST70169,C10601,2026-06-20,Training,Medium,Phone,Engineering,Resolved,19.92,4.4
+ST70170,C10503,2025-10-01,Connectivity,Low,Email,Support,Resolved,31.58,3.2
+ST70171,C10271,2025-01-03,Connectivity,Critical,Email,Support,Escalated,26.78,4.0
+ST70172,C10614,2025-09-12,Connectivity,Low,Email,Support,Pending Customer,5.06,5.0
+ST70173,C10951,2025-05-09,Software,Medium,Email,Customer Success,Resolved,42.83,4.2
+ST70174,C10316,2025-05-22,Hardware,High,Phone,Support,Resolved,4.15,4.1
+ST70175,C10307,2026-02-05,Hardware,High,Email,Support,Pending Customer,23.57,4.6
+ST70176,C10516,2025-04-07,Billing,Low,Chat,Support,Resolved,6.14,3.8
+ST70177,C10804,2025-07-06,Connectivity,Medium,Phone,Customer Success,Resolved,26.74,3.9
+ST70178,C10531,2025-08-16,Performance,Medium,Chat,Support,Resolved,9.75,3.4
+ST70179,C10831,2025-02-05,Hardware,Medium,Portal,Support,Pending Customer,10.31,5.0
+ST70180,C10074,2026-02-11,Performance,Low,Chat,Support,Resolved,30.38,3.2
+ST70181,C10098,2026-03-19,Training,High,Portal,Support,Resolved,6.14,4.2
+ST70182,C10406,2025-11-20,Software,Medium,Phone,Support,Escalated,11.44,4.5
+ST70183,C10232,2025-01-17,Hardware,Medium,Email,Support,Resolved,6.35,4.1
+ST70184,C10023,2026-04-02,Training,High,Chat,Customer Success,Pending Customer,18.88,3.2
+ST70185,C10215,2025-09-16,Installation,High,Phone,Support,Resolved,6.24,3.4
+ST70186,C10271,2025-06-04,Hardware,High,Email,Support,Open,22.19,4.5
+ST70187,C10919,2026-07-04,Software,Low,Chat,Support,Resolved,39.07,3.5
+ST70188,C10782,2026-05-14,Installation,Low,Chat,Support,Resolved,2.31,2.5
+ST70189,C10351,2025-09-13,Billing,Medium,Email,Support,Resolved,9.79,4.4
+ST70190,C10958,2025-09-15,Installation,Low,Chat,Support,Pending Customer,6.9,3.4
+ST70191,C10836,2026-06-13,Hardware,Medium,Phone,Support,Resolved,5.14,4.6
+ST70192,C10250,2025-04-21,Hardware,Medium,Portal,Support,Resolved,21.77,3.9
+ST70193,C10478,2025-08-26,Hardware,Medium,Phone,Engineering,Resolved,20.0,3.9
+ST70194,C10921,2025-11-27,Installation,Low,Chat,Support,Resolved,42.66,4.1
+ST70195,C10457,2025-07-21,Hardware,High,Portal,Support,Resolved,28.22,3.2
+ST70196,C10370,2025-07-03,Performance,Medium,Phone,Engineering,Resolved,17.94,3.5
+ST70197,C10903,2025-03-04,Installation,Medium,Email,Support,Resolved,21.08,3.9
+ST70198,C10660,2025-06-04,Training,Medium,Chat,Customer Success,Open,11.42,3.2
+ST70199,C10440,2025-07-27,Billing,Low,Chat,Support,Resolved,21.58,4.6
+ST70200,C10869,2026-05-01,Installation,Medium,Email,Customer Success,Resolved,4.19,3.9
+ST70201,C10744,2025-07-15,Installation,Low,Portal,Engineering,Resolved,15.51,3.0
+ST70202,C10347,2025-04-04,Installation,Medium,Email,Support,Resolved,24.06,3.7
+ST70203,C10424,2026-05-06,Connectivity,Low,Portal,Engineering,Escalated,26.82,3.5
+ST70204,C10047,2025-07-24,Hardware,Low,Portal,Support,Resolved,10.11,3.8
+ST70205,C10101,2026-06-18,Software,Low,Chat,Support,Resolved,18.53,4.4
+ST70206,C10954,2025-03-05,Installation,Low,Phone,Support,Pending Customer,8.88,4.5
+ST70207,C10053,2025-01-13,Software,High,Chat,Support,Resolved,14.22,5.0
+ST70208,C10836,2026-06-19,Training,High,Chat,Support,Escalated,30.1,5.0
+ST70209,C10208,2025-02-26,Installation,Low,Phone,Engineering,Resolved,31.39,2.9
+ST70210,C10541,2025-01-05,Software,Low,Email,Customer Success,Pending Customer,20.31,3.8
+ST70211,C10722,2026-01-09,Installation,High,Chat,Engineering,Pending Customer,7.47,3.9
+ST70212,C10991,2025-07-04,Hardware,Low,Chat,Support,Pending Customer,13.18,4.5
+ST70213,C10373,2025-10-09,Software,Medium,Email,Support,Resolved,18.78,3.4
+ST70214,C10925,2025-08-25,Performance,Low,Email,Support,Pending Customer,9.71,3.7
+ST70215,C10454,2025-06-22,Hardware,Medium,Chat,Support,Open,50.31,3.2
+ST70216,C10867,2025-10-07,Hardware,Critical,Portal,Support,Resolved,9.89,3.6
+ST70217,C10101,2025-05-31,Training,Low,Portal,Engineering,Resolved,17.87,3.7
+ST70218,C10268,2025-05-11,Billing,High,Portal,Engineering,Resolved,32.73,3.9
+ST70219,C10623,2025-05-11,Billing,High,Chat,Support,Escalated,45.15,3.2
+ST70220,C10706,2025-03-10,Hardware,Critical,Portal,Support,Pending Customer,13.176,4.1
+ST70221,C10803,2025-11-01,Installation,High,Portal,Support,Resolved,4.32,4.5
+ST70222,C10357,2025-11-15,Installation,High,Portal,Support,Resolved,20.14,3.0
+ST70223,C10624,2025-01-11,Connectivity,Medium,Email,Customer Success,Resolved,54.22,4.1
+ST70224,C10620,2025-09-24,Billing,High,Email,Support,Resolved,5.02,2.9
+ST70225,C10984,2026-03-05,Software,Low,Portal,Support,Pending Customer,13.56,5.0
+ST70226,C10117,2025-01-01,Hardware,Medium,Email,Support,Resolved,21.39,5.0
+ST70227,C10016,2025-06-24,Hardware,Medium,Chat,Engineering,Pending Customer,18.46,4.1
+ST70228,C10574,2026-07-12,Hardware,Low,Portal,Customer Success,Resolved,23.78,3.5
+ST70229,C10015,2025-09-05,Installation,Low,Phone,Engineering,Resolved,41.0,3.6
+ST70230,C10195,2025-01-10,Connectivity,Low,Portal,Support,Open,33.17,3.8
+ST70231,C10500,2025-11-02,Installation,Medium,Chat,Support,Resolved,23.994,3.3
+ST70232,C10267,2025-08-27,Connectivity,Low,Portal,Support,Escalated,4.95,5.0
+ST70233,C10266,2025-05-03,Software,Low,Email,Engineering,Escalated,34.85,4.8
+ST70234,C10346,2025-02-12,Performance,Low,Portal,Support,Pending Customer,13.53,4.8
+ST70235,C10686,2026-05-28,Connectivity,Medium,Email,Customer Success,Pending Customer,18.28,4.2
+ST70236,C10365,2026-04-17,Billing,Low,Phone,Support,Resolved,30.92,3.2
+ST70237,C10793,2026-01-31,Software,Low,Phone,Support,Resolved,34.13,3.5
+ST70238,C10159,2025-01-11,Performance,Low,Portal,Support,Pending Customer,29.73,4.1
+ST70239,C10102,2026-05-20,Connectivity,Medium,Portal,Support,Resolved,48.53,3.2
+ST70240,C10166,2025-10-02,Training,Low,Phone,Customer Success,Pending Customer,16.86,4.3
+ST70241,C10917,2025-10-03,Connectivity,Critical,Phone,Engineering,Resolved,10.4,4.7
+ST70242,C10277,2026-05-25,Software,Low,Chat,Customer Success,Pending Customer,8.07,4.5
+ST70243,C10029,2025-09-08,Billing,Low,Chat,Support,Resolved,10.88,4.5
+ST70244,C10315,2025-05-17,Billing,Medium,Email,Customer Success,Pending Customer,11.23,2.7
+ST70245,C10688,2025-05-18,Performance,High,Phone,Support,Resolved,20.36,5.0
+ST70246,C10361,2026-06-22,Connectivity,Medium,Email,Customer Success,Resolved,25.48,2.9
+ST70247,C10384,2025-11-13,Installation,Low,Portal,Customer Success,Pending Customer,7.12,4.0
+ST70248,C10086,2025-12-02,Training,Medium,Phone,Support,Resolved,30.98,4.6
+ST70249,C10667,2025-12-11,Installation,Medium,Phone,Support,Resolved,33.0,4.4
+ST70250,C10220,2025-05-08,Installation,Medium,Chat,Support,Resolved,25.91,3.1
+ST70251,C10097,2025-09-01,Training,Critical,Chat,Support,Resolved,12.15,3.3
+ST70252,C10714,2026-07-06,Connectivity,Critical,Chat,Engineering,Resolved,40.03,4.3
+ST70253,C10937,2025-03-26,Installation,Medium,Phone,Customer Success,Resolved,16.64,4.5
+ST70254,C10610,2026-07-06,Performance,Low,Phone,Support,Resolved,9.37,3.3
+ST70255,C10937,2025-06-08,Billing,Medium,Chat,Support,Resolved,7.06,4.4
+ST70256,C10402,2025-06-21,Software,High,Email,Customer Success,Pending Customer,19.19,3.0
+ST70257,C10519,2025-01-09,Billing,High,Portal,Support,Resolved,12.32,4.6
+ST70258,C10357,2026-01-20,Software,Low,Portal,Support,Resolved,5.47,3.4
+ST70259,C10509,2025-07-05,Software,Low,Phone,Customer Success,Resolved,4.09,4.2
+ST70260,C10892,2025-09-24,Training,Low,Portal,Support,Resolved,38.322,3.3
+ST70261,C10634,2025-12-03,Connectivity,High,Email,Support,Pending Customer,4.74,5.0
+ST70262,C10026,2026-01-03,Software,Medium,Chat,Support,Open,1.58,4.3
+ST70263,C10580,2026-07-09,Training,Medium,Phone,Support,Resolved,33.32,3.7
+ST70264,C10377,2025-11-19,Training,Medium,Phone,Engineering,Resolved,7.85,4.4
+ST70265,C10543,2025-04-14,Training,Low,Chat,Customer Success,Pending Customer,23.68,5.0
+ST70266,C10557,2026-02-13,Connectivity,High,Chat,Engineering,Resolved,18.91,4.7
+ST70267,C10589,2025-02-02,Hardware,Medium,Chat,Engineering,Resolved,10.2,4.1
+ST70268,C10866,2026-05-05,Performance,Low,Portal,Support,Resolved,42.99,3.5
+ST70269,C10858,2025-06-21,Billing,Medium,Email,Support,Escalated,26.31,3.6
+ST70270,C10971,2026-02-23,Software,Medium,Portal,Customer Success,Resolved,15.89,4.6
+ST70271,C10611,2025-04-01,Training,Medium,Chat,Support,Resolved,15.264000000000001,2.7
+ST70272,C10285,2025-08-24,Hardware,High,Chat,Engineering,Pending Customer,24.9,4.1
+ST70273,C10195,2026-02-08,Performance,Low,Email,Support,Resolved,27.58,5.0
+ST70274,C10849,2025-12-27,Connectivity,Low,Chat,Support,Resolved,17.7,4.2
+ST70275,C10913,2025-01-04,Training,Low,Portal,Customer Success,Resolved,16.19,3.3
+ST70276,C10037,2025-01-21,Software,Medium,Chat,Engineering,Escalated,26.26,5.0
+ST70277,C10215,2026-07-23,Installation,High,Phone,Customer Success,Resolved,15.62,5.0
+ST70278,C10679,2025-11-03,Training,Medium,Email,Support,Resolved,9.24,4.5
+ST70279,C10165,2026-05-12,Software,High,Portal,Support,Pending Customer,5.08,5.0
+ST70280,C10050,2025-02-12,Billing,Medium,Email,Support,Open,15.71,3.9
+ST70281,C10997,2025-10-12,Software,Critical,Portal,Customer Success,Resolved,4.93,4.6
+ST70282,C10096,2025-12-01,Hardware,Medium,Chat,Support,Resolved,27.81,3.8
+ST70283,C10213,2026-06-19,Performance,Low,Phone,Customer Success,Resolved,15.71,3.1
+ST70284,C10988,2026-02-17,Connectivity,High,Phone,Support,Resolved,30.71,5.0
+ST70285,C10100,2025-12-31,Billing,High,Phone,Support,Resolved,19.94,3.0
+ST70286,C10799,2025-06-20,Installation,Medium,Email,Engineering,Pending Customer,23.75,4.3
+ST70287,C10562,2026-07-31,Training,High,Phone,Support,Open,9.93,4.3
+ST70288,C10539,2025-07-10,Performance,Medium,Portal,Customer Success,Pending Customer,14.95,4.5
+ST70289,C10827,2025-06-11,Software,Medium,Phone,Support,Resolved,19.74,4.0
+ST70290,C10021,2026-02-24,Connectivity,Low,Email,Engineering,Resolved,18.18,4.0
+ST70291,C10060,2026-08-02,Performance,Medium,Phone,Support,Open,17.63,4.2
+ST70292,C10195,2026-05-12,Billing,Low,Phone,Support,Resolved,6.98,4.5
+ST70293,C10490,2025-04-15,Software,Low,Portal,Engineering,Resolved,5.652,3.4
+ST70294,C10962,2026-04-18,Software,Low,Email,Customer Success,Resolved,6.56,4.0
+ST70295,C10068,2025-07-24,Training,Medium,Email,Support,Resolved,1.1,3.1
+ST70296,C10420,2025-05-09,Performance,High,Portal,Support,Resolved,3.63,5.0
+ST70297,C10428,2026-06-27,Connectivity,Low,Phone,Support,Resolved,20.75,4.5
+ST70298,C10196,2026-07-05,Installation,Medium,Chat,Engineering,Pending Customer,13.55,4.3
+ST70299,C10343,2025-08-03,Billing,Low,Phone,Customer Success,Resolved,8.79,3.6
+ST70300,C10200,2025-01-16,Training,Medium,Portal,Engineering,Resolved,13.35,3.3
+ST70301,C10137,2025-05-02,Connectivity,Low,Portal,Engineering,Resolved,2.47,
+ST70302,C10521,2025-11-10,Installation,Medium,Email,Support,Resolved,15.43,4.0
+ST70303,C10931,2025-02-04,Training,High,Email,Support,Resolved,5.43,4.6
+ST70304,C10404,2025-05-12,Software,Medium,Email,Customer Success,Resolved,36.37,3.1
+ST70305,C10634,2025-03-28,Installation,Medium,Chat,Customer Success,Resolved,24.5,5.0
+ST70306,C10670,2026-07-07,Software,Medium,Email,Customer Success,Resolved,23.08,4.8
+ST70307,C10843,2025-07-26,Software,Low,Chat,Support,Escalated,17.95,4.0
+ST70308,C10824,2025-08-09,Performance,Medium,Phone,Engineering,Resolved,25.94,4.5
+ST70309,C10905,2025-09-02,Performance,Low,Phone,Customer Success,Resolved,15.48,4.7
+ST70310,C10814,2025-01-08,Performance,Medium,Chat,Engineering,Escalated,8.59,3.1
+ST70311,C10930,2025-11-11,Performance,High,Chat,Support,Open,23.36,5.0
+ST70312,C10966,2026-06-14,Training,Medium,Email,Support,Open,31.84,4.5
+ST70313,C10748,2026-04-17,Software,Medium,Chat,Customer Success,Resolved,7.33,3.6
+ST70314,C10493,2025-05-26,Hardware,Low,Email,Customer Success,Pending Customer,4.13,3.3
+ST70315,C10306,2025-01-08,Training,Low,Phone,Support,Resolved,51.4,4.8
+ST70316,C10571,2026-03-25,Performance,High,Phone,Support,Resolved,39.4,4.3
+ST70317,C10828,2026-05-03,Installation,Low,Email,Customer Success,Pending Customer,16.71,4.5
+ST70318,C10753,2026-06-19,Installation,Medium,Phone,Engineering,Resolved,1.89,4.1
+ST70319,C10520,2025-12-01,Hardware,Low,Phone,Support,Escalated,19.82,3.3
+ST70320,C10076,2025-10-02,Connectivity,Low,Chat,Support,Escalated,69.02,4.5
+ST70321,C10271,2026-03-15,Hardware,Low,Chat,Support,Resolved,25.8,4.0
+ST70322,C10577,2026-02-05,Connectivity,High,Portal,Support,Resolved,24.36,4.1
+ST70323,C10385,2026-03-16,Training,Low,Phone,Support,Open,15.82,5.0
+ST70324,C10456,2025-06-14,Performance,Medium,Chat,Support,Resolved,22.88,4.8
+ST70325,C10301,2026-06-08,Billing,Low,Email,Customer Success,Resolved,25.72,4.8
+ST70326,C10076,2025-01-22,Training,Medium,Phone,Support,Resolved,18.67,5.0
+ST70327,C10466,2025-02-24,Installation,Medium,Chat,Support,Pending Customer,14.19,4.4
+ST70328,C10444,2026-01-15,Training,Medium,Email,Engineering,Escalated,18.89,4.2
+ST70329,C10781,2025-11-28,Software,Low,Chat,Support,Resolved,18.28,3.6
+ST70330,C10112,2025-11-18,Software,Low,Email,Customer Success,Open,2.32,3.8
+ST70331,C10484,2026-06-12,Hardware,High,Portal,Support,Pending Customer,60.76,2.6
+ST70332,C10853,2026-05-21,Installation,Medium,Chat,Customer Success,Resolved,24.37,4.7
+ST70333,C10267,2026-02-22,Training,Low,Chat,Customer Success,Resolved,35.44,3.1
+ST70334,C10316,2025-04-06,Installation,Medium,Phone,Support,Resolved,20.3,4.8
+ST70335,C10087,2025-02-26,Hardware,Low,Phone,Customer Success,Pending Customer,11.1,4.1
+ST70336,C10574,2025-03-23,Billing,Medium,Portal,Customer Success,Resolved,30.61,4.2
+ST70337,C10855,2025-12-23,Training,Medium,Chat,Support,Resolved,3.9,4.1
+ST70338,C10481,2026-02-18,Software,Low,Phone,Customer Success,Resolved,25.06,5.0
+ST70339,C10417,2026-04-09,Hardware,Medium,Chat,Support,Resolved,30.38,5.0
+ST70340,C10749,2025-03-01,Connectivity,Medium,Phone,Support,Resolved,15.62,4.1
+ST70341,C10441,2025-06-09,Training,High,Email,Engineering,Resolved,23.43,3.4
+ST70342,C10398,2025-07-16,Billing,Medium,Phone,Support,Resolved,2.36,4.8
+ST70343,C10763,2026-01-02,Training,Medium,Chat,Support,Pending Customer,24.14,3.4
+ST70344,C10284,2025-01-28,Performance,High,Chat,Support,Open,12.77,2.9
+ST70345,C10849,2026-05-03,Billing,Low,Portal,Engineering,Pending Customer,23.51,4.5
+ST70346,C10268,2025-02-16,Software,Medium,Email,Support,Resolved,16.13,5.0
+ST70347,C10511,2025-10-31,Connectivity,Low,Chat,Support,Resolved,15.98,3.8
+ST70348,C10250,2026-06-26,Performance,Low,Chat,Customer Success,Pending Customer,24.01,4.4
+ST70349,C10632,2025-04-23,Performance,Medium,Chat,Customer Success,Resolved,13.25,3.8
+ST70350,C10434,2026-02-03,Connectivity,Low,Phone,Support,Resolved,15.55,4.6
+ST70351,C10239,2025-11-15,Billing,Medium,Chat,Engineering,Resolved,52.83,4.9
+ST70352,C10743,2026-04-21,Installation,Medium,Portal,Support,Resolved,36.98,3.9
+ST70353,C10935,2025-12-08,Software,Low,Chat,Customer Success,Resolved,14.18,3.3
+ST70354,C10028,2026-05-07,Performance,Medium,Portal,Support,Pending Customer,16.36,3.0
+ST70355,C10567,2025-08-22,Billing,Medium,Chat,Support,Pending Customer,10.5,4.8
+ST70356,C10718,2025-04-06,Training,Medium,Email,Engineering,Open,12.8,3.2
+ST70357,C10719,2026-01-30,Training,High,Portal,Support,Escalated,13.26,4.4
+ST70358,C10220,2026-07-16,Hardware,Medium,Email,Support,Resolved,18.03,4.7
+ST70359,C10114,2025-09-09,Billing,High,Portal,Support,Resolved,2.71,3.7
+ST70360,C10513,2026-04-21,Software,Medium,Chat,Support,Resolved,12.54,4.0
+ST70361,C10636,2026-05-24,Software,Low,Email,Engineering,Pending Customer,11.0,4.8
+ST70362,C10289,2026-01-10,Training,Medium,Phone,Support,Resolved,40.19,3.5
+ST70363,C10368,2026-04-05,Hardware,Low,Chat,Engineering,Pending Customer,16.22,3.4
+ST70364,C10532,2025-11-23,Installation,Low,Phone,Support,Resolved,19.78,3.9
+ST70365,C10450,2026-04-12,Billing,Low,Phone,Engineering,Resolved,12.27,5.0
+ST70366,C10483,2025-07-14,Connectivity,High,Email,Customer Success,Open,16.32,5.0
+ST70367,C10682,2025-11-02,Hardware,High,Phone,Support,Pending Customer,12.8,4.0
+ST70368,C10984,2025-02-15,Connectivity,Critical,Email,Support,Pending Customer,18.22,3.6
+ST70369,C10796,2025-04-24,Performance,Low,Email,Customer Success,Resolved,23.39,4.9
+ST70370,C10008,2025-12-02,Billing,Medium,Chat,Support,Resolved,5.65,2.8
+ST70371,C10349,2026-02-25,Software,High,Phone,Support,Resolved,25.64,4.3
+ST70372,C10009,2025-01-18,Connectivity,Low,Chat,Customer Success,Pending Customer,7.97,4.1
+ST70373,C10873,2025-02-09,Performance,Medium,Portal,Engineering,Resolved,54.02,
+ST70374,C10644,2025-01-04,Performance,Low,Portal,Customer Success,Resolved,17.95,5.0
+ST70375,C10218,2025-10-28,Training,Medium,Chat,Engineering,Resolved,19.59,3.4
+ST70376,C10839,2025-07-14,Training,Medium,Phone,Support,Open,20.13,4.2
+ST70377,C10562,2025-01-31,Software,Low,Chat,Customer Success,Resolved,17.16,3.7
+ST70378,C10051,2026-04-06,Software,Low,Email,Support,Escalated,9.72,3.9
+ST70379,C10151,2025-11-03,Hardware,Medium,Phone,Customer Success,Resolved,19.62,4.6
+ST70380,C10809,2025-01-06,Installation,Medium,Chat,Customer Success,Resolved,18.86,3.8
+ST70381,C10289,2026-02-02,Performance,Low,Chat,Support,Open,8.84,4.2
+ST70382,C10524,2026-06-13,Performance,Low,Phone,Engineering,Resolved,5.71,4.8
+ST70383,C10895,2025-09-01,Hardware,High,Email,Support,Resolved,30.48,5.0
+ST70384,C10289,2026-07-05,Performance,Medium,Phone,Support,Resolved,12.52,4.3
+ST70385,C10011,2025-08-30,Connectivity,Medium,Email,Support,Resolved,14.81,4.2
+ST70386,C10083,2025-02-14,Installation,Medium,Chat,Support,Open,18.92,3.3
+ST70387,C10915,2025-03-13,Training,High,Phone,Support,Resolved,9.52,5.0
+ST70388,C10599,2025-02-08,Hardware,Medium,Email,Engineering,Resolved,20.8,4.5
+ST70389,C10328,2025-06-25,Performance,Low,Phone,Support,Pending Customer,15.32,4.2
+ST70390,C10078,2025-08-12,Billing,Medium,Phone,Customer Success,Resolved,16.36,
+ST70391,C10695,2025-09-15,Hardware,High,Email,Support,Resolved,34.42,4.4
+ST70392,C10039,2025-10-06,Software,Low,Email,Engineering,Pending Customer,18.44,4.7
+ST70393,C10091,2026-05-16,Installation,Low,Email,Customer Success,Pending Customer,14.29,4.8
+ST70394,C10593,2025-01-07,Performance,Low,Email,Support,Resolved,7.41,5.0
+ST70395,C10641,2026-06-05,Software,Medium,Phone,Support,Resolved,20.06,4.3
+ST70396,C10569,2025-05-19,Billing,Medium,Chat,Customer Success,Resolved,29.66,5.0
+ST70397,C10909,2026-07-08,Training,Medium,Email,Support,Resolved,14.47,4.9
+ST70398,C10269,2025-03-20,Performance,Low,Phone,Support,Open,29.51,4.1
+ST70399,C10555,2025-02-28,Connectivity,Medium,Portal,Support,Resolved,20.25,2.8
+ST70400,C10306,2025-03-12,Connectivity ,Low,Chat,Support,Resolved,17.45,4.2
+ST70401,C10362,2025-06-21,Training,Medium,Portal,Engineering,Resolved,21.94,5.0
+ST70402,C10150,2026-07-01,Billing,Low,Phone,Engineering,Resolved,5.91,3.5
+ST70403,C10793,2025-09-26,Hardware,High,Chat,Customer Success,Pending Customer,12.67,4.2
+ST70404,C10703,2025-04-06,Hardware,Medium,Email,Support,Resolved,13.02,4.2
+ST70405,C10712,2026-01-08,Connectivity,Medium,Portal,Engineering,Resolved,14.92,4.8
+ST70406,C10142,2025-10-22,Connectivity,Low,Portal,Customer Success,Resolved,48.54,3.8
+ST70407,C10117,2026-02-12,Software,Low,Email,Engineering,Resolved,17.85,3.4
+ST70408,C10782,2026-03-07,Training,Medium,Phone,Support,Open,5.14,4.5
+ST70409,C10665,2026-04-01,Connectivity,Medium,Email,Support,Pending Customer,10.51,3.5
+ST70410,C10029,2025-03-29,Billing,High,Portal,Customer Success,Escalated,16.37,2.7
+ST70411,C10664,2025-10-15,Training,Medium,Email,Engineering,Resolved,18.39,5.0
+ST70412,C10980,2026-01-01,Billing,Medium,Phone,Support,Pending Customer,1.03,4.8
+ST70413,C10751,2025-11-19,Installation,High,Chat,Support,Resolved,23.24,5.0
+ST70414,C10277,2026-07-19,Connectivity,Medium,Portal,Support,Resolved,23.91,4.8
+ST70415,C10316,2026-07-12,Training,High,Portal,Engineering,Resolved,7.14,4.6
+ST70416,C10752,2026-04-16,Training,Medium,Portal,Customer Success,Open,29.12,4.4
+ST70417,C10401,2025-05-20,Connectivity,Medium,Email,Engineering,Open,14.39,4.0
+ST70418,C10736,2025-11-03,Hardware,High,Portal,Customer Success,Resolved,8.31,4.5
+ST70419,C10960,2026-04-12,Performance,Low,Chat,Engineering,Pending Customer,6.72,3.7
+ST70420,C10405,2025-06-05,Training,Low,Email,Support,Pending Customer,22.91,3.3
+ST70421,C10573,2026-02-17,Training,Low,Chat,Support,Escalated,11.05,3.9
+ST70422,C10489,2025-05-25,Installation,Medium,Email,Customer Success,Resolved,19.73,5.0
+ST70423,C10508,2025-03-23,Billing,Medium,Email,Support,Escalated,6.55,3.2
+ST70424,C10075,2025-05-20,Installation,Low,Portal,Support,Pending Customer,13.14,3.2
+ST70425,C10986,2026-06-22,Performance,Low,Portal,Support,Resolved,21.92,4.5
+ST70426,C10540,2026-08-01,Connectivity,Low,Portal,Customer Success,Resolved,33.74,3.8
+ST70427,C10229,2026-05-12,Hardware,Low,Chat,Customer Success,Pending Customer,36.1,4.5
+ST70428,C10573,2025-06-07,Hardware,Low,Chat,Support,Open,33.3,4.8
+ST70429,C10397,2026-03-29,Hardware,Low,Phone,Engineering,Resolved,71.61,4.4
+ST70430,C10821,2025-05-07,Installation,High,Email,Support,Escalated,19.94,
+ST70431,C10759,2025-03-15,Performance,Medium,Chat,Support,Resolved,6.39,5.0
+ST70432,C10382,2025-05-31,Connectivity,Low,Chat,Support,Resolved,10.7,4.7
+ST70433,C10713,2025-03-23,Performance,Low,Email,Support,Resolved,35.47,4.1
+ST70434,C10033,2026-01-07,Training,Low,Portal,Support,Resolved,9.65,4.1
+ST70435,C10966,2026-02-01,Software,Medium,Chat,Customer Success,Resolved,0.7,4.4
+ST70436,C10510,2025-01-21,Software,Medium,Email,Customer Success,Resolved,13.5,3.9
+ST70437,C10654,2025-03-04,Performance,High,Email,Support,Resolved,28.73,2.9
+ST70438,C10645,2025-10-05,Connectivity,Medium,Phone,Engineering,Resolved,10.54,4.7
+ST70439,C10313,2025-03-07,Connectivity,Medium,Portal,Engineering,Resolved,36.61,4.6
+ST70440,C10689,2026-04-26,Software,Low,Portal,Support,Open,51.57,2.4
+ST70441,C10397,2025-08-21,Billing,Medium,Chat,Support,Resolved,19.62,4.5
+ST70442,C10680,2025-08-28,Training,High,Phone,Support,Resolved,57.4,5.0
+ST70443,C10089,2025-01-04,Installation,Low,Phone,Customer Success,Resolved,43.45,3.3
+ST70444,C10146,2026-02-11,Performance,High,Email,Support,Resolved,29.33,4.0
+ST70445,C10923,2026-02-23,Connectivity,Low,Email,Customer Success,Resolved,21.46,4.0
+ST70446,C10735,2026-03-15,Installation,Medium,Portal,Customer Success,Escalated,20.16,5.0
+ST70447,C10128,2025-11-10,Software,Low,Email,Support,Resolved,15.67,4.9
+ST70448,C10213,2025-06-06,Billing,Medium,Portal,Support,Resolved,24.47,3.4
+ST70449,C10545,2025-02-15,Connectivity,Low,Chat,Support,Resolved,2.6,4.4
+ST70450,C10005,2025-07-03,Hardware,Medium,Email,Support,Resolved,44.71,5.0
+ST70451,C10401,2025-11-12,Software,Medium,Email,Customer Success,Open,58.04,3.6
+ST70452,C10326,2025-03-09,Installation,Medium,Email,Customer Success,Escalated,2.39,4.1
+ST70453,C10134,2025-02-01,Installation,Medium,Portal,Customer Success,Resolved,28.16,4.5
+ST70454,C10299,2025-05-06,Hardware,Low,Email,Customer Success,Resolved,42.41,3.6
+ST70455,C10292,2025-02-11,Connectivity,Medium,Email,Support,Resolved,18.3,5.0
+ST70456,C10067,2025-01-09,Software,Low,Phone,Support,Resolved,15.1,3.7
+ST70457,C10633,2025-10-09,Training,Medium,Email,Support,Resolved,12.72,3.1
+ST70458,C10272,2026-03-09,Software,Low,Email,Support,Resolved,10.95,3.7
+ST70459,C10031,2025-10-17,Installation,Medium,Chat,Support,Resolved,20.8,4.6
+ST70460,C10022,2025-02-22,Performance,Medium,Email,Support,Resolved,36.42,3.5
+ST70461,C10965,2025-07-16,Training,Critical,Email,Customer Success,Pending Customer,5.256,3.6
+ST70462,C10118,2025-01-21,Installation,Medium,Email,Support,Resolved,7.66,4.5
+ST70463,C10909,2025-12-27,Connectivity ,Low,Phone,Support,Resolved,10.34,3.2
+ST70464,C10166,2025-05-16,Performance,Medium,Phone,Support,Open,4.49,3.7
+ST70465,C10084,2025-08-13,Hardware,Low,Phone,Support,Resolved,26.12,4.4
+ST70466,C10545,2026-06-08,Training,Low,Phone,Support,Resolved,23.8,4.6
+ST70467,C10868,2025-12-07,Performance,Medium,Email,Support,Resolved,30.53,3.7
+ST70468,C10071,2026-03-20,Performance,High,Portal,Support,Resolved,1.92,4.2
+ST70469,C10328,2025-07-22,Performance,High,Phone,Engineering,Pending Customer,28.11,3.9
+ST70470,C10752,2026-06-24,Billing,High,Phone,Support,Resolved,36.28,4.6
+ST70471,C10067,2026-02-19,Installation,Low,Portal,Support,Resolved,26.47,4.5
+ST70472,C10169,2025-10-27,Software,Low,Chat,Support,Open,17.26,3.8
+ST70473,C10306,2025-12-02,Software,High,Chat,Support,Resolved,15.53,4.5
+ST70474,C10806,2025-12-28,Hardware,Low,Chat,Support,Open,22.26,3.8
+ST70475,C10808,2025-04-03,Billing,Medium,Chat,Support,Resolved,20.47,4.4
+ST70476,C10709,2025-05-26,Performance,Critical,Chat,Engineering,Resolved,10.6,4.5
+ST70477,C10665,2026-02-03,Connectivity,Low,Chat,Engineering,Open,2.12,5.0
+ST70478,C10026,2025-09-13,Training,Medium,Phone,Customer Success,Resolved,11.82,3.8
+ST70479,C10238,2026-03-31,Software,High,Portal,Support,Resolved,53.78,4.0
+ST70480,C10921,2025-11-01,Performance,Medium,Portal,Support,Resolved,2.51,3.6
+ST70481,C10719,2025-02-08,Software,High,Chat,Support,Pending Customer,20.24,3.3
+ST70482,C10241,2026-01-21,Software,Medium,Portal,Customer Success,Escalated,45.74,3.8
+ST70483,C10707,2025-12-20,Training,Low,Phone,Support,Resolved,31.03,4.6
+ST70484,C10724,2025-07-31,Installation,High,Phone,Customer Success,Resolved,34.26,4.7
+ST70485,C10742,2026-04-04,Software,Medium,Portal,Support,Resolved,31.74,4.3
+ST70486,C10980,2025-07-23,Software,High,Portal,Support,Resolved,4.54,3.9
+ST70487,C10540,2025-03-08,Training,Medium,Email,Support,Resolved,40.51,3.7
+ST70488,C10059,2025-03-12,Billing,Medium,Phone,Support,Pending Customer,44.27,3.4
+ST70489,C10818,2026-06-07,Software,Medium,Email,Customer Success,Resolved,5.96,3.7
+ST70490,C10014,2025-08-07,Billing,Low,Email,Support,Resolved,12.64,3.1
+ST70491,C10641,2025-08-29,Installation,Critical,Portal,Support,Resolved,18.5,5.0
+ST70492,C10796,2025-06-27,Software,Critical,Phone,Support,Resolved,12.76,5.0
+ST70493,C10125,2026-03-04,Installation,Medium,Portal,Engineering,Resolved,9.86,2.6
+ST70494,C10797,2025-12-18,Installation,High,Chat,Support,Resolved,10.05,4.3
+ST70495,C10810,2026-06-06,Hardware,Medium,Chat,Support,Resolved,28.05,4.3
+ST70496,C10653,2026-06-03,Performance,High,Portal,Support,Resolved,33.58,4.3
+ST70497,C10323,2026-07-28,Training,Medium,Chat,Support,Resolved,10.08,3.7
+ST70498,C10201,2025-07-10,Installation,Medium,Email,Customer Success,Resolved,33.44,4.9
+ST70499,C10705,2025-12-05,Installation,Medium,Email,Support,Pending Customer,12.72,4.4
+ST70500,C10156,2025-07-20,Hardware,Medium,Portal,Support,Resolved,6.33,4.9
+ST70501,C10675,2026-02-13,Hardware,High,Chat,Support,Resolved,21.88,3.5
+ST70502,C10169,2026-03-10,Installation,Medium,Phone,Support,Pending Customer,17.89,3.1
+ST70503,C10335,2025-05-26,Billing,High,Phone,Customer Success,Resolved,22.45,4.4
+ST70504,C10506,2026-05-14,Installation,Low,Phone,Support,Resolved,22.2,3.4
+ST70505,C10161,2025-06-18,Hardware,Low,Portal,Support,Pending Customer,20.61,4.9
+ST70506,C10794,2026-07-25,Software,Medium,Chat,Customer Success,Resolved,16.42,2.5
+ST70507,C10694,2026-05-09,Connectivity,Medium,Chat,Engineering,Escalated,32.94,3.7
+ST70508,C10016,2025-01-11,Software,High,Portal,Support,Resolved,26.63,3.6
+ST70509,C10849,2025-08-19,Billing,Low,Phone,Customer Success,Resolved,13.06,3.9
+ST70510,C10716,2025-08-14,Training,Low,Phone,Support,Resolved,12.82,4.3
+ST70511,C10838,2026-04-23,Installation,Medium,Phone,Customer Success,Resolved,4.17,4.4
+ST70512,C10601,2026-02-25,Hardware,High,Email,Support,Resolved,4.82,
+ST70513,C10626,2025-01-30,Connectivity,Critical,Email,Customer Success,Resolved,15.58,4.7
+ST70514,C10383,2026-05-03,Hardware,High,Chat,Support,Resolved,30.21,4.0
+ST70515,C10227,2025-05-07,Hardware,Medium,Email,Support,Resolved,8.77,5.0
+ST70516,C10235,2025-08-03,Software,High,Phone,Customer Success,Resolved,27.45,5.0
+ST70517,C10316,2025-04-09,Performance,Low,Chat,Support,Resolved,20.1,3.9
+ST70518,C10290,2025-04-02,Hardware,High,Phone,Support,Resolved,9.23,4.0
+ST70519,C10754,2025-11-02,Billing,Medium,Email,Support,Resolved,18.37,3.9
+ST70520,C10524,2025-02-19,Hardware,Medium,Chat,Support,Open,17.87,4.4
+ST70521,C10410,2025-02-16,Hardware,Medium,Email,Support,Resolved,17.226000000000003,2.7
+ST70522,C10725,2026-04-01,Performance,High,Phone,Support,Resolved,26.24,3.5
+ST70523,C10732,2025-07-19,Hardware,Low,Portal,Support,Escalated,32.17,2.5
+ST70524,C10934,2026-01-11,Performance,Low,Phone,Customer Success,Pending Customer,13.96,3.8
+ST70525,C10309,2026-07-27,Software,Medium,Portal,Engineering,Resolved,6.87,4.9
+ST70526,C10243,2025-01-30,Software,High,Phone,Support,Resolved,33.19,4.0
+ST70527,C10006,2026-04-06,Connectivity,Medium,Portal,Support,Pending Customer,4.54,4.0
+ST70528,C10159,2025-03-05,Billing,Low,Phone,Support,Resolved,21.34,4.3
+ST70529,C10603,2026-03-18,Installation,Medium,Chat,Support,Resolved,8.76,3.3
+ST70530,C10809,2025-06-27,Hardware,Low,Chat,Customer Success,Resolved,6.38,4.1
+ST70531,C10600,2025-03-20,Performance,Low,Portal,Engineering,Resolved,11.61,4.8
+ST70532,C10991,2025-05-13,Installation,Low,Chat,Customer Success,Pending Customer,17.85,4.3
+ST70533,C10627,2025-07-31,Performance,Medium,Chat,Engineering,Resolved,7.6,4.8
+ST70534,C10882,2026-02-28,Performance,Medium,Phone,Support,Resolved,5.47,5.0
+ST70535,C10268,2026-01-30,Hardware,Low,Phone,Customer Success,Resolved,3.3,4.6
+ST70536,C10323,2026-02-27,Connectivity,Low,Email,Support,Resolved,45.76,3.6
+ST70537,C10811,2025-01-13,Software,Medium,Phone,Engineering,Open,22.53,3.8
+ST70538,C10660,2026-07-20,Training,Low,Email,Support,Pending Customer,9.29,5.0
+ST70539,C10487,2025-09-09,Installation,Low,Email,Support,Resolved,23.3,4.3
+ST70540,C10955,2025-03-06,Hardware,Medium,Chat,Customer Success,Open,17.72,4.2
+ST70541,C10762,2026-06-23,Installation,Medium,Portal,Support,Resolved,28.1,3.5
+ST70542,C10295,2026-04-05,Software,High,Phone,Engineering,Resolved,14.8,4.0
+ST70543,C10611,2025-02-17,Installation,Medium,Chat,Customer Success,Resolved,56.646,3.9
+ST70544,C10396,2025-09-11,Connectivity,Medium,Phone,Engineering,Resolved,10.39,4.1
+ST70545,C10416,2026-06-10,Training,High,Chat,Support,Resolved,19.98,3.7
+ST70546,C10805,2026-01-31,Training,Medium,Chat,Support,Pending Customer,30.18,3.9
+ST70547,C10679,2025-04-23,Billing,Medium,Portal,Customer Success,Resolved,20.68,5.0
+ST70548,C10012,2026-02-11,Hardware,Low,Chat,Support,Resolved,54.9,4.6
+ST70549,C10574,2025-04-20,Billing,Low,Chat,Support,Pending Customer,27.74,4.5
+ST70550,C10647,2025-07-24,Software,Low,Portal,Engineering,Pending Customer,23.03,4.4
+ST70551,C10510,2025-04-24,Installation,Medium,Chat,Engineering,Resolved,13.25,
+ST70552,C10299,2026-02-07,Training,High,Email,Engineering,Resolved,20.28,4.3
+ST70553,C10648,2026-06-25,Installation,Low,Email,Support,Pending Customer,37.5,4.9
+ST70554,C10947,2025-01-26,Software,Medium,Phone,Support,Resolved,12.0,3.9
+ST70555,C10085,2025-12-17,Connectivity,Critical,Phone,Engineering,Resolved,8.51,
+ST70556,C10602,2025-05-25,Billing,Medium,Phone,Support,Resolved,12.06,4.5
+ST70557,C10910,2026-03-12,Hardware,Low,Chat,Support,Resolved,11.57,4.7
+ST70558,C10400,2025-03-22,Installation,Critical,Portal,Support,Resolved,25.22,4.1
+ST70559,C10335,2025-08-01,Software,Medium,Chat,Engineering,Pending Customer,50.84,4.8
+ST70560,C10247,2025-04-30,Software,Low,Chat,Support,Resolved,4.75,3.0
+ST70561,C10224,2026-05-22,Hardware,Medium,Email,Support,Escalated,18.08,4.1
+ST70562,C10391,2025-02-17,Connectivity,Low,Portal,Support,Resolved,7.63,4.6
+ST70563,C10771,2025-12-04,Hardware,High,Email,Support,Resolved,21.96,4.3
+ST70564,C10181,2025-03-11,Performance,Low,Phone,Customer Success,Resolved,23.76,4.9
+ST70565,C10231,2025-12-14,Training,High,Portal,Support,Resolved,11.61,4.0
+ST70566,C10998,2026-03-22,Installation,Low,Portal,Support,Resolved,25.69,3.7
+ST70567,C10995,2026-03-13,Connectivity ,High,Portal,Support,Open,10.15,2.9
+ST70568,C10226,2025-01-20,Installation,Low,Portal,Support,Resolved,10.14,3.9
+ST70569,C10420,2026-03-25,Billing,High,Email,Support,Resolved,8.93,4.5
+ST70570,C10403,2025-06-22,Training,Low,Email,Engineering,Resolved,12.16,4.7
+ST70571,C10296,2026-01-31,Training,High,Phone,Support,Resolved,16.84,3.1
+ST70572,C10152,2026-07-14,Hardware,High,Chat,Support,Resolved,15.52,5.0
+ST70573,C10062,2025-03-10,Software,Medium,Phone,Support,Resolved,19.26,3.4
+ST70574,C10613,2025-07-30,Connectivity,Low,Chat,Engineering,Resolved,24.82,4.0
+ST70575,C10041,2026-05-18,Hardware,Medium,Email,Customer Success,Pending Customer,19.44,3.7
+ST70576,C10620,2025-03-24,Training,Medium,Chat,Support,Pending Customer,45.19,4.4
+ST70577,C10095,2025-06-01,Connectivity ,Medium,Phone,Support,Resolved,17.72,4.2
+ST70578,C10154,2025-11-15,Connectivity,Medium,Phone,Support,Resolved,28.72,4.6
+ST70579,C10005,2026-08-01,Installation,Critical,Email,Customer Success,Resolved,4.16,5.0
+ST70580,C10397,2025-06-20,Billing,Critical,Phone,Engineering,Resolved,19.27,4.4
+ST70581,C10327,2025-08-12,Installation,Medium,Portal,Customer Success,Pending Customer,15.39,3.7
+ST70582,C10332,2026-04-07,Training,Low,Chat,Engineering,Resolved,14.38,4.4
+ST70583,C10310,2025-03-11,Training,Low,Chat,Support,Pending Customer,37.01,5.0
+ST70584,C10938,2025-07-10,Connectivity,Medium,Chat,Support,Resolved,56.27,4.6
+ST70585,C10430,2025-07-03,Software,Critical,Chat,Customer Success,Escalated,24.99,4.8
+ST70586,C10809,2025-08-21,Billing,Medium,Phone,Customer Success,Open,3.26,2.9
+ST70587,C10232,2025-11-29,Installation,Low,Email,Support,Open,11.14,4.4
+ST70588,C10483,2025-05-09,Hardware,Medium,Portal,Support,Escalated,4.88,3.9
+ST70589,C10062,2025-08-16,Billing,Medium,Chat,Support,Resolved,18.91,3.6
+ST70590,C10258,2026-06-16,Training,Critical,Phone,Support,Resolved,22.85,4.1
+ST70591,C10071,2026-04-26,Billing,Medium,Chat,Engineering,Resolved,3.82,4.2
+ST70592,C10020,2026-07-09,Training,Low,Chat,Support,Pending Customer,41.3,3.6
+ST70593,C10182,2026-01-31,Billing,Medium,Phone,Customer Success,Pending Customer,6.29,4.2
+ST70594,C10158,2025-12-04,Installation,Low,Email,Support,Resolved,22.13,4.0
+ST70595,C10316,2025-05-04,Hardware,Medium,Chat,Customer Success,Open,40.72,4.6
+ST70596,C10743,2025-04-03,Billing,Medium,Email,Engineering,Resolved,19.17,4.3
+ST70597,C10147,2025-11-09,Connectivity,Low,Email,Customer Success,Resolved,9.64,4.4
+ST70598,C10610,2025-08-23,Connectivity,Medium,Email,Customer Success,Resolved,9.19,4.8
+ST70599,C10365,2026-04-02,Performance,High,Email,Support,Resolved,19.54,4.5
+ST70600,C10402,2025-01-06,Hardware,High,Portal,Support,Resolved,28.76,4.1
+ST70601,C10922,2026-06-01,Training,Medium,Chat,Customer Success,Open,21.59,2.5
+ST70602,C10464,2025-04-09,Software,Medium,Chat,Customer Success,Resolved,9.02,4.5
+ST70603,C10261,2025-08-18,Performance,Critical,Portal,Customer Success,Resolved,15.12,3.4
+ST70604,C10238,2025-07-26,Hardware,Medium,Portal,Customer Success,Resolved,8.03,4.0
+ST70605,C10168,2026-06-21,Performance,High,Portal,Support,Resolved,7.96,4.4
+ST70606,C10802,2026-02-22,Performance,Low,Chat,Support,Resolved,7.6,5.0
+ST70607,C10664,2025-01-21,Performance,Low,Email,Engineering,Pending Customer,12.73,5.0
+ST70608,C10267,2026-05-10,Software,Low,Email,Support,Resolved,16.31,3.4
+ST70609,C10490,2026-01-28,Performance,High,Email,Customer Success,Pending Customer,31.878000000000004,2.4
+ST70610,C10505,2025-02-09,Training,Medium,Chat,Support,Pending Customer,20.8,4.3
+ST70611,C10047,2026-03-30,Connectivity,Low,Email,Engineering,Pending Customer,9.45,4.3
+ST70612,C10908,2025-01-20,Billing,Critical,Chat,Engineering,Resolved,16.56,3.2
+ST70613,C10787,2025-09-04,Billing,High,Email,Support,Resolved,18.06,4.1
+ST70614,C10535,2025-04-05,Software,Low,Phone,Engineering,Open,34.9,4.5
+ST70615,C10715,2025-01-07,Billing,Medium,Chat,Support,Resolved,3.94,3.2
+ST70616,C10109,2025-11-21,Billing,Medium,Email,Support,Resolved,5.08,3.4
+ST70617,C10977,2026-02-03,Software,Low,Portal,Engineering,Resolved,24.14,3.6
+ST70618,C10640,2025-10-06,Connectivity,Medium,Phone,Support,Resolved,25.87,3.9
+ST70619,C10938,2025-07-18,Software,Low,Chat,Support,Resolved,24.21,4.6
+ST70620,C10864,2025-10-25,Performance,High,Chat,Customer Success,Pending Customer,24.04,3.9
+ST70621,C10584,2025-03-30,Installation,High,Email,Engineering,Resolved,4.33,4.1
+ST70622,C10288,2025-01-29,Software,High,Chat,Support,Resolved,50.9,5.0
+ST70623,C10686,2025-04-02,Training,Medium,Portal,Customer Success,Escalated,32.36,3.4
+ST70624,C10512,2025-02-01,Installation,Low,Phone,Support,Resolved,4.4,3.6
+ST70625,C10409,2026-03-23,Training,Medium,Chat,Support,Resolved,13.68,4.6
+ST70626,C10711,2025-12-20,Hardware,Medium,Chat,Customer Success,Pending Customer,13.11,4.8
+ST70627,C10888,2025-04-19,Software,Medium,Email,Support,Escalated,15.46,4.4
+ST70628,C10171,2025-11-27,Installation,Medium,Portal,Customer Success,Resolved,11.89,5.0
+ST70629,C10552,2025-10-08,Hardware,Medium,Portal,Customer Success,Resolved,6.71,4.3
+ST70630,C10778,2025-03-06,Connectivity,Low,Phone,Engineering,Resolved,18.29,2.6
+ST70631,C10325,2026-07-17,Billing,Medium,Chat,Customer Success,Pending Customer,36.38,4.2
+ST70632,C10341,2026-06-28,Training,Medium,Portal,Support,Pending Customer,11.62,3.7
+ST70633,C10009,2026-03-17,Hardware,Medium,Email,Customer Success,Resolved,20.69,5.0
+ST70634,C10323,2026-04-15,Connectivity ,Medium,Email,Customer Success,Pending Customer,15.78,4.8
+ST70635,C10586,2025-11-14,Billing,Medium,Email,Support,Resolved,24.03,2.9
+ST70636,C10971,2026-04-12,Training,High,Portal,Support,Resolved,14.79,5.0
+ST70637,C10525,2025-11-03,Software,Medium,Chat,Customer Success,Resolved,10.34,4.8
+ST70638,C10290,2025-04-07,Software,Medium,Portal,Support,Resolved,12.11,3.9
+ST70639,C10811,2025-04-08,Connectivity,Medium,Portal,Support,Escalated,35.47,4.0
+ST70640,C10187,2026-05-11,Software,Medium,Phone,Support,Resolved,17.24,5.0
+ST70641,C10187,2025-09-16,Billing,Low,Phone,Support,Open,16.84,2.6
+ST70642,C10521,2026-02-28,Training,Medium,Portal,Engineering,Resolved,34.76,4.4
+ST70643,C10815,2025-03-26,Hardware,Low,Email,Support,Pending Customer,38.96,4.9
+ST70644,C10212,2025-09-17,Hardware,High,Email,Customer Success,Resolved,1.88,4.0
+ST70645,C10015,2025-02-18,Software,High,Email,Customer Success,Pending Customer,5.2,4.6
+ST70646,C10723,2025-05-09,Installation,Medium,Email,Support,Resolved,28.36,4.2
+ST70647,C10587,2025-03-05,Connectivity,High,Portal,Support,Pending Customer,17.81,3.5
+ST70648,C10685,2025-05-01,Billing,Medium,Phone,Support,Resolved,39.05,3.5
+ST70649,C10396,2025-12-18,Performance,Low,Phone,Support,Resolved,3.96,4.6
+ST70650,C10118,2025-01-04,Connectivity,Medium,Chat,Support,Escalated,19.64,3.6
+ST70651,C10331,2025-04-23,Installation,Critical,Portal,Support,Resolved,24.87,3.0
+ST70652,C10469,2026-02-05,Installation,Low,Phone,Customer Success,Pending Customer,13.27,4.2
+ST70653,C10433,2025-03-28,Performance,Low,Chat,Support,Resolved,27.3,3.7
+ST70654,C10889,2025-11-19,Billing,Medium,Email,Support,Resolved,28.73,3.2
+ST70655,C10223,2026-05-18,Installation,Medium,Chat,Support,Pending Customer,15.92,4.2
+ST70656,C10311,2026-03-29,Billing,Medium,Email,Engineering,Pending Customer,15.15,4.7
+ST70657,C10183,2025-03-12,Billing,Medium,Phone,Support,Resolved,30.59,4.1
+ST70658,C10570,2025-03-27,Installation,High,Chat,Customer Success,Resolved,19.38,3.3
+ST70659,C10805,2026-02-14,Performance,Low,Portal,Support,Pending Customer,23.73,4.5
+ST70660,C10883,2025-07-20,Installation,Medium,Phone,Engineering,Resolved,19.32,4.9
+ST70661,C10227,2025-08-30,Training,High,Phone,Support,Escalated,18.65,5.0
+ST70662,C10429,2025-10-04,Training,Medium,Phone,Support,Resolved,15.12,5.0
+ST70663,C10736,2025-12-02,Software,Medium,Phone,Support,Resolved,24.8,3.3
+ST70664,C10045,2025-09-18,Installation,Low,Chat,Support,Open,8.8,4.7
+ST70665,C10711,2025-01-14,Training,Low,Email,Customer Success,Resolved,4.16,4.3
+ST70666,C10134,2025-02-24,Connectivity,Medium,Portal,Support,Resolved,16.82,3.2
+ST70667,C10033,2025-01-01,Connectivity,Medium,Chat,Support,Resolved,39.43,4.3
+ST70668,C10113,2025-06-03,Billing,Medium,Portal,Support,Escalated,19.41,5.0
+ST70669,C10881,2026-04-20,Training,Medium,Portal,Customer Success,Resolved,14.12,5.0
+ST70670,C10680,2026-07-18,Software,High,Phone,Engineering,Escalated,12.81,3.3
+ST70671,C10789,2025-10-03,Billing,High,Chat,Support,Resolved,12.18,4.1
+ST70672,C10690,2025-01-16,Connectivity,Low,Portal,Engineering,Resolved,0.94,4.5
+ST70673,C10796,2025-02-11,Training,Low,Chat,Customer Success,Resolved,35.97,2.8
+ST70674,C10496,2026-04-18,Performance,High,Phone,Support,Resolved,11.26,2.8
+ST70675,C10809,2025-07-19,Performance,Medium,Email,Support,Resolved,17.04,4.2
+ST70676,C10056,2026-05-27,Installation,Medium,Chat,Support,Resolved,13.51,4.2
+ST70677,C10582,2025-10-21,Performance,Low,Portal,Support,Resolved,9.84,2.7
+ST70678,C10755,2026-05-25,Hardware,Medium,Portal,Customer Success,Open,37.17,4.4
+ST70679,C10993,2025-03-20,Training,Low,Phone,Support,Resolved,6.98,4.9
+ST70680,C10359,2026-05-13,Connectivity,Low,Phone,Support,Resolved,25.37,3.9
+ST70681,C10179,2025-11-13,Software,Medium,Phone,Customer Success,Resolved,4.77,4.1
+ST70682,C10720,2025-09-11,Billing,Medium,Email,Support,Resolved,15.21,4.5
+ST70683,C10072,2025-11-03,Hardware,Low,Chat,Engineering,Open,33.87,4.4
+ST70684,C10776,2025-07-09,Billing,Medium,Portal,Customer Success,Pending Customer,11.8,2.8
+ST70685,C10704,2025-12-16,Connectivity,Medium,Email,Support,Pending Customer,23.89,3.4
+ST70686,C10691,2026-03-23,Connectivity,Medium,Phone,Support,Resolved,11.39,3.8
+ST70687,C10293,2026-04-15,Performance,Medium,Phone,Support,Resolved,13.24,3.5
+ST70688,C10120,2026-07-22,Software,Low,Email,Engineering,Pending Customer,27.66,5.0
+ST70689,C10608,2025-08-28,Software,Medium,Chat,Support,Escalated,24.25,4.6
+ST70690,C10362,2026-03-22,Billing,High,Phone,Engineering,Resolved,39.71,3.3
+ST70691,C10391,2026-05-31,Hardware,Low,Chat,Engineering,Resolved,11.76,3.9
+ST70692,C10187,2025-01-11,Hardware,High,Phone,Support,Open,21.28,4.9
+ST70693,C10333,2025-10-03,Training,Low,Email,Customer Success,Escalated,17.73,3.6
+ST70694,C10831,2026-02-11,Billing,Medium,Email,Support,Resolved,21.69,4.7
+ST70695,C10893,2025-09-23,Installation,Medium,Chat,Support,Resolved,32.19,5.0
+ST70696,C10348,2025-02-28,Hardware,High,Phone,Engineering,Pending Customer,10.22,
+ST70697,C10142,2026-01-16,Training,Low,Email,Support,Open,20.7,4.2
+ST70698,C10033,2025-08-24,Training,Low,Email,Engineering,Resolved,36.89,5.0
+ST70699,C10188,2025-12-25,Training,Medium,Phone,Customer Success,Resolved,17.75,3.7

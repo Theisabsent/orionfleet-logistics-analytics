@@ -1,0 +1,101 @@
+employee_id,department,region,tenure_months,monthly_target
+E100,Engineering,Mumbai,27,78809.96
+E101,Finance,Hyderabad,15,77336.33
+E102,Operations,Hyderabad,55,103711.96
+E103,Sales,Mumbai,84,92500.61
+E104,Engineering,Delhi NCR,88,27524.89
+E105,Operations,Kochi,11,29698.62
+E106,Marketing,Bengaluru,32,82148.05
+E107,Sales,Kochi,16,71188.25
+E108,Operations,Bengaluru,30,49717.54
+E109,Operations,Bengaluru,52,64772.33
+E110,Operations,Pune,28,97001.48
+E111,Finance,Kochi,8,103528.09
+E112,Engineering,Chennai,49,78316.19
+E113,Engineering,Hyderabad,6,61610.1
+E114,Marketing,Hyderabad,23,50716.19
+E115,Operations,Delhi NCR,2,74582.25
+E116,Engineering,Delhi NCR,10,54901.21
+E117,Support,Ahmedabad,43,78589.04
+E118,Support,Mumbai,81,89281.98
+E119,Finance,Bengaluru,74,31277.53
+E120,Marketing,Ahmedabad,11,25101.41
+E121,Engineering,Bengaluru,5,45166.33
+E122,Finance,Hyderabad,33,109978.59
+E123,Finance,Delhi NCR,63,86397.62
+E124,Marketing,Delhi NCR,72,41336.23
+E125,Operations,Chennai,79,109575.08
+E126,Customer Success,Ahmedabad,34,69645.81
+E127,Finance,Ahmedabad,17,70228.72
+E128,Sales,Mumbai,4,113876.48
+E129,Customer Success,Ahmedabad,15,30651.24
+E130,Marketing,Pune,8,45441.94
+E131,Engineering,Hyderabad,82,80648.28
+E132,Support,Ahmedabad,27,43571.22
+E133,Customer Success,Bengaluru,79,89555.07
+E134,Support,Chennai,53,45338.77
+E135,Finance,Kochi,52,34419.91
+E136,Support,Bengaluru,44,44663.59
+E137,Sales,Mumbai,79,65159.73
+E138,Support,Delhi NCR,6,41733.14
+E139,Customer Success,Ahmedabad,10,37795.74
+E140,Finance,Bengaluru,41,106726.78
+E141,Engineering,Pune,39,55437.73
+E142,Engineering,Delhi NCR,53,59272.08
+E143,Finance,Hyderabad,71,30250.69
+E144,Customer Success,Pune,57,58950.11
+E145,Support,Kochi,26,50156.68
+E146,Operations,Chennai,32,82996.08
+E147,Engineering,Bengaluru,72,44512.08
+E148,Marketing,Bengaluru,20,109394.72
+E149,Marketing,Delhi NCR,49,113318.33
+E150,Customer Success,Chennai,52,34483.95
+E151,Customer Success,Chennai,72,35203.28
+E152,Marketing,Bengaluru,69,35956.01
+E153,Support,Chennai,45,83859.08
+E154,Finance,Mumbai,31,36587.05
+E155,Support,Pune,36,105976.32
+E156,Support,Kochi,40,96655.79
+E157,Finance,Pune,22,102881.84
+E158,Marketing,Hyderabad,60,74975.75
+E159,Customer Success,Ahmedabad,21,119684.34
+E160,Marketing,Hyderabad,62,29196.63
+E161,Operations,Ahmedabad,72,63120.17
+E162,Customer Success,Hyderabad,92,55773.98
+E163,Engineering,Chennai,13,115121.32
+E164,Engineering,Hyderabad,73,79801.79
+E165,Engineering,Hyderabad,10,101588.14
+E166,Customer Success,Pune,33,41182.41
+E167,Marketing,Pune,18,117970.24
+E168,Engineering,Hyderabad,17,72370.76
+E169,Engineering,Ahmedabad,18,71898.85
+E170,Sales,Mumbai,6,117234.05
+E171,Marketing,Mumbai,79,61169.57
+E172,Engineering,Mumbai,7,62764.88
+E173,Marketing,Delhi NCR,39,80551.51
+E174,Operations,Bengaluru,67,37165.0
+E175,Marketing,Delhi NCR,95,55503.13
+E176,Sales,Bengaluru,82,43354.79
+E177,Support,Hyderabad,14,34811.93
+E178,Finance,Mumbai,94,107283.74
+E179,Support,Pune,63,80986.46
+E180,Finance,Kochi,18,59073.92
+E181,Operations,Mumbai,44,63823.59
+E182,Finance,Mumbai,88,65994.31
+E183,Finance,Kochi,38,85149.17
+E184,Finance,Pune,19,113043.09
+E185,Customer Success,Kochi,84,113614.06
+E186,Customer Success,Ahmedabad,91,62191.74
+E187,Operations,Kochi,93,56279.93
+E188,Support,Ahmedabad,91,67849.42
+E189,Finance,Delhi NCR,84,78953.75
+E190,Customer Success,Delhi NCR,44,68872.7
+E191,Customer Success,Mumbai,20,87581.57
+E192,Customer Success,Bengaluru,60,77667.91
+E193,Operations,Pune,22,55467.98
+E194,Finance,Pune,46,57844.43
+E195,Marketing,Kochi,63,60966.31
+E196,Customer Success,Bengaluru,90,33990.78
+E197,Engineering,Delhi NCR,29,40775.95
+E198,Support,Bengaluru,25,93695.81
+E199,Operations,Ahmedabad,71,61964.19

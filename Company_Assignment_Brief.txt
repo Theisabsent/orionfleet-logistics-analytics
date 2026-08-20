@@ -1,0 +1,45 @@
+ORIONFLEET LOGISTICS
+DATA SCIENCE / BUSINESS ANALYTICS ASSESSMENT — STAGE 1B
+
+Confidential — Internal Assessment
+
+COMPANY BACKGROUND
+OrionFleet Logistics is a fictional mid-sized logistics technology company providing fleet-management software, tracking hardware, maintenance, connectivity and analytics solutions to businesses operating vehicle fleets across several Indian markets.
+
+BUSINESS CONTEXT
+Management is reviewing customer growth, revenue quality, product performance, customer support and marketing effectiveness. Leadership wants an independent analytical view before making decisions about sales investment, product priorities, customer retention and service operations.
+
+ASSIGNMENT
+You have received raw business datasets from several operational systems. Analyze them and prepare a decision-oriented analytical deliverable for management.
+
+No prescribed analytical method is provided. Select appropriate methods and explain your major choices.
+
+Management expects you to:
+• understand and assess data quality;
+• identify important patterns, trends, relationships, anomalies or risks;
+• determine which findings are meaningful to the business;
+• quantify important findings where possible;
+• explain business implications;
+• provide practical evidence-based recommendations;
+• communicate results clearly to a non-technical decision-maker.
+
+You may combine datasets where appropriate. Do not assume every field is reliable without checking.
+
+DELIVERABLES
+1. Data understanding and data-quality summary.
+2. Exploratory/analytical findings.
+3. Key business insights.
+4. Evidence-based recommendations.
+5. At least one clear visualization/dashboard or equivalent analytical presentation.
+6. Concise executive summary.
+7. Short methodology note explaining major analytical choices.
+
+DEADLINE
+Submit within 48 hours of receiving this assessment.
+
+There is no prescribed step-by-step solution. Decide how to structure the work.
+
+IMPORTANT
+This is a fictional assessment. Do not contact real people or companies based on the exercise.
+
+Evaluation considers analytical accuracy, data handling, insight quality, business reasoning, communication, visualization, documentation, independence and timeliness.
